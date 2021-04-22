@@ -1,0 +1,21 @@
+baseURL = "http://localhost:1313/"
+languageCode = "vi"
+title = "My New Hugo Site"
+
+theme = "business"
+
+defaultContentLanguage = "vi"
+
+[languages]
+  [languages.vi]
+    title = "Anphabe Business"
+    weight = 1
+  [languages.en]
+    title = "English"
+    weight = 2
+    
+[module]
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+    lang   = "en"
