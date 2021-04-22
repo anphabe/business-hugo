@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://anphabe.github.io/business-hugo/"
 languageCode = "vi"
 title = "My New Hugo Site"
 
@@ -16,6 +16,6 @@ defaultContentLanguage = "vi"
     
 [module]
   [[module.mounts]]
-    source = "static"
+    source = "theme/"
     target = "static"
     lang   = "en"
