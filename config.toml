@@ -19,3 +19,23 @@ defaultContentLanguage = "vi"
     source = "theme/"
     target = "static"
     lang   = "en"
+
+[frontmatter]
+  date = ["date", "publishDate", "lastmod", ":git"]
+  expiryDate = ["expiryDate"]
+  lastmod = [":git", "lastmod", "date", "publishDate"]
+  publishDate = ["publishDate", "date"]
+
+
+[related]
+    threshold = 0 
+    includeNewer = true
+    toLower = false
+
+    [[related.indices]]
+        name = "title"
+        weight = 100
+
+    [[related.indices]]
+        name = "date"
+        weight = 10

@@ -1,4 +1,4 @@
-{{ range first 3 (where site.RegularPages.ByDate "Section" "featured-news")}}
+{{ range first 3 (where site.RegularPages.ByDate.Reverse "Section" "post")}}
     {{ if (.Params.field_url) }}
     <div class="item features-image сol-12 col-md-6 col-lg-4">
         <div class="item-wrapper">
