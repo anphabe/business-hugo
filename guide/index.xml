@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guides on Anphabe Business</title><link>https://business.anphabe.com/guide/</link><description>Recent content in Guides on Anphabe Business</description><generator>Hugo -- gohugo.io</generator><language>vi</language><lastBuildDate>Wed, 28 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://business.anphabe.com/guide/index.xml" rel="self" type="application/rss+xml"/><item><title>How to use Markdown</title><link>https://business.anphabe.com/guide/markdown/</link><pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate><guid>https://business.anphabe.com/guide/markdown/</guid><description>How to use Markdown The quick and easy way to format web pages
+Link URL link http://www.example.com
+&amp;lt;http://www.example.com&amp;gt; Email link address@example.com
+&amp;lt;address@example.com&amp;gt; Text link This is an example link.
+This is an [example link](http://example.com/). Bold and italic text one asterisk on each end makes the text italic
+*one asterisk on each end makes the text italic* two asterisks on each end makes text bold
+**two asterisks on each end makes text bold** three asterisk on each end makes text bold and italic</description></item></channel></rss>
