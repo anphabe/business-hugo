@@ -10,12 +10,10 @@ image: /images/uploads/1.jpg
 
 Khảo sát Nơi làm việc tốt nhất Việt Nam do Anphabe khởi xướng thực hiện từ 2013 và là một trong những khảo sát đầu tiên chuyên đo lường sức hấp dẫn thương hiệu nhà tuyển dụng tại thị trường Việt Nam. Đến nay, khảo sát được thực hiện hàng năm, thu hút hàng trăm doanh nghiệp đến từ 20 ngành nghề tham gia. 
 
-
 Khảo sát do Phòng thương mại và công nghiệp Việt Nam (VCCI) bảo trợ. Mô hình và phương pháp đánh giá của khảo sát hằng năm được kiểm chứng bởi đơn vị thứ ba (Nielsen Việt Nam, Intage Việt Nam) để đảm bảo tính công bằng và khách quan của kết quả.
 
 \
 **Khảo sát Nơi làm việc tốt nhất Việt Nam đánh giá và đo lường những gì?**
-
 
 Khảo sát này tập trung nghiên cứu và đo lường các xu hướng mới nhất trong mong muốn và kỳ vọng của người đi làm tại Việt Nam về môi trường làm việc. Đối tượng tham gia khảo sát là người đi làm có kinh nghiệm trong 20 lĩnh vực ngành nghề trên toàn quốc. Đồng thời, khảo sát còn đánh giá sức khỏe Thương hiệu nhà tuyển dụng của các doanh nghiệp tham gia khảo sát, dựa trên cảm nhận của người đi làm tại Việt Nam.
 
@@ -24,6 +22,7 @@ Từ đó, Anphabe đưa ra các chỉ số sức khỏe Thương hiệu nhà tu
 
 ![100 nơi làm việc tốt nhất Việt Nam](/images/uploads/top-100.jpg "100 nơi làm việc tốt nhất Việt Nam")
 
+*Hội nghị Nơi làm việc tốt nhất Việt Nam năm 2020*
 
 **3 lý do doanh nghiệp nên tham gia Khảo sát Nơi làm việc tốt nhất Việt Nam**
 
@@ -33,11 +32,14 @@ Tham gia khảo sát, bên cạnh cơ hội gia tăng mức độ nhận biết 
 2. ***Cải thiện nội lực tổ chức:*** Doanh nghiệp tham gia gói khảo sát và đánh giá chuyên sâu còn được cung cấp báo cáo phân tích hình ảnh thương hiệu nhà tuyển dụng với các điểm mạnh, điểm yếu cụ thể. Báo cáo này còn kèm theo các đề xuất ưu tiên cải thiện môi trường làm việc và đẩy mạnh thương hiệu nhà tuyển dụng của công ty.  
 3. ***Cơ hội được vinh danh Top 100 Nơi làm việc tốt nhất Việt Nam:*** Doanh nghiệp tham gia khảo sát nếu được người đi làm bình chọn sẽ có cơ hội được ghi nhận và vinh danh tại Hội nghị Nơi làm việc tốt nhất Việt Nam. Nhờ đó, hình ảnh Thương hiệu nhà tuyển dụng của doanh nghiệp sẽ được quảng bá rộng rãi đến đông đảo người đi làm và lan tỏa niềm tự hào với nhân viên nội bộ.
 
+   ![Hộp thông tin](/images/uploads/capture-2.png "Hộp thông tin")
+
+   *Để tham gia khảo sát Nơi làm việc tốt nhất Việt Nam và đo lường sức khỏe THNTD chuyên sâu, vui lòng liên hệ Anphabe để được tư vấn:*
 
 
-   ![Hộp thông tin](/images/uploads/capture.png "Hộp thông tin")
+
+   *Điện thoại: (+84 28) 6268 2222*
 
 
-   *Để tham gia khảo sát Nơi làm việc tốt nhất Việt Nam và đo lường sức khỏe THNTD chuyên sâu, vui lòng liên hệ Anphabe để được tư vấn:
-   Điện thoại: (+84 28) 6268 2222
-   Email: clientsolution@anphabe.com*
+
+   *Email: clientsolution@anphabe.com*
