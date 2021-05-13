@@ -1,6 +1,6 @@
-{{ range first 3 (where site.RegularPages.ByDate.Reverse "Section" "post")}}
+{{ range first 6 (where site.RegularPages.ByDate.Reverse "Section" "post")}}
     {{ if (.Params.field_url) }}
-    <div class="item features-image сol-12 col-md-6 col-lg-4">
+    <div class="item features-image сol-12 col-md-6 col-lg-4 mb-4">
         <div class="item-wrapper">
             <div class="item-img">
                 <a href="{{ .Params.field_url }}" target="_blank"><img src="{{ .Params.image | absURL }}" alt="Workplace from Facebook " data-slide-to="1" style="max-width:348px; max-height: 227px;"></a>
@@ -13,7 +13,7 @@
         </div>
     </div>
     {{ else }}
-    <div class="item features-image сol-12 col-md-6 col-lg-4">
+    <div class="item features-image сol-12 col-md-6 col-lg-4 mb-4">
         <div class="item-wrapper">
             <div class="item-img">
                 <a href="{{ .Permalink }}" target="_blank"><img src="{{ .Params.image | absURL }}" alt="Workplace from Facebook " data-slide-to="1" style="max-width:348px; max-height: 227px;"></a>
