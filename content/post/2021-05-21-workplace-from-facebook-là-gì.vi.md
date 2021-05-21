@@ -14,7 +14,7 @@ Xin phép mạnh dạn đi thẳng vào vấn đề luôn: Workplace là nền t
 
 Facebook giới thiệu Workplace lần đầu vào năm 2015 và bản beta được công bố một năm sau đó – vào tháng 10/2016. Lúc đầu, Workplace chủ yếu phục vụ nhu cầu giao tiếp, phối hợp làm việc nội bộ của các nhân viên Facebook. Kể từ khi phiên bản dành cho các doanh nghiệp được công bố đến nay, đã có hơn 30.000 công ty và trên 2 triệu người sử dụng Workplace trên toàn cầu.
 
-###### **Tại sao cần Workplace trong khi đã có nhiều cách khác để truyền thông nội bộ?**
+### **Tại sao cần Workplace trong khi đã có nhiều cách khác để truyền thông nội bộ?**
 
 Như trên đã nói, Workplace không chỉ là một nền tảng truyền thông nội bộ mà còn giúp doanh nghiệp “thổi luồng gió mới” vào văn hóa nội bộ, khơi thông các nguồn ý tưởng sáng tạo từ mọi cấp độ nhân viên, xóa dần các rào cản do “silo”, đẩy nhanh tốc độ hợp tác làm việc và cải thiện hiệu quả công việc chung.
 
@@ -30,7 +30,7 @@ Một khía cạnh tích cực là Workplace kế thừa giao diện và đầy 
 
 Cho nên, việc triển khai Workplace trong toàn công ty không mất nhiều thời gian, nhân viên nhanh chóng làm quen và sử dụng được ngay. Nhờ vậy, doanh nghiệp **[tiết kiệm chi phí chuyển đổi đáng kể.](https://workplace.anphabe.com/?utm_source=facebook&utm_medium=Discussion&utm_campaign=Workplace2021&utm_term=&utm_content=SEOworkplacelagi)**
 
-###### Vậy các tính năng của Workplace có gì vượt trội?
+### Vậy các tính năng của Workplace có gì vượt trội?
 
 Workplace tích hợp đầy đủ tính năng như: Bảng tin, Nhóm, Chat, Bình luận, Phòng họp, Phát video trực tiếp, Thăm dò ý kiến, Hỏi-Đáp... giúp mọi người phối hợp làm việc tiện lợi và hiệu quả. Hãy thử tìm hiểu vài lợi ích cụ thể mà các tính năng này mang lại nhé!
 
@@ -54,6 +54,6 @@ Vậy nếu công ty sắp thực hiện một số thay đổi và muốn thăm
 
 Hãy bắt đầu từ việc xác định nhu cầu cụ thể của doanh nghiệp và mục đích triển khai Workplace! Nếu muốn một nền tảng nội bộ giúp doanh nghiệp **truyền thông trúng đích, gia tăng gắn kết và hợp tác nội bộ, thúc đẩy sáng tạo và nâng cao hiệu suất làm việc,** Workplace là giải pháp đáng cân nhắc.
 
-Doanh nghiệp bạn đã biết và bắt đầu sử dụng Workplace chưa? Hãy chia sẻ trải nghiệm của bạn bên dưới comment nhé! Hoặc tìm hiểu thêm thông tin chi tiết tại https://anpha.be/3bGji9u**[](https://anpha.be/32Ks1mS).**   
+Doanh nghiệp bạn đã biết và bắt đầu sử dụng Workplace chưa? Hãy chia sẻ trải nghiệm của bạn bên dưới comment nhé! Hoặc tìm hiểu thêm thông tin chi tiết tại https://anpha.be/3bGji9u[](https://anpha.be/32Ks1mS)**.**   
 
 ![](/images/uploads/5.jpg)
