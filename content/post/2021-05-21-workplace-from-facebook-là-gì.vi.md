@@ -30,11 +30,13 @@ Một khía cạnh tích cực là Workplace kế thừa giao diện và đầy 
 
 Cho nên, việc triển khai Workplace trong toàn công ty không mất nhiều thời gian, nhân viên nhanh chóng làm quen và sử dụng được ngay. Nhờ vậy, doanh nghiệp **[tiết kiệm chi phí chuyển đổi đáng kể.](https://workplace.anphabe.com/?utm_source=facebook&utm_medium=Discussion&utm_campaign=Workplace2021&utm_term=&utm_content=SEOworkplacelagi)**
 
-### Vậy các tính năng của Workplace có gì vượt trội?
+### **Vậy các tính năng của Workplace có gì vượt trội?**
 
 Workplace tích hợp đầy đủ tính năng như: Bảng tin, Nhóm, Chat, Bình luận, Phòng họp, Phát video trực tiếp, Thăm dò ý kiến, Hỏi-Đáp... giúp mọi người phối hợp làm việc tiện lợi và hiệu quả. Hãy thử tìm hiểu vài lợi ích cụ thể mà các tính năng này mang lại nhé!
 
-Chẳng hạn, **người sếp nào** cũng canh cánh nỗi lo **truyền thông nội bộ**: cố gắng **truyền mãi mà không thông** được khắp mọi “tầng lớp nhân viên”. Với Workplace, CEO có thể phát video trực tiếp (livestream) đến toàn bộ nhân viên, trò chuyện và tương tác theo thời gian thực. Nhờ vậy, thông điệp quan trọng được truyền tải thẳng đến đúng đối tượng, từ nhóm nhân viên “hậu phương” (backoffice) cho đến nhóm “tiền tuyến” (frontliner) và giảm thiểu sai lệch thông tin. Đồng thời, CEO cũng có thể nhận được phản hồi ngay lập tức của nhân viên từ mọi nơi.
+Chẳng hạn, **người sếp nào** cũng canh cánh nỗi lo **truyền thông nội bộ**: cố gắng **truyền mãi mà không thông** được khắp mọi “tầng lớp nhân viên”. 
+
+Với Workplace, CEO có thể phát video trực tiếp (livestream) đến toàn bộ nhân viên, trò chuyện và tương tác theo thời gian thực. Nhờ vậy, thông điệp quan trọng được truyền tải thẳng đến đúng đối tượng, từ nhóm nhân viên “hậu phương” (backoffice) cho đến nhóm “tiền tuyến” (frontliner) và giảm thiểu sai lệch thông tin. Đồng thời, CEO cũng có thể nhận được phản hồi ngay lập tức của nhân viên từ mọi nơi.
 
 ![](/images/uploads/3.png)
 
@@ -43,6 +45,8 @@ Hoặc người làm **Nhân sự nào cũng mong muốn gia tăng gắn kết 
  Nhưng với Workplace, mọi nhân viên ở mọi cấp độ **dù không có tài khoản email công ty vẫn có thể tiếp cận thông tin cập nhật đầy đủ**, thông qua ứng dụng Workplace trên điện thoại thông minh. Nhân sự có thể dùng chức năng Tạo chiến dịch (Campaign) để đăng thông tin phát động một cuộc thi nội bộ trên Bảng tin và lập tức mọi nhân viên đều nhận được thông báo về hoạt động thi đua này. Hơn thế nữa, nhân viên có thể bình luận, tương tác trực tiếp ngay trên Workplace và Nhân sự có thể theo sát tình hình, đo lường được mức độ hiệu quả của hoạt động thi đua. 
 
 Tìm hiểu thêm tại: https://anpha.be/3bGji9u 
+
+
 
 ![](/images/uploads/4.png)
 
@@ -54,6 +58,8 @@ Vậy nếu công ty sắp thực hiện một số thay đổi và muốn thăm
 
 Hãy bắt đầu từ việc xác định nhu cầu cụ thể của doanh nghiệp và mục đích triển khai Workplace! Nếu muốn một nền tảng nội bộ giúp doanh nghiệp **truyền thông trúng đích, gia tăng gắn kết và hợp tác nội bộ, thúc đẩy sáng tạo và nâng cao hiệu suất làm việc,** Workplace là giải pháp đáng cân nhắc.
 
-Doanh nghiệp bạn đã biết và bắt đầu sử dụng Workplace chưa? Hãy chia sẻ trải nghiệm của bạn bên dưới comment nhé! Hoặc tìm hiểu thêm thông tin chi tiết tại https://anpha.be/3bGji9u[](https://anpha.be/32Ks1mS)**.**   
+Doanh nghiệp bạn đã biết và bắt đầu sử dụng Workplace chưa? Hãy chia sẻ trải nghiệm của bạn bên dưới comment nhé! 
+
+Hoặc tìm hiểu thêm thông tin chi tiết tại https://anpha.be/3bGji9u[](https://anpha.be/32Ks1mS)**.**   
 
 ![](/images/uploads/5.jpg)
