@@ -46,8 +46,6 @@ Hoặc người làm **Nhân sự nào cũng mong muốn gia tăng gắn kết 
 
 Tìm hiểu thêm tại: https://anpha.be/3bGji9u 
 
-
-
 ![](/images/uploads/4.png)
 
 Và trong bối cảnh nơi nơi đều tăng cường phối hợp làm việc nhóm, **Workplace có sẵn tính năng tạo Nhóm** (Group)**.** Một khi đã tham gia Nhóm, mọi thành viên của dự án đều nhận được thông báo nhanh, nắm bắt ngay các thay đổi của dự án, có thể phản hồi tức thì và **cùng nhau vận hành công việc trôi chảy dù phải làm việc từ xa**. Chưa hết, công ty còn có thể triển khai hoạt động huấn luyện, chia sẻ kiến thức thuận lợi bằng tính năng **tạo Phòng họp mặt** (Meeting room) và tạo **Thư viện Kiến thức** (Knowledge Library) trên Workplace.  
@@ -60,6 +58,6 @@ Hãy bắt đầu từ việc xác định nhu cầu cụ thể của doanh nghi
 
 Doanh nghiệp bạn đã biết và bắt đầu sử dụng Workplace chưa? Hãy chia sẻ trải nghiệm của bạn bên dưới comment nhé! 
 
-Hoặc tìm hiểu thêm thông tin chi tiết tại https://anpha.be/3bGji9u[](https://anpha.be/32Ks1mS)**.**   
+Hoặc tìm hiểu thêm thông tin chi tiết tại: <https://anpha.be/3bGji9u>
 
 ![](/images/uploads/5.jpg)
