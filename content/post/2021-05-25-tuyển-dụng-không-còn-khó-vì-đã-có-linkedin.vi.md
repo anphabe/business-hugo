@@ -63,12 +63,4 @@ Các nhóm trên LinkedIn là nơi hội tụ những chuyên gia cùng ngành n
 
 Ngoài các thông tin tuyển dụng, bạn cũng nên thường xuyên đóng góp những bài chia sẻ hữu ích trên nhóm. Nếu các thành viên có phản ứng tích cực với bài đăng của bạn, bạn có thể mời họ kết nối, theo dõi trang công ty của mình.
 
-![Anphabe là đối tác chính thức của Linkedin tại thị trường Việt Nam](/images/uploads/file-deliver1.png "Anphabe là đối tác chính thức của Linkedin tại thị trường Việt Nam")
-
-***Từ tháng 9/2019, Anphabe trở thành đối tác chính thức của Linkedin tại thị trường Việt Nam.*** 
-
-***Doanh nghiệp có nhu cầu tuyển dụng và đẩy mạnh thương hiệu nhà tuyển dụng đột phá, vui lòng liên hệ Anphabe Team:***  
-
-***\*Hotline:   (84) 98 865 7881 hoặc (84 28) 6268 2222, ext. 107***  
-
-***\*Email:  huong.ha@anphabe.com***
+![Anphabe là đối tác chính thức của Linkedin tại thị trường Việt Nam](/images/uploads/123.jpg "Anphabe là đối tác chính thức của Linkedin tại thị trường Việt Nam")
