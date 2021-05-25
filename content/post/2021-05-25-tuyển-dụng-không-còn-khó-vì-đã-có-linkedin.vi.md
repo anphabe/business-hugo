@@ -4,7 +4,7 @@ draft: false
 date: 2021-05-25
 image: /images/uploads/file-deliver.jpg
 ---
-Với gần 700 triệu thành viên ở hơn 200 quốc gia trên thế giới, LinkedIn là mạng xã hội nghề nghiệp dành cho người đi làm lớn nhất hiện nay. Riêng tại Việt Nam, trang này đã cung cấp hơn 3 triệu hồ sơ cá nhân. Thật không ngoa khi nói rằng đây là công cụ cực kỳ hữu ích giúp kết nối doanh nghiệp với các ứng viên tiềm năng đang có nhu cầu tìm kiếm cơ hội việc làm. Đặc biệt trong giai đoạn khó khăn do ảnh hưởng của đại dịch Covid-19, LinkedIn càng khẳng định vị thế của mình trên hành trình chuyển đổi số của thị trường tuyển dụng.
+Với gần 700 triệu thành viên ở hơn 200 quốc gia trên thế giới, LinkedIn là mạng xã hội nghề nghiệp dành cho người đi làm lớn nhất hiện nay. Đặc biệt trong giai đoạn khó khăn do ảnh hưởng của đại dịch Covid-19, LinkedIn càng khẳng định vị thế trên hành trình chuyển đổi số của thị trường tuyển dụng.
 
 ![LinkedIn có gần 700 triệu thành viên ở hơn 200 quốc gia trên thế giới](/images/uploads/file-deliver.jpg "LinkedIn có gần 700 triệu thành viên ở hơn 200 quốc gia trên thế giới")
 
@@ -18,7 +18,7 @@ Còn nếu bạn là doanh nghiệp vừa và nhỏ, không có ngân sách tuy�
 
 Do đó, hãy tham khảo những bước sau đây để biến kế hoạch tuyển dụng miễn phí trên LinkedIn trở nên có giá trị.
 
-**1. Tạo ấn tượng với trang tuyển dụng chuyên nghiệp**
+##### **1. Tạo ấn tượng với trang tuyển dụng chuyên nghiệp**
 
 Bà Leona Watson - người sáng lập Cheeky Food Group (tập đoàn về thực phẩm nổi tiếng tại Úc và New Zealand) và ông David Bitton - người thành lập Bitton Café (quán cà phê nổi tiếng tại thành phố Alexandria ở Ai Cập), đã từng chia sẻ: “Chỉ 5% nỗ lực gia tăng cũng làm nên 90% kết quả bài thuyết trình của bạn. Người ta vẫn thường “ăn bằng mắt” trước mà.” 
 
@@ -30,7 +30,7 @@ Do vậy, trước khi tìm kiếm những ứng viên tiềm năng trên Linked
 
 Cũng nên nhớ rằng, xây xong trang tuyển dụng vẫn là chưa đủ. Bạn cần thường xuyên cập nhật để đảm bảo các thông tin liên hệ, vị trí kinh doanh,... của công ty luôn chính xác.
 
-##### 2. Chia sẻ câu chuyện thương hiệu cùng những nội dung có giá trị
+##### **2. Chia sẻ câu chuyện thương hiệu cùng những nội dung có giá trị**
 
 Khi đã xây trang xong, HR cần “chăm sóc” nó một cách kỹ lưỡng. Việc tạo và xuất bản những nội dung hay và hữu ích có thể giúp bạn quảng bá hình ảnh nhà tuyển dụng của công ty bạn thành công. Nên kết hợp áp dụng kỹ thuật kể chuyện để mang lại những nội dung chất lượng cao hơn, tác động đến cảm xúc người đọc giúp câu chuyện của bạn càng được lan truyền. Từ đó, thu hút thêm nhiều lượt theo dõi cho trang công ty. 
 
@@ -47,7 +47,7 @@ Một nghiên cứu của LinkedIn đã chỉ ra rằng, 58% những người th
 
 Chỉ cần đăng tải thông tin tuyển dụng dưới dạng một bài đăng thông thường trên trang, chúng sẽ trực tiếp hiển thị lên newsfeed của người theo dõi. Bằng cách đó, những ứng viên tiềm năng hoàn toàn có thể tương tác và ứng tuyển khi đọc được những mẩu tin này.
 
-##### **4. Tìm kiếm theo từ khóa: Tiếp cận các ứng viên bị động** 
+##### **4. Tìm kiếm theo từ khóa: Tiếp cận các ứng viên bị động**
 
 Ứng viên bị động là những người đang cân nhắc việc thay đổi môi trường làm việc nhưng không sẵn sàng đi tìm chúng. Theo thống kê của LinkedIn, số này chiếm đến hơn 70% nguồn nhân lực trên toàn thế giới (Hiring Statistics, 2015). Với LinkedIn, bạn hoàn toàn có thể liên hệ với họ bằng chức năng tìm kiếm. 
 
@@ -71,4 +71,4 @@ Ngoài các thông tin tuyển dụng, bạn cũng nên thường xuyên đóng 
 
 ***\*Email:  huong.ha@anphabe.com***
 
-![Anphabe là đối tác chính thức của Linkedin tại thị trường Việt Nam](/images/uploads/file-deliver.jpg "Anphabe là đối tác chính thức của Linkedin tại thị trường Việt Nam")
+![Anphabe là đối tác chính thức của Linkedin tại thị trường Việt Nam](/images/uploads/file-deliver1.png "Anphabe là đối tác chính thức của Linkedin tại thị trường Việt Nam")
