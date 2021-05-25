@@ -6,7 +6,7 @@ image: /images/uploads/1.-mức-độ-gắn-kết-nhân-viên-trên-thị-trư�
 ---
 *Người đi làm toàn tâm toàn ý đến đâu với công việc? Họ sẵn lòng chia sẻ khó khăn với công ty hay đang mơ về “ngọn đồi xanh” khác? Doanh nghiệp cần làm gì để duy trì gắn kết nội bộ và tiếp tục “vượt khó” trong thời gian sắp tới?* 
 
-![namcovidthuhai](/images/uploads/file-deliver.png "Covid-19 tác động mạnh đến “hôn nhân” giữa người lao động với doanh nghiệp")
+![namcovidthuhai](/images/uploads/anphabe-chuyen-tinh-nang-cong-ty.png "Covid-19 tác động mạnh đến “hôn nhân” giữa người lao động với doanh nghiệp")
 
 **Covid-19 xoáy sâu vào sự phân hóa người đi làm**
 
