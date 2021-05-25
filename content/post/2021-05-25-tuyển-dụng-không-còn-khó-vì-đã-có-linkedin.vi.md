@@ -63,4 +63,4 @@ Các nhóm trên LinkedIn là nơi hội tụ những chuyên gia cùng ngành n
 
 Ngoài các thông tin tuyển dụng, bạn cũng nên thường xuyên đóng góp những bài chia sẻ hữu ích trên nhóm. Nếu các thành viên có phản ứng tích cực với bài đăng của bạn, bạn có thể mời họ kết nối, theo dõi trang công ty của mình.
 
-![Anphabe là đối tác chính thức của Linkedin tại thị trường Việt Nam](/images/uploads/123.jpg "Anphabe là đối tác chính thức của Linkedin tại thị trường Việt Nam")
+![Anphabe là đối tác chính thức của Linkedin tại thị trường Việt Nam](/images/uploads/12345.jpg "Anphabe là đối tác chính thức của Linkedin tại thị trường Việt Nam")
