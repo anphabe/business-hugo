@@ -18,7 +18,7 @@ Còn nếu bạn là doanh nghiệp vừa và nhỏ, không có ngân sách tuy�
 
 Do đó, hãy tham khảo những bước sau đây để biến kế hoạch tuyển dụng miễn phí trên LinkedIn trở nên có giá trị.
 
-##### **1. Tạo ấn tượng với trang tuyển dụng chuyên nghiệp**
+#### **1. Tạo ấn tượng với trang tuyển dụng chuyên nghiệp**
 
 Bà Leona Watson - người sáng lập Cheeky Food Group (tập đoàn về thực phẩm nổi tiếng tại Úc và New Zealand) và ông David Bitton - người thành lập Bitton Café (quán cà phê nổi tiếng tại thành phố Alexandria ở Ai Cập), đã từng chia sẻ: “Chỉ 5% nỗ lực gia tăng cũng làm nên 90% kết quả bài thuyết trình của bạn. Người ta vẫn thường “ăn bằng mắt” trước mà.” 
 
@@ -30,7 +30,7 @@ Do vậy, trước khi tìm kiếm những ứng viên tiềm năng trên Linked
 
 Cũng nên nhớ rằng, xây xong trang tuyển dụng vẫn là chưa đủ. Bạn cần thường xuyên cập nhật để đảm bảo các thông tin liên hệ, vị trí kinh doanh,... của công ty luôn chính xác.
 
-##### **2. Chia sẻ câu chuyện thương hiệu cùng những nội dung có giá trị**
+#### **2. Chia sẻ câu chuyện thương hiệu cùng những nội dung có giá trị**
 
 Khi đã xây trang xong, HR cần “chăm sóc” nó một cách kỹ lưỡng. Việc tạo và xuất bản những nội dung hay và hữu ích có thể giúp bạn quảng bá hình ảnh nhà tuyển dụng của công ty bạn thành công. Nên kết hợp áp dụng kỹ thuật kể chuyện để mang lại những nội dung chất lượng cao hơn, tác động đến cảm xúc người đọc giúp câu chuyện của bạn càng được lan truyền. Từ đó, thu hút thêm nhiều lượt theo dõi cho trang công ty. 
 
@@ -41,13 +41,13 @@ Dưới đây là gợi ý một số nội dung mà HR có thể cập nhật c
 * Tin ngắn về tình hình kinh doanh 
 * Sự kiện nổi bật mà công ty bạn đứng ra tổ chức hoặc trực tiếp tham gia
 
-##### **3. Đăng thông tin tuyển dụng lên trang tài khoản công ty**
+#### **3. Đăng thông tin tuyển dụng lên trang tài khoản công ty**
 
 Một nghiên cứu của LinkedIn đã chỉ ra rằng, 58% những người theo dõi trang tài khoản công ty bạn có mong muốn làm việc tại công ty (số còn lại là nhân viên hiện tại, cựu nhân viên, và khác, bao gồm những người yêu thích sản phẩm, dịch vụ của công ty). Do vậy, hình thức này sẽ vô cùng hiệu quả nếu trang công ty trên LinkedIn của bạn thu hút được một lượng lớn người theo dõi. 
 
 Chỉ cần đăng tải thông tin tuyển dụng dưới dạng một bài đăng thông thường trên trang, chúng sẽ trực tiếp hiển thị lên newsfeed của người theo dõi. Bằng cách đó, những ứng viên tiềm năng hoàn toàn có thể tương tác và ứng tuyển khi đọc được những mẩu tin này.
 
-##### **4. Tìm kiếm theo từ khóa: Tiếp cận các ứng viên bị động**
+#### **4. Tìm kiếm theo từ khóa: Tiếp cận các ứng viên bị động**
 
 Ứng viên bị động là những người đang cân nhắc việc thay đổi môi trường làm việc nhưng không sẵn sàng đi tìm chúng. Theo thống kê của LinkedIn, số này chiếm đến hơn 70% nguồn nhân lực trên toàn thế giới (Hiring Statistics, 2015). Với LinkedIn, bạn hoàn toàn có thể liên hệ với họ bằng chức năng tìm kiếm. 
 
@@ -57,7 +57,7 @@ Thông qua các từ khóa về địa điểm, kinh nghiệm, kỹ năng làm v
 
 Khi đã tìm được ứng viên mong muốn, hãy kiểm tra xem giữa bạn và tài khoản của họ có mối liên kết chung nào hay không. Nếu có, hãy nhờ người đó giới thiệu bạn và bắt đầu tiếp cận ứng viên ngay thôi nào!
 
-##### **5. Tận dụng các nhóm trên LinkedIn**
+#### **5. Tận dụng các nhóm trên LinkedIn**
 
 Các nhóm trên LinkedIn là nơi hội tụ những chuyên gia cùng ngành nghề, được tạo ra để các thành viên chia sẻ kinh nghiệm, các thông tin hữu ích, kết nối các mối quan hệ kinh doanh hoặc tìm kiếm cơ hội việc làm mới. Bằng cách tham gia những nhóm này và đăng bài tuyển dụng của ngành nghề liên quan, bạn có thể tăng khả năng hiển thị của công ty. 
 
