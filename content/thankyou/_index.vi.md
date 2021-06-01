@@ -5,5 +5,6 @@ draft: false
 aliases:
   - /thankyou.html
   - /thankyou/lienhe.html
+  - /lienhe/thankyou.html
 layout: "thankyou"
 ---
