@@ -1,6 +1,6 @@
 ---
 title: "Năm Covid-19 thứ hai: Doanh nghiệp và người đi làm bắt tay nhau “vượt khó”"
-draft: true
+draft: false
 date: 2021-05-10
 image: /images/uploads/1.-mức-độ-gắn-kết-nhân-viên-trên-thị-trường.png
 ---
