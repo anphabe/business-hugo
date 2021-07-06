@@ -21,7 +21,7 @@ Cả Workplace và Yammer đều có: BẢNG TIN (News feed) và THÔNG BÁO (No
 
 BẢNG TIN trên Workplace có giao diện tương tự như Facebook nên rất thân thiện với người dùng và dễ sử dụng. Người dùng Workplace có thể nhấn nút theo dõi (Follow) các người dùng khác mà mình quan tâm. Ngoài ra, người dùng còn có thể đánh dấu bài viết quan trọng (Mark as important) để tất cả mọi người cùng theo dõi. Trong khi đó, BẢNG TIN trên Yammer khá đơn giản với các tính năng cơ bản.      
 
-![BẢNG TIN trên Workplace](/images/uploads/bang-tin-workplace.png "BẢNG TIN trên Workplace")
+![BẢNG TIN trên Workplace](/images/uploads/bang-tin-workplacee.png "BẢNG TIN trên Workplace")
 
 *Bảng tin của Workplace với giao diện tương tự như Facebook nên người dùng đã quen thuộc và sử dụng dễ dàng.*
 
