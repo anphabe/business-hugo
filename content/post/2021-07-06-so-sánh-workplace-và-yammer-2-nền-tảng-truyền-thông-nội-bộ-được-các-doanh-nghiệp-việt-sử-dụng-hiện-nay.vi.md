@@ -152,8 +152,6 @@ Workplace cho phép phát video trực tuyến thông qua ứng dụng Workplace
 
 ![**PHÒNG HỌP TRỰC TUYẾN WORKPLACE ROOMS**](/images/uploads/workplace-room.png "**PHÒNG HỌP TRỰC TUYẾN WORKPLACE ROOMS**")
 
-
-
 <!--StartFragment-->
 
  *\>>> Xem thêm:  [Hướng dẫn sử dụng Workplace Rooms](https://www.anphabe.com/discussions/questions-answers/q/huong-dan-su-dung-workplace-rooms/35142/answer)*
@@ -168,8 +166,6 @@ Người dùng có thể chat với đồng nghiệp ngay trên web hoặc thôn
 
   ![ứng dụng Workchat](/images/uploads/chat-tren-workplace.jpg "ứng dụng Workchat")
 
-  <!--StartFragment-->
-
   **\- THƯ VIỆN HỌC TẬP:**  
 
   Nơi tổng hợp thông tin cần thiết về công ty, chẳng hạn như sổ tay nhân viên hoặc chính sách nhân sự. Giúp mọi người dễ dàng tìm thấy những thông tin cần thiết.  
@@ -178,37 +174,23 @@ Người dùng có thể chat với đồng nghiệp ngay trên web hoặc thôn
 
   Cho phép kiểm soát người có thể xem nội dung: Chọn những người xem được nội dung bạn đăng, có thể là cả công ty hoặc chỉ một số người nhất định. 
 
-  <!--EndFragment-->
-
   ![Thu vien hoc tap tren Workplace ](/images/uploads/thu-vien-kien-thuc-workplace.png "Thu vien hoc tap tren Workplace ")
-
-  <!--StartFragment-->
 
   **\- SƠ ĐỒ TỔ CHỨC:** 
 
   Hiển thị cấu trúc nhân sự của tổ chức giúp nhân viên dễ dàng tìm kiếm người họ cần liên hệ cho mỗi phòng ban, bộ phận… 
 
-  <!--EndFragment-->
-
   ![so do to chuc tren workplace ](/images/uploads/so-do-to-chuc-tren-workplace.jpg "so do to chuc tren workplace ")
-
-  <!--StartFragment-->
 
    **\- BÁO CÁO / THỐNG KÊ:** 
 
    Workplace cung cấp trang Thống kê chi tiết – Insights: Xem tổng quan về hoạt động của Workplace và nhận báo cáo chi tiết về người dùng, nhóm và nội dung
 
-  <!--EndFragment-->
-
   ![bao cao thong ke tren workplace](/images/uploads/bao-cao-thong-ke-tren-workplace.png "bao cao thong ke tren workplace")
-
-  <!--StartFragment-->
 
   Với giao diện thân thiện và các tính năng hỗ trợ tối đa cho người dùng, Workplace hiện được hơn 30.000 doanh nghiệp Việt Nam và thế giới sử dụng. 
 
   **CÁC CÔNG TY ĐANG SỬ DỤNG WORKPLACE TẠI VIỆT NAM** 
-
-  <!--EndFragment-->
 
   ![cong ty dang su dung workplace](/images/uploads/cong-ty-dang-su-dung-workplace.png "cong ty dang su dung workplace")
 
