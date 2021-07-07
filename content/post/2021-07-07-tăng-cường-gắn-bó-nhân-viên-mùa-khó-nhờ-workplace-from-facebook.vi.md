@@ -6,15 +6,15 @@ image: /images/uploads/slide1.png
 ---
 *Khắc phục tình trạng “xa mặt cách lòng”, cập nhật thông tin nhanh, quyết định kịp thời, giúp tổ chức linh hoạt ứng biến & vận hành không gián đoạn,... **Workplace From Facebook** còn có nhiều tính năng hữu ích khác giúp nối sợi dây gắn kết giữa lãnh đạo và nhân viên trong thời “giãn cách”.*
 
+![Thời khó càng phải tăng cường gắn bó nhân viên](/images/uploads/slide1.png)
+
 \>>>[Workplace from Facebook là gì?](https://business.anphabe.com/post/2021-05-21-workplace-from-facebook-l%C3%A0-g%C3%AC/)
 
 \>>>[So sánh Workplace và Yammer: 2 nền tảng truyền thông nội bộ được các doanh nghiệp Việt sử dụng hiện nay](https://business.anphabe.com/post/2021-07-06-so-s%C3%A1nh-workplace-v%C3%A0-yammer-2-n%E1%BB%81n-t%E1%BA%A3ng-truy%E1%BB%81n-th%C3%B4ng-n%E1%BB%99i-b%E1%BB%99-%C4%91%C6%B0%E1%BB%A3c-c%C3%A1c-doanh-nghi%E1%BB%87p-vi%E1%BB%87t-s%E1%BB%AD-d%E1%BB%A5ng-hi%E1%BB%87n-nay/)
 
-![Thời khó càng phải tăng cường gắn bó nhân viên](/images/uploads/slide1.png)
-
 Sự bùng phát dịch Covid-19 với nhiều biến chủng mới và phức tạp đã ảnh hưởng không nhỏ đến các doanh nghiệp tại Việt Nam và thế giới. Trong những lúc bấp bênh thế này, doanh nghiệp càng cần phải duy trì các kênh liên lạc cởi mở và tăng cường gắn kết với nhân viên. 
 
-Dưới đây là 6 ví dụ hữu ích về cách các công ty có thể tận dụng **Workplace From Facebook** để kết nối và thu hẹp khoảng cách với nhân dù làm việc từ xa.
+Dưới đây là 5 ví dụ hữu ích về cách các công ty có thể tận dụng **Workplace From Facebook** để kết nối và thu hẹp khoảng cách với nhân dù làm việc từ xa.
 
 #### **1. Luôn cập nhật thông tin và tình trạng an toàn của nhân viên**
 
