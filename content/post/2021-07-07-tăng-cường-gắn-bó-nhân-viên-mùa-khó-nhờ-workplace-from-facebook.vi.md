@@ -8,9 +8,9 @@ image: /images/uploads/slide1.png
 
 ![Thời khó càng phải tăng cường gắn bó nhân viên](/images/uploads/slide1.png)
 
-*\>>>[Workplace from Facebook là gì?](https://business.anphabe.com/post/2021-05-21-workplace-from-facebook-l%C3%A0-g%C3%AC/)*
+***\>>>[Workplace from Facebook là gì?](https://business.anphabe.com/post/2021-05-21-workplace-from-facebook-l%C3%A0-g%C3%AC/)*** 
 
-*\>>>[So sánh Workplace và Yammer: 2 nền tảng truyền thông nội bộ được các doanh nghiệp Việt sử dụng hiện nay](https://business.anphabe.com/post/2021-07-06-so-s%C3%A1nh-workplace-v%C3%A0-yammer-2-n%E1%BB%81n-t%E1%BA%A3ng-truy%E1%BB%81n-th%C3%B4ng-n%E1%BB%99i-b%E1%BB%99-%C4%91%C6%B0%E1%BB%A3c-c%C3%A1c-doanh-nghi%E1%BB%87p-vi%E1%BB%87t-s%E1%BB%AD-d%E1%BB%A5ng-hi%E1%BB%87n-nay/)*
+***\>>>[So sánh Workplace và Yammer: 2 nền tảng truyền thông nội bộ được các doanh nghiệp Việt sử dụng hiện nay](https://business.anphabe.com/post/2021-07-06-so-s%C3%A1nh-workplace-v%C3%A0-yammer-2-n%E1%BB%81n-t%E1%BA%A3ng-truy%E1%BB%81n-th%C3%B4ng-n%E1%BB%99i-b%E1%BB%99-%C4%91%C6%B0%E1%BB%A3c-c%C3%A1c-doanh-nghi%E1%BB%87p-vi%E1%BB%87t-s%E1%BB%AD-d%E1%BB%A5ng-hi%E1%BB%87n-nay/)***
 
 Sự bùng phát dịch Covid-19 với nhiều biến chủng mới và phức tạp đã ảnh hưởng không nhỏ đến các doanh nghiệp tại Việt Nam và thế giới. Trong những lúc bấp bênh thế này, doanh nghiệp càng cần phải duy trì các kênh liên lạc cởi mở và tăng cường gắn kết với nhân viên. 
 
