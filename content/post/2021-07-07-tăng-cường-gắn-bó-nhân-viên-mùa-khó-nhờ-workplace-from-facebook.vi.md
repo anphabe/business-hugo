@@ -46,8 +46,8 @@ Bằng cách này, nhân viên không phải di chuyển, tụ tập ở nơi đ
 
 Bạn có thể đăng nhiều video ngắn khác nhau hoặc cung cấp trải nghiệm học tập nhanh gọn, "kịp thời" thông qua các buổi "Trò chuyện trực tiếp với chuyên gia" và giải đáp các câu hỏi trong thời gian thực thông qua tính năng bình luận và thăm dò ý kiến trên Workplace. Ngoài ra, bạn có thể làm nên "những khoảnh khắc học tập" bằng cách tạo và chia sẻ lên Workplace các video trực tiếp ngắn, mang tính tương tác, ghi lại hoạt động học tập thực tế.
 
-Ngoài những ví dụ trên, **Workplace From Facebook** còn cung cấp nhiều tips hữu ích khác giúp doanh nghiệp tăng cường gắn kết nhân viên khi cách xa nhau.
+Ngoài những ví dụ trên, **Workplace From Facebook** còn cung cấp nhiều gợi ý hữu ích khác giúp doanh nghiệp tăng cường gắn kết nhân viên khi cách xa nhau.
 
-Tham khảo tại tài liệu: **Cách doanh nghiệp sử dụng Workplace để ứng phó trong đại dịch**. Tải tài liệu **[tại đây](https://workplace.anphabe.com/)**!
+Tải ngay tài liệu "**[Cách doanh nghiệp sử dụng Workplace để ứng phó trong đại dịch](https://workplace.anphabe.com/)**" để tham khảo thêm.
 
 ![](/images/uploads/hih-3.png)
