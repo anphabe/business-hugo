@@ -30,7 +30,7 @@ Giữa một rừng những thông tin mơ hồ và tiêu cực, việc công ty
 
 #### **3. Đa dạng hình thức truyền thông nội bộ**
 
-Nếu vì dịch bệnh mà phải hoãn hoặc hủy bất kỳ sự kiện nào đã lên kế hoạch, bạn có thể cân nhắc sử dụng các kênh thay thế mà vẫn thu hút được nhân viên tham gia. Ví dụ chuyển đổi từ cuộc họp trực tiếp sang hội thảo trực tuyến hoặc dùng tài khoản Workplace để tổ chức các buổi họp trực tuyến...
+Nếu vì dịch bệnh mà phải hoãn hoặc hủy bất kỳ sự kiện nào đã lên kế hoạch, bạn có thể cân nhắc sử dụng các kênh thay thế mà vẫn thu hút được nhân viên tham gia. Ví dụ: chuyển đổi từ cuộc họp trực tiếp sang trực tuyến, hoặc dùng tài khoản Workplace để tổ chức hội thảo trực tuyến...
 
 #### **4. Giải đáp thắc mắc nhân viên thông qua tính năng Phát trực tiếp (Live)**
 
