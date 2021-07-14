@@ -50,4 +50,4 @@ Ngoài những ví dụ trên, **Workplace From Facebook** còn cung cấp nhi�
 
 Tải ngay tài liệu "**[Cách doanh nghiệp sử dụng Workplace để ứng phó trong đại dịch](https://workplace.anphabe.com/)**" để tham khảo thêm.
 
-![](/images/uploads/hih-3.png)
+![](https://cdn1.anphabe.com/survey_report/Cach-su-dung-Workplace-de-ung-pho-voi-dai-dich-2021.pdf)
