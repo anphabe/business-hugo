@@ -14,7 +14,7 @@ image: /images/uploads/slide1.png
 
 Sự bùng phát dịch Covid-19 với nhiều biến chủng mới và phức tạp đã ảnh hưởng không nhỏ đến các doanh nghiệp tại Việt Nam và thế giới. Trong những lúc bấp bênh thế này, doanh nghiệp càng cần phải duy trì các kênh liên lạc cởi mở và tăng cường gắn kết với nhân viên. 
 
-Dưới đây là 5 ví dụ hữu ích về cách các công ty có thể tận dụng **Workplace From Facebook** để kết nối và thu hẹp khoảng cách với nhân dù làm việc từ xa.
+Dưới đây là 5 ví dụ hữu ích về cách các công ty có thể tận dụng **Workplace From Facebook** để kết nối và thu hẹp khoảng cách với nhân viên dù làm việc từ xa.
 
 #### **1. Luôn cập nhật thông tin và tình trạng an toàn của nhân viên**
 
