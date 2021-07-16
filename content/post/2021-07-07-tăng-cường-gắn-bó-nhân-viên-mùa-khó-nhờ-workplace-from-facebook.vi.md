@@ -50,6 +50,6 @@ Ngoài những ví dụ trên, **Workplace From Facebook** còn cung cấp nhi�
 
 Tải ngay tài liệu "**[Cách doanh nghiệp sử dụng Workplace để ứng phó trong đại dịch](https://workplace.anphabe.com/)**" để tham khảo thêm.
 
-{{ <html>}}
+{{<html>}}
     <a href="https://anpha.be/3kr3qge" target="_blank"><img src="/images/uploads/hih-3.png" alt=""></a>
-{{ </html>}}
+{{</html>}}
