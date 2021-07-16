@@ -48,7 +48,7 @@ Bạn có thể đăng nhiều video ngắn khác nhau hoặc cung cấp trải 
 
 Ngoài những ví dụ trên, **Workplace From Facebook** còn cung cấp nhiều gợi ý hữu ích khác giúp doanh nghiệp tăng cường gắn kết nhân viên khi cách xa nhau.
 
-Tải ngay tài liệu "**[Cách doanh nghiệp sử dụng Workplace để ứng phó trong đại dịch](https://workplace.anphabe.com/)**" để tham khảo thêm.
+Tải ngay tài liệu "**[Cách doanh nghiệp sử dụng Workplace để ứng phó trong đại dịch](https://anpha.be/3kr3qge)**" để tham khảo thêm.
 
 {{<html>}}
     <a href="https://anpha.be/3kr3qge" target="_blank"><img src="/images/uploads/hih-3.png" alt=""></a>
