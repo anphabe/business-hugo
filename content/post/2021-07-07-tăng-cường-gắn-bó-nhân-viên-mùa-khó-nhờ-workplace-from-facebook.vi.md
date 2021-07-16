@@ -1,5 +1,5 @@
 ---
-title: Tăng cường gắn bó nhân viên mùa khó nhờ Workplace From Facebook
+title: 5 bí quyết rút ngắn khoảng cách với nhân viên dù đang giãn cách
 draft: false
 date: 2021-07-07
 image: /images/uploads/image_2021_07_15t10_36_18_486z.png
