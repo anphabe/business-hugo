@@ -4,8 +4,6 @@ draft: false
 date: 2021-07-07
 image: /images/uploads/5-bi-quyet.jpg
 ---
-
-
 *Khắc phục tình trạng “xa mặt cách lòng”, cập nhật thông tin nhanh, quyết định kịp thời, giúp tổ chức linh hoạt ứng biến & vận hành không gián đoạn,... **Workplace From Facebook** còn có nhiều tính năng hữu ích khác giúp nối sợi dây gắn kết giữa lãnh đạo và nhân viên trong thời “giãn cách”.*
 
 ![Thời khó càng phải tăng cường gắn bó nhân viên](/images/uploads/5-bi-quyet.jpg)
@@ -52,4 +50,6 @@ Ngoài những ví dụ trên, **Workplace From Facebook** còn cung cấp nhi�
 
 Tải ngay tài liệu "**[Cách doanh nghiệp sử dụng Workplace để ứng phó trong đại dịch](https://workplace.anphabe.com/)**" để tham khảo thêm.
 
-![](/images/uploads/hih-3.png)
+{{ <html>}}
+    <a href="https://anpha.be/3kr3qge" target="_blank"><img src="/images/uploads/hih-3.png" alt=""></a>
+{{ </html>}}
