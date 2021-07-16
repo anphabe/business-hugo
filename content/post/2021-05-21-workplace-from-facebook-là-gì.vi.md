@@ -28,7 +28,7 @@ Chắc hẳn nhiều lãnh đạo doanh nghiệp lo ngại chi phí chuyển đ�
 
 Một khía cạnh tích cực là Workplace kế thừa giao diện và đầy đủ các tính năng của Facebook, lại được tối ưu hóa cho doanh nghiệp, có cả phiên bản dùng cho máy tính và ứng dụng trên điện thoại di động. Mà phần lớn nhân viên của doanh nghiệp đều có tài khoản Facebook cá nhân và sử dụng hầu như mỗi ngày. 
 
-Cho nên, việc triển khai Workplace trong toàn công ty không mất nhiều thời gian, nhân viên nhanh chóng làm quen và sử dụng được ngay. Nhờ vậy, doanh nghiệp **[tiết kiệm chi phí chuyển đổi đáng kể.](https://workplace.anphabe.com/?utm_source=facebook&utm_medium=Discussion&utm_campaign=Workplace2021&utm_term=&utm_content=SEOworkplacelagi)**
+Cho nên, việc triển khai Workplace trong toàn công ty không mất nhiều thời gian, nhân viên nhanh chóng làm quen và sử dụng được ngay. Nhờ vậy, doanh nghiệp **[tiết kiệm chi phí chuyển đổi đáng kể.](https://anpha.be/3yotqML)**
 
 ### **Vậy các tính năng của Workplace có gì vượt trội?**
 
@@ -44,7 +44,7 @@ Hoặc người làm **Nhân sự nào cũng mong muốn gia tăng gắn kết 
 
  Nhưng với Workplace, mọi nhân viên ở mọi cấp độ **dù không có tài khoản email công ty vẫn có thể tiếp cận thông tin cập nhật đầy đủ**, thông qua ứng dụng Workplace trên điện thoại thông minh. Nhân sự có thể dùng chức năng Tạo chiến dịch (Campaign) để đăng thông tin phát động một cuộc thi nội bộ trên Bảng tin và lập tức mọi nhân viên đều nhận được thông báo về hoạt động thi đua này. Hơn thế nữa, nhân viên có thể bình luận, tương tác trực tiếp ngay trên Workplace và Nhân sự có thể theo sát tình hình, đo lường được mức độ hiệu quả của hoạt động thi đua. 
 
-Tìm hiểu thêm tại: https://anpha.be/3bGji9u 
+Tìm hiểu thêm tại: <https://anpha.be/3yotqML> 
 
 ![](/images/uploads/4.png)
 
@@ -58,6 +58,6 @@ Hãy bắt đầu từ việc xác định nhu cầu cụ thể của doanh nghi
 
 Doanh nghiệp bạn đã biết và bắt đầu sử dụng Workplace chưa? Hãy chia sẻ trải nghiệm của bạn bên dưới comment nhé! 
 
-Hoặc tìm hiểu thêm thông tin chi tiết tại: <https://anpha.be/3bGji9u>
+Hoặc tìm hiểu thêm thông tin chi tiết tại: [](https://anpha.be/3bGji9u)<https://anpha.be/3yotqML> 
 
 ![](/images/uploads/5.jpg)
