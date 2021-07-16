@@ -3,7 +3,7 @@ title: "So sánh Workplace và Yammer: 2 nền tảng truyền thông nội bộ
   doanh nghiệp Việt sử dụng hiện nay"
 draft: false
 date: 2021-07-06
-image: /images/uploads/bang-tin-workplacee.png
+image: /images/uploads/wp-vs-yammer-copy.png
 ---
 *Workplace và Yammer đều là những nền tảng mạng xã hội nội bộ dành cho doanh nghiệp với mục đích gắn kết mọi người trong toàn tổ chức. Cả hai đều mang tính bảo mật vì chỉ có những người trong tổ chức được cấp phép, có địa chỉ email được phê duyệt thì mới đăng nhập để sử dụng. Tuy nhiên, mỗi nền tảng lại có những ưu điểm khác nhau khiến không ít anh, chị quản lý doanh nghiệp đau đầu nên sử dụng loại nào?*
 
@@ -21,7 +21,7 @@ Cả Workplace và Yammer đều có: BẢNG TIN (News feed) và THÔNG BÁO (No
 
 BẢNG TIN trên Workplace có giao diện tương tự như Facebook nên rất thân thiện với người dùng và dễ sử dụng. Người dùng Workplace có thể nhấn nút theo dõi (Follow) các người dùng khác mà mình quan tâm. Ngoài ra, người dùng còn có thể đánh dấu bài viết quan trọng (Mark as important) để tất cả mọi người cùng theo dõi. Trong khi đó, BẢNG TIN trên Yammer khá đơn giản với các tính năng cơ bản.      
 
-![BẢNG TIN trên Workplace](/images/uploads/bang-tin-workplace.png "BẢNG TIN trên Workplace")
+![BẢNG TIN trên Workplace](/images/uploads/bang-tin-workplacee.png "BẢNG TIN trên Workplace")
 
 *Bảng tin của Workplace với giao diện tương tự như Facebook nên người dùng đã quen thuộc và sử dụng dễ dàng.*
 
