@@ -46,7 +46,9 @@ Theo Hireology, *"The Costs of Poor Onboarding: What You Lose When People Jump S
 
 #### **6. Tạo không gian để nhân viên làm việc theo mục đích, kết nối theo sở thích**
 
-Tổ chức gắn kết tạo điều kiện cho nhân viên thể hiện bản thân, bày tỏ những điều họ tin tưởng cũng như mong muốn của họ về công ty. Với tính năng Nhóm, nền tảng Workplace from Facebook tạo ra một không gian để tất cả nhân viên được kết nối, không chỉ cho mục đích công việc mà còn về sở thích cá nhân. Nhờ đó, mọi người được tương tác nhiều hơn, trở nên gần gũi và gắn kết hơn.
+Tổ chức gắn kết tạo điều kiện cho nhân viên thể hiện bản thân, bày tỏ những điều họ tin tưởng cũng như mong muốn của họ về công ty. 
+
+Với tính năng **Nhóm**, nền tảng Workplace from Facebook tạo ra một không gian để tất cả nhân viên được kết nối, không chỉ cho mục đích công việc mà còn về sở thích cá nhân. Nhờ đó, mọi người được tương tác nhiều hơn, trở nên gần gũi và gắn kết hơn.
 
 ![](/images/uploads/6_wp_vdo.png)
 
