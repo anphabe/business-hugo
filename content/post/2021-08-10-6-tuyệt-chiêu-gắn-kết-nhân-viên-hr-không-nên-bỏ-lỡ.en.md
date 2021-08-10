@@ -46,21 +46,21 @@ Theo Hireology, *"The Costs of Poor Onboarding: What You Lose When People Jump S
 
 #### **6. Tạo không gian để nhân viên làm việc theo mục đích, kết nối theo sở thích**
 
-Tổ chức gắn kết tạo điều kiện cho nhân viên thể hiện bản thân, bày tỏ những điều họ tin tưởng cũng như mong muốn của họ về công ty. Điều đó nghĩa là các dự án D&I cụ thể, tổ chức những sự kiện công ty hoặc khả năng thực hiện công việc cộng đồng.
+Tổ chức gắn kết tạo điều kiện cho nhân viên thể hiện bản thân, bày tỏ những điều họ tin tưởng cũng như mong muốn của họ về công ty. 
+
+Với tính năng **Nhóm**, nền tảng Workplace from Facebook tạo ra một không gian để tất cả nhân viên được kết nối, không chỉ cho mục đích công việc mà còn về sở thích cá nhân. Nhờ đó, mọi người được tương tác nhiều hơn, trở nên gần gũi và gắn kết hơn.
 
 ![](/images/uploads/6_wp_vdo.png)
 
-### **Bắt đầu hành trình gắn kết nhân viên với nền tảng truyền thông & hợp tác nội bộ Workplace from Facebook.**
+Hơn 2 triệu khách hàng trả phí của một số tổ chức hàng đầu thế giới đã và đang hưởng lợi từ trải nghiệm gắn kết của bộ phận Nhân sự trên Workplace. Trong đó có các thương hiệu toàn cầu như Walmart, Starbucks, Heineken, Chevron và Nestlé; những công ty tầm cỡ khu vực như AirAsia, Bảo Việt, Vodafone và Mercado Libre; cũng như các công ty kỹ thuật số đổi mới sáng tạo như Spotify, Lyft, Booking.com và Farfetch. 
 
-* Thông tin nhanh, quyết định kịp thời 
-* Đối thoại cởi mở, tương tác chân thành 
-* Kết nối toàn diện, nhân rộng thành công
+Danh sách này còn có các tổ chức trong những ngành chịu sự kiểm soát gắt gao, có ý thức rõ về tính bảo mật như GSK, AstraZeneca, Royal Bank of Scotland và Zurich Insurance Group. Còn công ty bạn thì sao?
 
-\>>Đăng ký trải nghiệm ngay! Link: <https://anpha.be/3lM43Sb>
+### **Hãy bắt đầu hành trình gắn kết nhân viên với nền tảng truyền thông & hợp tác nội bộ Workplace from Facebook!**
 
-Với giao diện thân thiện và các tính năng hỗ trợ tối đa cho người dùng, Workplace hiện được hơn 30.000 doanh nghiệp Việt Nam và thế giới sử dụng.
+\>>Đăng ký trải nghiệm ngay! Link: [https://anpha.be/3lM43Sb](https://business.anphabe.com/?utm_source=facebook&utm_medium=website&utm_campaign=workplace2021&utm_content=6tuyetchieuganketnhanvien)
 
-**CÁC CÔNG TY ĐANG SỬ DỤNG WORKPLACE TẠI VIỆT NAM**
+***CÁC CÔNG TY ĐANG SỬ DỤNG WORKPLACE TẠI VIỆT NAM***
 
 ![](/images/uploads/cong-ty-dang-su-dung-workplace.png)
 
