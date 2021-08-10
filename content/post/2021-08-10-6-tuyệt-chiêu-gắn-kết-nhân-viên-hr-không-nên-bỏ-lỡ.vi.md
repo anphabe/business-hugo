@@ -4,19 +4,15 @@ draft: false
 date: 2021-08-10
 image: /images/uploads/file-deliver.png
 ---
-
-
-
-
 *Nhiệm vụ trao quyền, tạo động lực và giữ chân nhân tài trong tổ chức sẽ không còn khó khăn nếu công ty có một không gian chung để lãnh đạo & nhân viên cùng chia sẻ và cất lên tiếng nói.* 
 
-*Dưới đây là 6 gợi ý giúp mang lại trải nghiệm gắn kết nhân viên chỉ với một nền tảng truyền thông & hợp tác nội bộ Workplace from Facebook mà HR không nên bỏ lỡ!*
+*Dưới đây là 6 gợi ý giúp mang lại trải nghiệm gắn kết nhân viên chỉ với một nền tảng truyền thông & hợp tác nội bộ **Workplace from Facebook** mà HR không nên bỏ lỡ!*
 
 ![](/images/uploads/file-deliver.png "6 cách mang lại trải nghiệm gắn kết cho nhân viên (Ảnh: Internet)")
 
 \>>>*[Workplace from Facebook là gì?](https://business.anphabe.com/post/2021-05-21-workplace-from-facebook-l%C3%A0-g%C3%AC/?utm_source=facebook&utm_medium=website&utm_campaign=workplace2021&utm_content=WorkplacefromFacebooklagi)*
 
-#### 1. Kết nối nhân viên với sứ mệnh của công ty
+#### **1. Kết nối nhân viên với sứ mệnh của công ty**
 
 Nếu nhân viên không hiểu mục đích & ý nghĩa của công việc mình đang làm, họ sẽ không có động lực để gắn bó dài lâu cùng công ty. Đó là lý do vì sao mà người HR và lãnh đạo càng cần kết nối nhân viên với sự mệnh của tổ chức càng sớm, càng rõ ràng, càng tốt.
 

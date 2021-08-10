@@ -6,7 +6,7 @@ image: /images/uploads/file-deliver.png
 ---
 *Nhiệm vụ trao quyền, tạo động lực và giữ chân nhân tài trong tổ chức sẽ không còn khó khăn nếu công ty có một không gian chung để lãnh đạo & nhân viên cùng chia sẻ và cất lên tiếng nói.* 
 
-*Dưới đây là 6 gợi ý giúp mang lại trải nghiệm gắn kết nhân viên chỉ với một nền tảng truyền thông & hợp tác nội bộ Workplace from Facebook mà HR không nên bỏ lỡ!*
+*Dưới đây là 6 gợi ý giúp mang lại trải nghiệm gắn kết nhân viên chỉ với một nền tảng truyền thông & hợp tác nội bộ **Workplace from Facebook** mà HR không nên bỏ lỡ!*
 
 ![](/images/uploads/file-deliver.png "6 cách mang lại trải nghiệm gắn kết cho nhân viên (Ảnh: Internet)")
 
