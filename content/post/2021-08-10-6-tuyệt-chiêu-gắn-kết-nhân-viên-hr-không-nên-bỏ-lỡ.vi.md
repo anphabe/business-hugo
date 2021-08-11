@@ -12,7 +12,7 @@ image: /images/uploads/file-deliver.png
 
 \>>>*[Workplace from Facebook là gì?](https://business.anphabe.com/post/2021-05-21-workplace-from-facebook-l%C3%A0-g%C3%AC/?utm_source=facebook&utm_medium=website&utm_campaign=workplace2021&utm_content=WorkplacefromFacebooklagi)*
 
-#### **1. Cách tận dụng công nghệ để trao quyền cho cho nhân viên**
+#### **1.** Trao quyền, trao quyền hơn nữa cho nhân viên!
 
 Nếu nhân viên không hiểu mục đích & ý nghĩa của công việc mình đang làm, họ sẽ không có động lực để gắn bó dài lâu cùng công ty. Đó là lý do vì sao mà người HR và lãnh đạo càng cần kết nối nhân viên với sự mệnh của tổ chức càng sớm, càng rõ ràng, càng tốt.
 
@@ -59,10 +59,6 @@ Danh sách này còn có các tổ chức trong những ngành chịu sự kiể
 ### **Hãy bắt đầu hành trình gắn kết nhân viên với nền tảng truyền thông & hợp tác nội bộ Workplace from Facebook!**
 
 \>>Đăng ký trải nghiệm ngay! Link: [https://anpha.be/3lM43Sb](https://business.anphabe.com/?utm_source=facebook&utm_medium=website&utm_campaign=workplace2021&utm_content=6tuyetchieuganketnhanvien)
-
-
-
-
 
 #### ***CÁC CÔNG TY ĐANG SỬ DỤNG WORKPLACE TẠI VIỆT NAM***
 
