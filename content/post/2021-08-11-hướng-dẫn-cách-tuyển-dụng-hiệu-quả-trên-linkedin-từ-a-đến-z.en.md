@@ -37,7 +37,11 @@ Không chỉ thu hút những người đang có nhu cầu tìm việc, với m�
 
 ![](/images/uploads/2.png "Feature Jobs trên Homepage")
 
+*Feature Jobs trên Homepage*
+
 ![](/images/uploads/3.png "Feature Jobs trên Career Page")
+
+*Feature Jobs trên Career Page*
 
 Sau khi đã có một tập những profile chất lượng rồi, bạn có thể lọc lại lần nữa với bộ lọc tìm kiếm của LinkedIn. Đây là công cụ rất dễ sử dụng và mang lại hiệu quả cao. Thông qua các tiêu chí về ngành nghề, kỹ năng, kinh nghiệm, chức vụ,... dựa trên profile của ứng viên, nó sẽ giúp bạn nhanh chóng tìm ra những ứng viên sáng giá nhất cho vị trí của mình. 
 
