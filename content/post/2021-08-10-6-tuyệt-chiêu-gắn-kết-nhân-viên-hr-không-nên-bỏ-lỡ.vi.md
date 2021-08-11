@@ -1,5 +1,5 @@
 ---
-title: 6 cách gắn kết nhân viên hiệu quả, mọi HR nên biết!
+title: 6 cách gắn kết nhân viên hiệu quả, HR không nên bỏ lỡ!
 draft: false
 date: 2021-08-10
 image: /images/uploads/file-deliver.png
