@@ -3,7 +3,7 @@ title: Hướng dẫn cách tuyển dụng hiệu quả trên LinkedIn từ A đ
 draft: false
 date: 2021-08-11
 ---
-### **Tuyển dụng có trả phí trên LinkedIn**
+### ***Tuyển dụng có trả phí trên LinkedIn***
 
 Mặc dù những tính năng miễn phí của LinkedIn có thể mang lại hiệu quả ở một mức độ nào đó. Nhưng nếu doanh nghiệp muốn khai thác được tiềm năng thực sự của LinkedIn như một công cụ tuyển dụng “Tất cả trong một” thì nên nâng cấp lên tài khoản trả phí với những tính năng vượt trội hơn gấp bội lần. Có thể bạn sẽ ngần ngại liệu có đáng không khi phải mạnh tay “móc hầu bao” chi trả cho LinkedIn. Vậy nên hãy xem với gói tuyển dụng này, LinkedIn có thể mang lại những gì cho doanh nghiệp nhé.
 
@@ -17,7 +17,13 @@ Tuyển dụng nhân sự giống như… đi tìm người yêu vậy, cứ ng�
 
 LinkedIn Recruiter là công cụ bạn cần để làm điều đó. Một nền tảng cho phép bạn tìm kiếm, kết nối trực tiếp, đồng thời lưu trữ và quản lý nguồn ứng viên của mình bằng những tính năng ưu việt. Cụ thể, LinkedIn Recruiter cho phép bạn:
 
-Bộ lọc tìm kiếm kết hợp đa dạng nhiều tiêu chí, tìm kiếm theo từ khóa, trả về nhiều kết quả với thông tin chi tiết, giúp bạn xác định được ứng viên phù hợp trong thời gian ngắn hơn. Ngoài ra tính năng tìm thêm profile tương tự, nhằm tránh bỏ sót những ứng viên tiềm năng Xem tất cả hồ sơ ứng viên bên ngoài mạng lưới liên kết Trao đổi trực tiếp với thành viên khác trong nhóm về từng ứng viên ngay trên profile của họ Không cần thông qua mối quan hệ chung vẫn có thể trực tiếp liên hệ ứng viên với tin nhắn InMail (lên đến 150 Inmails/tháng) kèm theo hình thức gửi Inmail hàng loạt Khả năng lưu trữ thông tin về vị trí tuyển dụng, lịch sử tìm kiếm hồ sơ, các tài liệu và links đi kèm,….tích hợp tại cùng một nơi giúp bạn dễ dàng theo dõi và cùng quản lý với những thành viên khác trên cùng một tài khoản Cung cấp nhiều loại phân tích và báo cáo hỗ trợ bạn trong việc đánh giá và nâng cao hiệu quả tuyển dụng Giao diện thân thiện với thiết bị di động
+* Bộ lọc tìm kiếm kết hợp đa dạng nhiều tiêu chí, tìm kiếm theo từ khóa, trả về nhiều kết quả với thông tin chi tiết, giúp bạn xác định được ứng viên phù hợp trong thời gian ngắn hơn. Ngoài ra tính năng tìm thêm profile tương tự, nhằm tránh bỏ sót những ứng viên tiềm năng 
+* Xem tất cả hồ sơ ứng viên bên ngoài mạng lưới liên kết
+* Trao đổi trực tiếp với thành viên khác trong nhóm về từng ứng viên ngay trên profile của họ
+* Không cần thông qua mối quan hệ chung vẫn có thể trực tiếp liên hệ ứng viên với tin nhắn InMail (lên đến 150 Inmails/tháng) kèm theo hình thức gửi Inmail hàng loạt
+* Khả năng lưu trữ thông tin về vị trí tuyển dụng, lịch sử tìm kiếm hồ sơ, các tài liệu và links đi kèm,….tích hợp tại cùng một nơi giúp bạn dễ dàng theo dõi và cùng quản lý với những thành viên khác trên cùng một tài khoản
+* Cung cấp nhiều loại phân tích và báo cáo hỗ trợ bạn trong việc đánh giá và nâng cao hiệu quả tuyển dụng
+* Giao diện thân thiện với thiết bị di động
 
 #### **2. Job Slot**
 
@@ -49,11 +55,9 @@ Vậy nên, xây dựng một trang tài khoản doanh nghiệp thật chuyên n
 
 Nhưng so với Career Page miễn phí, phiên bản trả phí này có những tính năng vượt trội nào?
 
-**Content Suggestion Tab:** Đề xuất những nội dung hữu ích đang được quan tâm nhất trên LinkedIn phân loại theo địa lý, ngành nghề, thâm niên. 
-
-**Jobs Tab:** Tất cả các cơ hội nghề nghiệp tại công ty thời điểm hiện tại, giúp ứng viên dễ dàng khám phá. 
-
-**Life Tab**: Chia sẻ những giá trị và văn hóa công ty với giao diện đẹp mắt, thân thiện với người dùng
+* **Content Suggestion Tab:** Đề xuất những nội dung hữu ích đang được quan tâm nhất trên LinkedIn phân loại theo địa lý, ngành nghề, thâm niên. 
+* **Jobs Tab:** Tất cả các cơ hội nghề nghiệp tại công ty thời điểm hiện tại, giúp ứng viên dễ dàng khám phá. 
+* **Life Tab**: Chia sẻ những giá trị và văn hóa công ty với giao diện đẹp mắt, thân thiện với người dùng
 
 ![](/images/uploads/4.gif)
 
@@ -63,15 +67,11 @@ Quảng cáo giờ đây không chỉ dành cho Marketer, người tuyển dụn
 
 Chỉ qua vài bước đơn giản, bài viết về văn hóa, sản phẩm, dịch vụ công ty hay tin tuyển dụng của bạn sẽ được hiển thị trên Newsfeed của đối tượng mục tiêu. Với LinkedIn Recruitment Ad, bạn sẽ:
 
-Tăng nhận biết thương hiệu 
-
-Tăng lượt theo dõi cho Career Page 
-
-Tăng cơ hội trả lời Inmail khi ứng viên đã biết về bạn 
-
-Tăng tỷ lệ đơn ứng tuyển 
-
-Tiết kiệm thời gian tuyển dụng
+* Tăng nhận biết thương hiệu 
+* Tăng lượt theo dõi cho Career Page 
+* Tăng cơ hội trả lời Inmail khi ứng viên đã biết về bạn 
+* Tăng tỷ lệ đơn ứng tuyển 
+* Tiết kiệm thời gian tuyển dụng
 
 #### **5. Talent Insight**
 
