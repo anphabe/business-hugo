@@ -12,7 +12,7 @@ image: /images/uploads/file-deliver.png
 
 \>>>*[Workplace from Facebook là gì?](https://business.anphabe.com/post/2021-05-21-workplace-from-facebook-l%C3%A0-g%C3%AC/?utm_source=facebook&utm_medium=website&utm_campaign=workplace2021&utm_content=WorkplacefromFacebooklagi)*
 
-#### **1.** Trao quyền, trao quyền hơn nữa cho nhân viên!
+#### **1. Giúp nhân viên hiểu rõ ý nghĩa công việc**
 
 Nếu nhân viên không hiểu mục đích & ý nghĩa của công việc mình đang làm, họ sẽ không có động lực để gắn bó dài lâu cùng công ty. Đó là lý do vì sao mà người HR và lãnh đạo càng cần kết nối nhân viên với sự mệnh của tổ chức càng sớm, càng rõ ràng, càng tốt.
 
@@ -20,7 +20,7 @@ Nếu nhân viên không hiểu mục đích & ý nghĩa của công việc mìn
 
 ![](/images/uploads/no1.png)
 
-#### **2. Tạo điều kiện để mọi nhân viên lên tiếng**
+#### **2.** Trao quyền, trao quyền hơn nữa cho nhân viên!
 
 Các tổ chức gắn kết thực sự sử dụng công nghệ để trao quyền cho nhân viên. Điều đó không chỉ là trao quyền cho ban lãnh đạo cấp cao mà còn là trao quyền tiếp cận bình đẳng cho nhân viên tuyến đầu tại các cửa hàng, nhà máy hoặc vị trí ở xa khác để họ có thể chia sẻ thông tin, cũng như cộng tác cùng nhau hiệu quả.
 
