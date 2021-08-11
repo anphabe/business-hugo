@@ -1,5 +1,5 @@
 ---
-title: 6 cách gắn kết nhân viên, HR không nên bỏ lỡ!
+title: 6 cách gắn kết nhân viên hiệu quả, mọi HR nên biết!
 draft: false
 date: 2021-08-10
 image: /images/uploads/file-deliver.png
@@ -22,7 +22,7 @@ Nếu nhân viên không hiểu mục đích & ý nghĩa của công việc mìn
 
 #### **2. Trao quyền, trao quyền hơn nữa cho nhân viên!**
 
-Các tổ chức gắn kết thực sự sử dụng công nghệ để trao quyền cho nhân viên. Điều đó không chỉ là trao quyền cho ban lãnh đạo cấp cao mà còn là trao quyền tiếp cận bình đẳng cho nhân viên tuyến đầu tại các cửa hàng, nhà máy hoặc vị trí ở xa khác để họ có thể chia sẻ thông tin, cũng như cộng tác cùng nhau hiệu quả.
+Các tổ chức gắn kết thực sự biết cách sử dụng công nghệ để trao quyền cho nhân viên. Điều đó không chỉ là trao quyền cho ban lãnh đạo cấp cao mà còn là trao quyền tiếp cận bình đẳng cho nhân viên tuyến đầu tại các cửa hàng, nhà máy hoặc vị trí ở xa khác để họ có thể chia sẻ thông tin, cũng như cộng tác cùng nhau hiệu quả.
 
 ![](/images/uploads/no2.png)
 
@@ -34,7 +34,7 @@ Workplace biến các hình thức truyền tải nhàm chán một chiều thà
 
 #### **4. Giúp nhân viên mới nhập cuộc nhanh hơn**
 
-Theo Hireology, *"The Costs of Poor Onboarding: What You Lose When People Jump Ship"*, 40% công ty không hỗ trợ nhân viên mới ở mức tối thiểu mà họ cần. Với nền tảng Workplace from Facebook, công ty có thể xây dựng cộng đồng gồm những nhân viên mới thậm chí cả trước khi họ bắt đầu, trong khi vẫn tạo điều kiện cho họ tiếp cận những nhân viên hiện tại dễ dàng.
+Theo Hireology, *"The Costs of Poor Onboarding: What You Lose When People Jump Ship"*, phần đông công ty không hỗ trợ nhân viên mới ở mức tối thiểu mà họ cần khi bắt đầu công việc mới tại công . Với nền tảng Workplace from Facebook, công ty có thể xây dựng cộng đồng gồm những nhân viên mới thậm chí cả trước khi họ bắt đầu, trong khi vẫn tạo điều kiện cho họ tiếp cận những nhân viên hiện tại dễ dàng.
 
 ![](/images/uploads/no4.png)
 
