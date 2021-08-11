@@ -2,6 +2,7 @@
 title: Hướng dẫn cách tuyển dụng hiệu quả trên LinkedIn từ A đến Z
 draft: false
 date: 2021-08-11
+image: /images/uploads/thumb.png
 ---
 ### ***Tuyển dụng có trả phí trên LinkedIn***
 
