@@ -20,13 +20,13 @@ Nếu nhân viên không hiểu mục đích & ý nghĩa của công việc mìn
 
 ![](/images/uploads/no1.png)
 
-#### **2. Hãy lắng nghe và tôn trọng ý kiến nhân viên**
+#### **2. Tạo điều kiện để mọi nhân viên lên tiếng**
 
 Các tổ chức gắn kết thực sự sử dụng công nghệ để trao quyền cho nhân viên. Điều đó không chỉ là trao quyền cho ban lãnh đạo cấp cao mà còn là trao quyền tiếp cận bình đẳng cho nhân viên tuyến đầu tại các cửa hàng, nhà máy hoặc vị trí ở xa khác để họ có thể chia sẻ thông tin, cũng như cộng tác cùng nhau hiệu quả.
 
 ![](/images/uploads/no2.png)
 
-#### **3. Tạo điều kiện để mọi nhân viên lên tiếng**
+#### **3.** Hãy lắng nghe & tôn trọng ý kiến nhân viên
 
 Workplace biến các hình thức truyền tải nhàm chán một chiều thành các cuộc trò chuyện 2 chiều bằng cách hiển thị công khai hoạt động giao tiếp và khuyến khích phản hồi dưới dạng thích, bình luận, chia sẻ và bày tỏ cảm xúc.
 
@@ -58,9 +58,15 @@ Danh sách này còn có các tổ chức trong những ngành chịu sự kiể
 
 ### **Hãy bắt đầu hành trình gắn kết nhân viên với nền tảng truyền thông & hợp tác nội bộ Workplace from Facebook!**
 
+
+
 \>>Đăng ký trải nghiệm ngay! Link: [https://anpha.be/3lM43Sb](https://business.anphabe.com/?utm_source=facebook&utm_medium=website&utm_campaign=workplace2021&utm_content=6tuyetchieuganketnhanvien)
 
+
+
 #### ***CÁC CÔNG TY ĐANG SỬ DỤNG WORKPLACE TẠI VIỆT NAM***
+
+
 
 ![](/images/uploads/cong-ty-dang-su-dung-workplace.png)
 
