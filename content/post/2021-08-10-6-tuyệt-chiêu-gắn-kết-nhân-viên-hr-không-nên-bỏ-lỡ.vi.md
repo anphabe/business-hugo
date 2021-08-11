@@ -20,7 +20,7 @@ Nếu nhân viên không hiểu mục đích & ý nghĩa của công việc mìn
 
 ![](/images/uploads/no1.png)
 
-#### **2.** Trao quyền, trao quyền hơn nữa cho nhân viên!
+#### **2. Trao quyền, trao quyền hơn nữa cho nhân viên!**
 
 Các tổ chức gắn kết thực sự sử dụng công nghệ để trao quyền cho nhân viên. Điều đó không chỉ là trao quyền cho ban lãnh đạo cấp cao mà còn là trao quyền tiếp cận bình đẳng cho nhân viên tuyến đầu tại các cửa hàng, nhà máy hoặc vị trí ở xa khác để họ có thể chia sẻ thông tin, cũng như cộng tác cùng nhau hiệu quả.
 
