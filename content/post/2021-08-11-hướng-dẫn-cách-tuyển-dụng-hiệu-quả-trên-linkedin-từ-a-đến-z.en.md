@@ -3,7 +3,7 @@ title: Hướng dẫn cách tuyển dụng hiệu quả trên LinkedIn từ A đ
 draft: false
 date: 2021-08-11
 ---
-### ***Tuyển dụng có trả phí trên LinkedIn***
+##### ***(Tuyển dụng có trả phí trên LinkedIn)***
 
 Mặc dù những tính năng miễn phí của LinkedIn có thể mang lại hiệu quả ở một mức độ nào đó. Nhưng nếu doanh nghiệp muốn khai thác được tiềm năng thực sự của LinkedIn như một công cụ tuyển dụng “Tất cả trong một” thì nên nâng cấp lên tài khoản trả phí với những tính năng vượt trội hơn gấp bội lần. Có thể bạn sẽ ngần ngại liệu có đáng không khi phải mạnh tay “móc hầu bao” chi trả cho LinkedIn. Vậy nên hãy xem với gói tuyển dụng này, LinkedIn có thể mang lại những gì cho doanh nghiệp nhé.
 
