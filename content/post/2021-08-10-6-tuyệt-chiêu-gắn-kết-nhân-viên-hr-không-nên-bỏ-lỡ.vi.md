@@ -1,5 +1,5 @@
 ---
-title: 6 tuyệt chiêu gắn kết nhân viên, HR không nên bỏ lỡ!
+title: 6 cách gắn kết nhân viên, HR không nên bỏ lỡ!
 draft: false
 date: 2021-08-10
 image: /images/uploads/file-deliver.png
@@ -12,7 +12,7 @@ image: /images/uploads/file-deliver.png
 
 \>>>*[Workplace from Facebook là gì?](https://business.anphabe.com/post/2021-05-21-workplace-from-facebook-l%C3%A0-g%C3%AC/?utm_source=facebook&utm_medium=website&utm_campaign=workplace2021&utm_content=WorkplacefromFacebooklagi)*
 
-#### **1. Kết nối nhân viên với sứ mệnh của công ty**
+#### **1. Cách tận dụng công nghệ để trao quyền cho cho nhân viên**
 
 Nếu nhân viên không hiểu mục đích & ý nghĩa của công việc mình đang làm, họ sẽ không có động lực để gắn bó dài lâu cùng công ty. Đó là lý do vì sao mà người HR và lãnh đạo càng cần kết nối nhân viên với sự mệnh của tổ chức càng sớm, càng rõ ràng, càng tốt.
 
@@ -20,7 +20,7 @@ Nếu nhân viên không hiểu mục đích & ý nghĩa của công việc mìn
 
 ![](/images/uploads/wp_1.png)
 
-#### **2. Thúc đẩy sự trao quyền trong tổ chức**
+#### **2. Hãy lắng nghe và tôn trọng ý kiến nhân viên**
 
 Các tổ chức gắn kết thực sự sử dụng công nghệ để trao quyền cho nhân viên. Điều đó không chỉ là trao quyền cho ban lãnh đạo cấp cao mà còn là trao quyền tiếp cận bình đẳng cho nhân viên tuyến đầu tại các cửa hàng, nhà máy hoặc vị trí ở xa khác để họ có thể chia sẻ thông tin, cũng như cộng tác cùng nhau hiệu quả.
 
@@ -32,13 +32,13 @@ Workplace biến các hình thức truyền tải nhàm chán một chiều thà
 
 ![](/images/uploads/wp_3.png)
 
-#### **4. Kết nối bài bản và hiệu quả cho nhân viên mới**
+#### **4. Giúp nhân viên mới nhập cuộc nhanh hơn**
 
 Theo Hireology, *"The Costs of Poor Onboarding: What You Lose When People Jump Ship"*, 40% công ty không hỗ trợ nhân viên mới ở mức tối thiểu mà họ cần. Với nền tảng Workplace from Facebook, công ty có thể xây dựng cộng đồng gồm những nhân viên mới thậm chí cả trước khi họ bắt đầu, trong khi vẫn tạo điều kiện cho họ tiếp cận những nhân viên hiện tại dễ dàng.
 
 ![](/images/uploads/wp_4.png)
 
-#### **5. Tạo động lực cho nhân viên hiện tại**
+#### **5. Ghi nhận, khích lệ nhân viên thường xuyên & công khai**
 
 Đối với nhiều nhân viên, không phải tiền lương mà lời khen ngợi mới là yếu tố tạo nên sự khác biệt. Sự ghi nhận không chỉ thúc đẩy văn hóa công ty (ảnh hưởng đến mối quan hệ, mức độ gắn kết và giá trị) mà còn thực sự mức độ hài lòng của nhân viên.
 
@@ -58,9 +58,15 @@ Danh sách này còn có các tổ chức trong những ngành chịu sự kiể
 
 ### **Hãy bắt đầu hành trình gắn kết nhân viên với nền tảng truyền thông & hợp tác nội bộ Workplace from Facebook!**
 
+
+
 \>>Đăng ký trải nghiệm ngay! Link: [https://anpha.be/3lM43Sb](https://business.anphabe.com/?utm_source=facebook&utm_medium=website&utm_campaign=workplace2021&utm_content=6tuyetchieuganketnhanvien)
 
-***CÁC CÔNG TY ĐANG SỬ DỤNG WORKPLACE TẠI VIỆT NAM***
+
+
+#### ***CÁC CÔNG TY ĐANG SỬ DỤNG WORKPLACE TẠI VIỆT NAM***
+
+
 
 ![](/images/uploads/cong-ty-dang-su-dung-workplace.png)
 
