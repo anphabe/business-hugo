@@ -14,7 +14,7 @@ image: /images/uploads/file-deliver.png
 
 #### **1. Giúp nhân viên hiểu rõ ý nghĩa công việc**
 
-Nếu nhân viên không hiểu mục đích & ý nghĩa của công việc mình đang làm, họ sẽ không có động lực để gắn bó dài lâu cùng công ty. Đó là lý do vì sao mà người HR và lãnh đạo càng cần kết nối nhân viên với sự mệnh của tổ chức càng sớm, càng rõ ràng, càng tốt.
+Nếu nhân viên không hiểu mục đích & ý nghĩa của công việc mình đang làm, họ sẽ không có động lực để gắn bó dài lâu cùng công ty. Đó là lý do vì sao mà người HR và lãnh đạo càng cần kết nối nhân viên với sứ mệnh của tổ chức càng sớm, càng rõ ràng, càng tốt.
 
 Đã đến lúc lãnh đạo cần nắm bắt các hình thức giao tiếp mang tính minh bạch, sôi nổi hơn và thường xuyên chia sẻ cũng như cập nhật những thông tin quan trọng của công ty để kéo gần khoảng cách với nhân viên.
 
@@ -40,7 +40,7 @@ Theo Hireology, *"The Costs of Poor Onboarding: What You Lose When People Jump S
 
 #### **5. Ghi nhận, khích lệ nhân viên thường xuyên & công khai**
 
-Đối với nhiều nhân viên, không phải tiền lương mà lời khen ngợi mới là yếu tố tạo nên sự khác biệt. Sự ghi nhận không chỉ thúc đẩy văn hóa công ty (ảnh hưởng đến mối quan hệ, mức độ gắn kết và giá trị) mà còn thực sự mức độ hài lòng của nhân viên.
+Đối với nhiều nhân viên, không phải tiền lương mà lời khen ngợi mới là yếu tố tạo nên sự khác biệt. Sự ghi nhận không chỉ thúc đẩy văn hóa công ty (ảnh hưởng đến mối quan hệ, mức độ gắn kết và giá trị) mà còn thực sự gia tăng mức độ hài lòng của nhân viên.
 
 ![](/images/uploads/no5.png)
 
