@@ -19,4 +19,6 @@ Anphabe hiện là Đối tác Phát triển Thị trường duy nhất của Li
 \
 LinkedIn là mạng xã hội nghề nghiệp dành cho người đi làm lớn nhất thế giới, hiện có hơn 774 triệu thành viên trên toàn cầu. Hiện nay, có hơn ba triệu người đi làm Việt Nam đang sử dụng LinkedIn.
 
-![](/images/uploads/info_linkedin.png)
+**LIÊN HÊ ANPHABE NGAY để được tư vấn cụ thể!**\
+☎: (84 28) 6268 2222, ext. 107 \
+📩 Email: [clientsolution@anphabe.com](mailto:clientsolution@anphabe.com)
