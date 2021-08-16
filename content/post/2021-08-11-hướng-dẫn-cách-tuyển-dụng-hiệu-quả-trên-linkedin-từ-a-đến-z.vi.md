@@ -50,7 +50,7 @@ Bên cạnh đó, LinkedIn còn cho phép bạn theo dõi các số liệu về 
 
 #### **3. Career Page**
 
-Hãy tưởng tượng khi bài tuyển dụng của bạn hiển thị trên trang của ứng viên, họ vào xem mô tả công việc và cảm thấy cực kỳ ưng ý vị trí này. Tuy nhiên, khi vẫn muốn tìm hiểu thêm về môi trường làm việc và văn hóa của công ty, họ click vào trang tuyển dụng công ty nhưng trang lại không tồn tại. Điều này sẽ gây ảnh hướng đến mong muốn nộp đơn của họ, bởi ứng viên thường có xu hướng ứng tuyển vào những công ty mà họ có thể tìm hiểu rõ về môi trường và văn hóa doanh nghiệp hơn.
+Hãy tưởng tượng khi bài tuyển dụng của bạn hiển thị trên trang của ứng viên, họ vào xem mô tả công việc và cảm thấy cực kỳ ưng ý vị trí này. Tuy nhiên, khi vẫn muốn tìm hiểu thêm về môi trường làm việc và văn hóa của công ty, họ click vào trang tuyển dụng công ty nhưng trang lại không có thông tin gì. Điều này sẽ gây ảnh hướng đến mong muốn nộp đơn của họ, bởi ứng viên thường có xu hướng ứng tuyển vào những công ty mà họ có thể tìm hiểu rõ về môi trường và văn hóa doanh nghiệp hơn.
 
 Một sự đầu tư đúng đắn sẽ không chỉ làm mạnh thêm **thương hiệu nhà tuyển dụng** mà còn giúp tăng năng lực cạnh tranh của bạn trên thị trường lao động. Không những thế, hãy nhớ một điều rằng, không chỉ những ứng viên có mong muốn làm việc tại công ty mới vào xem trang thông tin doanh nghiệp của bạn. Trong số hơn nửa tỷ thành viên LinkedIn còn có khách hàng, khách hàng tiềm năng, đối tác và những doanh nghiệp có thể sẽ hợp tác với bạn trong tương lai. 
 
