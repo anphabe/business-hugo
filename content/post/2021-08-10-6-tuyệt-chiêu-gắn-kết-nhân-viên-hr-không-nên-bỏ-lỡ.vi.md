@@ -2,13 +2,13 @@
 title: 6 cách gắn kết nhân viên hiệu quả, HR không nên bỏ lỡ!
 draft: false
 date: 2021-08-10
-image: /images/uploads/file-deliver.png
+image: /images/uploads/shutterstock_1930884182.jpg
 ---
 *Nhiệm vụ trao quyền, tạo động lực và giữ chân nhân tài trong tổ chức sẽ không còn khó khăn nếu công ty có một không gian chung để lãnh đạo & nhân viên cùng chia sẻ và cất lên tiếng nói.* 
 
 *Dưới đây là 6 gợi ý giúp mang lại trải nghiệm gắn kết nhân viên chỉ với một nền tảng truyền thông & hợp tác nội bộ **Workplace from Facebook** mà HR không nên bỏ lỡ!*
 
-![](/images/uploads/file-deliver.png "6 cách mang lại trải nghiệm gắn kết cho nhân viên (Ảnh: Internet)")
+![](/images/uploads/shutterstock_1930884182.jpg "6 cách mang lại trải nghiệm gắn kết cho nhân viên (Ảnh: Internet)")
 
 \>>>*[Workplace from Facebook là gì?](https://business.anphabe.com/post/2021-05-21-workplace-from-facebook-l%C3%A0-g%C3%AC/?utm_source=facebook&utm_medium=website&utm_campaign=workplace2021&utm_content=WorkplacefromFacebooklagi)*
 
