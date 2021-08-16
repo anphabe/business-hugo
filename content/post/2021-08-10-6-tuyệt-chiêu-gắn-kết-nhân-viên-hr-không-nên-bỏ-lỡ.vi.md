@@ -62,9 +62,16 @@ Danh sách này còn có các tổ chức trong những ngành chịu sự kiể
 
 ![](/images/uploads/các-dn-đang-sử-dụng-wp-tại-vn.png)
 
-![]()
+<!--StartFragment-->
 
-{{<html>}}
-    <a href="https://anpha.be/3xUxbce" target="_blank"><img src="/images/uploads/info.png" alt=""></a>
 
-{{</html>}}
+
+𝐀𝐧𝐩𝐡𝐚𝐛𝐞 – đối tác độc quyền của nền tảng truyền thông & hợp tác nội bộ Workplace from Facebook tại Việt Nam, đã giúp hàng chục doanh nghiệp cấp tiến tiếp cận Workplace với quy trình triển khai thực tiễn và hiệu quả.
+
+![👉](https://www.facebook.com/images/emoji.php/v9/taa/1.5/16/1f449.png)Liên hệ để được tư vấn!
+
+Email: clientsolution@anphabe.com
+
+Hotline: (84 28) 6268 2222, ext. 107
+
+<!--EndFragment-->
