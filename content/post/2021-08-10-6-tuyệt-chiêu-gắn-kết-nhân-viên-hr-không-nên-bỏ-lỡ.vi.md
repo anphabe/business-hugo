@@ -62,12 +62,13 @@ Danh sách này còn có các tổ chức trong những ngành chịu sự kiể
 
 ![](/images/uploads/các-dn-đang-sử-dụng-wp-tại-vn.png)
 
-![](/images/uploads/info.png)
+![]()
 
 {{<html>}}
-    <a href="https://anpha.be/3xUxbce" target="_blank"><img src="/images/uploads/<!--StartFragment-->
+    <a href="https://anpha.be/3xUxbce" target="_blank"><img src="/images/uploads/
 
-info.png
+![](/images/uploads/info.png)
 
-<!--EndFragment-->" alt=""></a>
+" alt=""></a>
+
 {{</html>}}
