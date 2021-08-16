@@ -12,7 +12,7 @@ Tại hội nghị Đối tác 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 Khu vực châu 
 \
 Nhận định về sự hợp tác với Anphabe trong hơn một năm rưỡi vừa qua, ông Vivek Singh, Trưởng bộ phận Đối tác Khu vực châu Á - TBD của LinkedIn cho biết: *"Anphabe sở hữu đội ngũ tư vấn am hiểu sản phẩm, luôn sẵn sàng đồng hành & tư vấn cho khách hàng chính là yếu tố quan trọng giúp họ thành công. Chúng tôi rất tin tưởng vào tương lai hợp tác tốt đẹp giữa Anphabe và LinkedIn.”*
 
-![ông Vivek Singh, Trưởng bộ phận Đối tác Khu vực châu Á - TBD của LinkedIn](/images/uploads/quote_linkedin.png "ông Vivek Singh, Trưởng bộ phận Đối tác Khu vực châu Á - TBD của LinkedIn")
+![ông Vivek Singh, Trưởng bộ phận Đối tác Khu vực châu Á - TBD của LinkedIn](/images/uploads/fix-_quote_linkedin-autosaved-.png "ông Vivek Singh, Trưởng bộ phận Đối tác Khu vực châu Á - TBD của LinkedIn")
 
 \
 Anphabe hiện là Đối tác Phát triển Thị trường duy nhất của LinkedIn tại Việt Nam, chuyên cung cấp các giải pháp Tuyển Dụng & Thương Hiệu Nhà Tuyển Dụng trên nền tảng LinkedIn. Với đội ngũ tư vấn được đào tạo bài bản bởi LinkedIn, Anphabe đã và đang đồng hành và hỗ trợ các doanh nghiệp tuyển dụng nhanh, đúng người đúng việc và gia tăng sức hấp dẫn với ứng viên tiềm năng thông qua các giải pháp toàn diện, từ 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 𝐑𝐞𝐜𝐫𝐮𝐢𝐭𝐞𝐫, 𝐉𝐨𝐛 𝐒𝐥𝐨𝐭 cho đến 𝐂𝐚𝐫𝐞𝐞𝐫 𝐏𝐚𝐠𝐞.\
