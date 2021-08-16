@@ -65,10 +65,6 @@ Danh sách này còn có các tổ chức trong những ngành chịu sự kiể
 ![]()
 
 {{<html>}}
-    <a href="https://anpha.be/3xUxbce" target="_blank"><img src="/images/uploads/
-
-![](/images/uploads/info.png)
-
-" alt=""></a>
+    <a href="https://anpha.be/3xUxbce" target="_blank"><img src="/images/uploads/info.png" alt=""></a>
 
 {{</html>}}
