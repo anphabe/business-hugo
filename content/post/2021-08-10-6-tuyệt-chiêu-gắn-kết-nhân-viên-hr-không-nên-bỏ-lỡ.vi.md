@@ -58,8 +58,16 @@ Danh sách này còn có các tổ chức trong những ngành chịu sự kiể
 
 ### **Hãy bắt đầu hành trình gắn kết nhân viên với nền tảng truyền thông & hợp tác nội bộ Workplace from Facebook!**
 
-\>>Đăng ký trải nghiệm ngay! Link: [https://anpha.be/3lM43Sb](https://business.anphabe.com/?utm_source=facebook&utm_medium=website&utm_campaign=workplace2021&utm_content=6tuyetchieuganketnhanvien)
+\>>Đăng ký trải nghiệm ngay! Link: **https://anpha.be/3xUxbce** 
 
 ![](/images/uploads/các-dn-đang-sử-dụng-wp-tại-vn.png)
 
 ![](/images/uploads/info.png)
+
+{{<html>}}
+    <a href="https://anpha.be/3xUxbce" target="_blank"><img src="/images/uploads/<!--StartFragment-->
+
+info.png
+
+<!--EndFragment-->" alt=""></a>
+{{</html>}}
