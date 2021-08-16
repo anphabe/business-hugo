@@ -20,7 +20,7 @@ Tuyển dụng nhân sự giống như… đi tìm người yêu vậy, cứ ng�
 
 **LinkedIn Recruiter** là công cụ cho phép bạn tìm kiếm, kết nối trực tiếp, đồng thời lưu trữ và quản lý nguồn ứng viên của mình bằng những tính năng ưu việt. Cụ thể:
 
-* Bộ lộc, tìm kiếm kết hợp đa dạng nhiều tiêu chí, tìm kiếm theo từ khóa, trả về nhiều kết quả với thông tin chi tiết, giúp bạn xác định được ứng viên phù hợp trong thời gian ngắn hơn. Ngoài ra, còn có tính năng tìm thêm profile tương tự, sẽ giúp bạn tránh được việc bỏ sót những ứng viên tiềm năng.
+* Bộ lọc, tìm kiếm kết hợp đa dạng nhiều tiêu chí, tìm kiếm theo từ khóa, trả về nhiều kết quả với thông tin chi tiết, giúp bạn xác định được ứng viên phù hợp trong thời gian ngắn hơn. Ngoài ra, còn có tính năng tìm thêm profile tương tự, sẽ giúp bạn tránh được việc bỏ sót những ứng viên tiềm năng.
 * Xem tất cả hồ sơ ứng viên bên ngoài mạng lưới liên kết.
 * Trao đổi trực tiếp với thành viên khác trong nhóm về từng ứng viên ngay trên profile của họ.
 * Không cần thông qua mối quan hệ chung vẫn có thể trực tiếp liên hệ ứng viên với tin nhắn InMail (lên đến 150 Inmails/tháng) kèm theo hình thức gửi Inmail hàng loạt.
