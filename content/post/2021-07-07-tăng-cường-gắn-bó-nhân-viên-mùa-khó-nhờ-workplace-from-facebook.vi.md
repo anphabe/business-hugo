@@ -2,11 +2,11 @@
 title: 5 bí quyết rút ngắn khoảng cách với nhân viên dù đang giãn cách
 draft: false
 date: 2021-07-07
-image: /images/uploads/5-bi-quyet.jpg
+image: /images/uploads/5-bí-quyết.jpg
 ---
 *Khắc phục tình trạng “xa mặt cách lòng”, cập nhật thông tin nhanh, quyết định kịp thời, giúp tổ chức linh hoạt ứng biến & vận hành không gián đoạn,... **Workplace From Facebook** còn có nhiều tính năng hữu ích khác giúp nối sợi dây gắn kết giữa lãnh đạo và nhân viên trong thời “giãn cách”.*
 
-![Thời khó càng phải tăng cường gắn bó nhân viên](/images/uploads/5-bi-quyet.jpg)
+![Thời khó càng phải tăng cường gắn bó nhân viên](/images/uploads/5-bí-quyết.jpg)
 
 ***\>>>[Workplace from Facebook là gì?](https://business.anphabe.com/post/2021-05-21-workplace-from-facebook-l%C3%A0-g%C3%AC/)*** 
 
@@ -48,6 +48,8 @@ Bạn có thể đăng nhiều video ngắn khác nhau hoặc cung cấp trải 
 
 Ngoài những ví dụ trên, **Workplace From Facebook** còn cung cấp nhiều gợi ý hữu ích khác giúp doanh nghiệp tăng cường gắn kết nhân viên khi cách xa nhau.
 
-Tải ngay tài liệu "**[Cách doanh nghiệp sử dụng Workplace để ứng phó trong đại dịch](https://workplace.anphabe.com/)**" để tham khảo thêm.
+Tải ngay tài liệu "**[Cách doanh nghiệp sử dụng Workplace để ứng phó trong đại dịch](https://anpha.be/3kr3qge)**" để tham khảo thêm.
 
-![](/images/uploads/hih-3.png)
+{{<html>}}
+    <a href="https://anpha.be/3kr3qge" target="_blank"><img src="/images/uploads/hih-3.png" alt=""></a>
+{{</html>}}
