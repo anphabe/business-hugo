@@ -5,13 +5,14 @@ title = "My New Hugo Site"
 theme = "business"
 
 defaultContentLanguage = "vi"
+paginate = 9
 
 [languages]
   [languages.vi]
     title = "Anphabe Business"
     weight = 1
   [languages.en]
-    title = "English"
+    title = "Anphabe Business"
     weight = 2
     
 [module]

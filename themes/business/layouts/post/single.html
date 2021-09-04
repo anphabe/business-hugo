@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html  >
+<head>
+  
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-icon">
+
+  {{ partial "meta.html" . }}
+  
+  <link rel="stylesheet" href="/assets/themify/css/themify-icons.css">
+  <link rel="stylesheet" href="/assets/tether/tether.min.css">
+  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="/assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="/assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="/assets/theme/css/style.css">
+  <link rel="preload" as="style" href="/assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="/assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+      <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TXVFM6K');</script>
+<!-- End Google Tag Manager -->
+<script>
+function keep_url_query(){
+    var url = window.location.href;
+    var index = url.indexOf("?");
+
+    if(index < 0) {
+        return;
+    }
+    var query = url.substring(index);
+    
+    (function(query) {
+    var atags = document.getElementsByTagName("a"); 
+    var i;
+    for (i = 0; i < atags.length; i++) {
+        atags[i].href = atags[i].href+query;  
+    //    atags[i].classList.add("d-inline-block");
+    } 
+        
+    })(query);
+}
+
+if (
+    document.readyState === "complete" ||
+    (document.readyState !== "loading" && !document.documentElement.doScroll)
+) {
+  keep_url_query();
+} else {
+  document.addEventListener("DOMContentLoaded", keep_url_query);
+}
+
+</script>
+  
+<style>
+    .post-detail, .post-detail p {
+        font-family: 'Be Vietnam', sans-serif;
+        font-size: 1.1rem;
+        line-height: 1.5;
+    }
+    .post-detail img {
+        width: initial;
+        max-width: 100%;
+    }
+
+    pre {
+        background: #f7f7f9;
+        padding: 10px;
+    }
+
+</style>
+</head>
+<body>
+      <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TXVFM6K"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+{{ partial "menu.html" . }}
+
+<section class="py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb display-4" style="line-height: 1em;">
+                      <li class="breadcrumb-item active" aria-current="page"><a class="" href="{{ "/" | relLangURL }}">{{ i18n "home" }}</a></li>
+                      <li class="breadcrumb-item active" aria-current="page"><a class="" href="{{ "post/" | relLangURL }}">{{ i18n "resources" }}</a></li>
+                    </ol>
+                  </nav>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-md-12 col-lg-10">
+                <h1 class="post-title display-5">{{.Title}}</h1>
+                <div class="post-detail">{{ .Content }}</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="related_post pb-5">
+    <div class="container">
+        <div class="mbr-section-head">
+            <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-5">
+               {{ i18n "related_post"}}</h4>
+            
+        </div>
+        <div class="row mt-4">
+            {{ partial "related_post.html" . }}
+        </div>
+    </div>
+</section>
+
+
+
+{{ partial "footer.html" .}}
+
+
+<script src="/assets/web//assets/jquery/jquery.min.js"></script>
+  <script src="/assets/popper/popper.min.js"></script>
+  <script src="/assets/tether/tether.min.js"></script>
+  <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="/assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="/assets/dropdown/js/nav-dropdown.js"></script>
+  <script src="/assets/dropdown/js/navbar-dropdown.js"></script>
+  <script src="/assets/touchswipe/jquery.touch-swipe.min.js"></script>
+  <script src="/assets/theme/js/script.js"></script>
+  
+  <script src="/assets/al/al.min.js"></script>
+  
+ <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
+  </body>
+</html>

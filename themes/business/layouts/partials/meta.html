@@ -1,4 +1,4 @@
-<title>{{if .IsPage}}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
+<title>{{if or .IsPage .IsNode}}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }} {{ if .IsNode }} {{ if gt .Paginator.PageNumber 1 }} - Page {{ .Paginator.PageNumber }} {{ end }} {{ end }}</title>
 <meta name="title" content="{{ .Title }} | {{ .Site.Title }}">
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
 <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />

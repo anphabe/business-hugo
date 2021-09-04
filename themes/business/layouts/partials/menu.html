@@ -1,16 +1,19 @@
-<section class="menu menu2 cid-so1bPLjU2r" once="menu" id="menu2-shq4bcI3C9-shq4bcI3C9-shq4bcI3C9-shq4bcI3C9-shq4bcI3C9-1w">
-    
+<section class="menu menu2 cid-so1bPLjU2r" once="menu"
+    id="menu2-shq4bcI3C9-shq4bcI3C9-shq4bcI3C9-shq4bcI3C9-shq4bcI3C9-1w">
+
     <nav class="navbar navbar-dropdown navbar-expand-lg">
         <div class="container-fluid">
             <div class="navbar-brand">
                 <span class="navbar-logo">
                     <a href="{{ "/" | relLangURL}}">
-                        <img src="/assets/images/anphabe-white.png" alt="Anphabe - Connecting Opportuinies!" style="height: 6.1rem;">
+                        <img src="/assets/images/anphabe-white.png" alt="Anphabe - Connecting Opportuinies!"
+                            style="height: 6.1rem;">
                     </a>
                 </span>
-                
+
             </div>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <div class="hamburger">
                     <span></span>
                     <span></span>
@@ -19,21 +22,49 @@
                 </div>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="{{ "/" | relLangURL }}">{{ i18n "home" }}</a></li>
-                    <li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="{{ "/" | relLangURL }}#features" aria-expanded="false">{{ i18n "services" }}</a></li><li class="nav-item dropdown"><a class="nav-link link text-info dropdown-toggle display-4" href="{{ "/" | relLangURL}}#partnerships" aria-expanded="false" data-toggle="dropdown-submenu">{{ i18n "partnerships" }}</a><div class="dropdown-menu"><a class="text-info dropdown-item text-primary display-4" href="https://workplace.anphabe.com/" aria-expanded="false" target="_blank">Workplace</a><a class="text-info dropdown-item text-primary display-4" href="{{ "/" | relLangURL}}#partnerships" aria-expanded="false">LinkedIn</a><a class="text-info dropdown-item text-primary display-4" href="{{ "/" | relLangURL}}#partnerships" aria-expanded="false">Talegent</a></div></li><li class="nav-item dropdown"><a class="nav-link link text-info text-primary dropdown-toggle display-4" href="#" aria-expanded="false" data-toggle="dropdown-submenu">{{ i18n "resources"}}</a><div class="dropdown-menu"><a class="text-info text-primary dropdown-item display-4" href="https://www.anphabe.com/survey-report" target="_blank" aria-expanded="false">{{ i18n "reports"}}</a><a class="text-info text-primary dropdown-item display-4" href="{{ "/" | relLangURL}}#resources" aria-expanded="false">{{ i18n "featured-stories" }}</a><a class="text-info text-primary dropdown-item display-4" href="https://www.anphabe.com/discussions/questions-answers " aria-expanded="false" target="_blank">{{ i18n "knowledge-sharing" }}</a><a class="text-info text-primary dropdown-item display-4" href="{{ "lienhe/" | relLangURL}}" aria-expanded="false">{{ i18n "media" }}<br></a></div></li>
-                    <li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="{{ "lienhe/" | relLangURL }}">{{ i18n "contact-us" }}</a>
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
+                    <li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="{{ "/" |
+                            relLangURL }}">{{ i18n "home" }}</a></li>
+                    <li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="{{ "/" |
+                            relLangURL }}#features" aria-expanded="false">{{ i18n "services" }}</a></li>
+                    <li class="nav-item dropdown"><a class="nav-link link text-info dropdown-toggle display-4"
+                            href="{{ "/" | relLangURL}}#partnerships" aria-expanded="false"
+                            data-toggle="dropdown-submenu">{{ i18n "partnerships" }}</a>
+                        <div class="dropdown-menu"><a class="text-info dropdown-item text-primary display-4"
+                                href="https://workplace.anphabe.com/" aria-expanded="false"
+                                target="_blank">Workplace</a><a class="text-info dropdown-item text-primary display-4"
+                                href="{{ "/" | relLangURL}}#partnerships" aria-expanded="false">LinkedIn</a><a
+                                class="text-info dropdown-item text-primary display-4" href="{{ "/" |
+                                relLangURL}}#partnerships" aria-expanded="false">Talegent</a></div>
+                    </li>
+                    <li class="nav-item dropdown"><a
+                            class="nav-link link text-info text-primary dropdown-toggle display-4" href="{{ "post/" | relLangURL}}"
+                            aria-expanded="false" data-toggle="dropdown-submenu">{{ i18n "resources"}}</a>
+                        <div class="dropdown-menu"><a class="text-info text-primary dropdown-item display-4"
+                                href="https://www.anphabe.com/survey-report" target="_blank" aria-expanded="false">{{
+                                i18n "reports"}}</a><a class="text-info text-primary dropdown-item display-4" href="{{ "post/" | relLangURL}}" aria-expanded="false">{{ i18n "featured-stories" }}</a><a
+                                class="text-info text-primary dropdown-item display-4"
+                                href="https://www.anphabe.com/discussions/questions-answers " aria-expanded="false"
+                                target="_blank">{{ i18n "knowledge-sharing" }}</a><a
+                                class="text-info text-primary dropdown-item display-4" href="{{ "lienhe/" |
+                                relLangURL}}" aria-expanded="false">{{ i18n "media" }}<br></a></div>
+                    </li>
+                    <li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="{{ "lienhe/" |
+                            relLangURL }}">{{ i18n "contact-us" }}</a>
                     </li>
                     <li class="nav-item"><span class="text-info" style="margin-top: 20px; display: flex">|</span>
                     </li>
-                    
+
                     {{ if (eq .Site.Language.Lang "en") }}
-                    <li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="/">{{ i18n "lang" }}</a></li>
+                    <li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="/">{{ i18n
+                            "lang" }}</a></li>
                     {{ else }}
-                    <li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="/en">{{ i18n "lang" }}</a></li>
+                    <li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="/en">{{ i18n
+                            "lang" }}</a></li>
                     {{ end }}
                 </ul>
-                
-                
+
+
             </div>
         </div>
     </nav>
