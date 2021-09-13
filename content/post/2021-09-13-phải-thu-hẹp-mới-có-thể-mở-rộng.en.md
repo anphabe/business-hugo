@@ -2,11 +2,11 @@
 title: Phải thu hẹp mới có thể mở rộng
 draft: false
 date: 2021-09-13
-image: /images/uploads/nestle2.jpg
+image: /images/uploads/hình-nestlé.png
 ---
 *Một tập đoàn có hơn 320.000 nhân viên tại 4.000 chi nhánh, ở 190 nước trên toàn cầu thì kết nối với nhau thế nào để chuyển đổi nhanh và đảm bảo cung ứng thực phẩm, đồ uống phục vụ cuộc sống con người? Câu chuyện tại Nestlé cho thấy khi quyết tâm **thu hẹp khoảng cách nội bộ**, họ **mở ra một mạng lưới hợp tác linh hoạt toàn cầu**.*
 
-![](/images/uploads/nestle2.jpg)
+![](/images/uploads/hình-nestlé.png)
 
 #### **Khó khăn cố hữu: càng to lớn, càng cách xa**
 
@@ -24,7 +24,7 @@ Với Nestlé Mexico, nhiều kết quả tích cực được ghi nhận sau ha
 
 Nestlé cũng nhận thấy các hoạt động truyền thông và tương tác nội bộ được cải thiện đáng kể. Nhân viên trao đổi thân thiện và cởi mở hơn về công việc, sản phẩm và cả những sở thích cá nhân về thể thao, nuôi thú cưng… Khi nhân viên thoải mái chia sẻ những khía cạnh đời thường của họ, không khí làm việc và tinh thần hợp tác thay đổi rõ rệt. Các luồng giao tiếp và phối hợp công việc trong ngôi nhà khổng lồ Nestlé trở nên đơn giản và linh hoạt hơn hẳn so với trước đây.
 
-#### **Nhờ đâu Nestlé triển khai Workplace from Facebook thành công?** 
+#### **Nhờ đâu Nestlé triển khai Workplace from Facebook thành công?**
 
 Kinh nghiệm tại Nestlé cho thấy có bốn nguyên tắc cốt lõi để đảm bảo việc ra mắt Workplace suôn sẻ và hiệu quả:
 
