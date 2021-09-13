@@ -8,6 +8,8 @@ image: /images/uploads/hình-nestlé.png
 
 ![](/images/uploads/hình-nestlé.png)
 
+\>>> [Workplace from Facebook là gì?](https://business.anphabe.com/post/2021-05-21-workplace-from-facebook-l%C3%A0-g%C3%AC/)
+
 #### **Khó khăn cố hữu: càng to lớn, càng cách xa**
 
 Tổ chức, doanh nghiệp càng lớn càng khó kết nối các nhóm nhân viên với nhau và khó huy động được sức mạnh tập thể cũng như sự sáng tạo từ tất cả cấp độ nhân viên. Nestlé cũng không tránh khỏi thử thách này, nhất là khi họ có đến hàng trăm ngàn nhân viên đến từ hàng trăm quốc gia và nền văn hóa khác nhau. 
