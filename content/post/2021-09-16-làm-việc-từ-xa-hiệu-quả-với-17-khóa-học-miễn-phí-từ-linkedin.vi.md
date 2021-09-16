@@ -19,7 +19,7 @@ Làm việc từ xa, làm việc tại nhà đang và sẽ trở thành xu hư�
 * *Dễ mất tập trung, xao nhãng vì nhiều yếu tố tác động như gia đình, cuộc sống cá nhân…*
 * *Chưa biết cách quản lý thời gian, sắp xếp công việc hiệu quả khi làm việc từ xa...*
 
-Để đảm bảo hiệu suất làm việc của nhân viên khi làm việc từ xa, người làm quản lý nhân sự cần sâu sát, lắng nghe nhiều hơn tâm tư nguyện vọng của nhân viên cũng như hiểu nguồn gốc của các vấn đề mà họ đang gặp phải để đưa ra giải pháp phù hợp.
+Để đảm bảo hiệu suất làm việc của nhân viên khi làm việc từ xa, người làm quản lý nhân sự cần sâu sát, lắng nghe nhiều hơn tâm tư nguyện vọng của nhân viên, cũng như tìm hiểu nguồn gốc của các vấn đề mà họ đang gặp phải để đưa ra giải pháp phù hợp.
 
 Bên cạnh đó, việc hướng dẫn, hỗ trợ người đi làm tiếp cận với các phương pháp/cách thức làm việc từ xa khoa học, hiệu quả là vô cùng cần thiết. Hãy bắt đầu từ chuỗi khóa học miễn phí của LinkedIn Learning.
 
@@ -41,11 +41,11 @@ Những nội dung chính của khóa học bao gồm:  
 
 ![](/images/uploads/d.jpg)
 
-Xuyên suốt khóa học, bạn có cơ hội được lắng nghe chia sẻ từ các chuyên gia hàng đầu như: bà Jessica Chen (Người sáng lập Soulcast Media), bà Arianna Huffington (Người sáng lập Huffington Post và Thrive Global), ông Joey Hubbard (Giám đốc đào tạo tại Thrive Global)... về các bí quyết quản trị thời gian hiệu suất làm việc từ xa; lãnh đạo nhân viên từ xa; triển khai các nền tảng làm việc giúp quá trình làm việc từ xa dễ dàng như Zoom, Skype, BlueJean, cũng như các tips hiệu quả để quản lý stress, cân bằng công việc & cuộc sống, v.v.
+Xuyên suốt khóa học, bạn có cơ hội được lắng nghe chia sẻ từ các chuyên gia hàng đầu như: bà Jessica Chen (Người sáng lập Soulcast Media), bà Arianna Huffington (Người sáng lập Huffington Post và Thrive Global), ông Joey Hubbard (Giám đốc đào tạo tại Thrive Global)... về các bí quyết quản trị thời gian; lãnh đạo nhân viên từ xa; cách triển khai các nền tảng/công cụ hỗ trợ làm việc từ xa dễ dàng như Zoom, Skype, BlueJean, cũng như các tips hiệu quả để quản lý stress, cân bằng công việc & cuộc sống, v.v..
 
 Tổng thời gian khóa học dài khoảng **14 giờ 28 phút**, bạn hoàn toàn có thể linh hoạt sắp xếp thời gian và chọn chủ đề mình yêu thích để trải nghiệm. Sau khi học xong, bạn sẽ nhận được chứng nhận hoàn thành từ LinkedIn. 
 
-Ngoài các khóa học miễn phí về làm việc từ xa hiệu quả, LinkedIn Learning còn cung cấp nhiều khóa học miễn phí & có phí về các chủ đề hữu ích dành cho người đi làm. Đây sẽ là nguồn thông tin cần thiết để bạn nâng cấp kiến thức và kỹ năng để sẵn sàng cho mọi thách thức phí trước. 
+Ngoài các khóa học miễn phí về làm việc từ xa hiệu quả, LinkedIn Learning còn cung cấp nhiều khóa học miễn phí & có phí về các chủ đề hữu ích dành cho người đi làm. Đây sẽ là nguồn thông tin cần thiết giúp bạn nâng cấp kiến thức và kỹ năng để sẵn sàng cho mọi thách thức phí trước. 
 
 Chúc bạn thành công! 
 
