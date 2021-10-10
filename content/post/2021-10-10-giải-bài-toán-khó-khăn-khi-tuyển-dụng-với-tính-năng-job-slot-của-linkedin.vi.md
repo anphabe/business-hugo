@@ -1,8 +1,8 @@
 ---
 title: Giải bài toán khó khăn khi tuyển dụng với tính năng Job Slot của LinkedIn
-draft: false
-date: 2021-10-10
-image: /images/uploads/linkedin.jpg
+draft: true
+date: 2020-02-02
+image: /images/uploads/linkedin-job-slots.jpg
 ---
 *Giữa thị trường lao động cạnh tranh, tìm được ứng viên tốt và phù hợp là điều không hề dễ dàng với các nhà tuyển dụng. Thay vì chỉ đăng tin và đợi chờ ứng viên trong vô vọng, tại sao bạn không thử tính năng Job Slot của LinkedIn.* 
 
