@@ -27,7 +27,7 @@ Vậy nên, trước khi giao một nhiệm vụ hoặc để một nhân viên 
 
 #### **3. Công việc càng nhàn hạ, nhân viên càng lơ là**
 
-Khi ở trong vòng an toàn quá lâu, người nhân viên rất dễ có cảm giác chán nản, điều này dẫn đến thái độ thờ ơ và làm việc một cách đối phó. Thay vào đó, hãy mở rộng khả năng nhân viên thông qua việc trao cho học cơ hội đảm nhận công việc nhiều thử thách hơn. Các nghiên cứu chỉ ra rằng mức độ vừa phải của áp lực và sự cọ xát trong công việc là điều tốt cho sự phát triển của nhân viên. Tuy nhiên, lãnh đạo cần lưu ý, trước khi giao nhiệm vụ thách thức hơn, hãy hỏi nhân viên của mình về kỳ vọng và mong muốn của họ. 
+Khi ở trong vòng an toàn quá lâu, người nhân viên rất dễ có cảm giác chán nản, điều này dẫn đến thái độ thờ ơ và làm việc một cách đối phó. Thay vào đó, hãy mở rộng khả năng nhân viên thông qua việc trao cho họ cơ hội đảm nhận công việc nhiều thử thách hơn. Các nghiên cứu chỉ ra rằng mức độ vừa phải của áp lực và sự cọ xát trong công việc là điều tốt cho sự phát triển của nhân viên. Tuy nhiên, lãnh đạo cần lưu ý, trước khi giao nhiệm vụ thách thức hơn, hãy hỏi nhân viên của mình về kỳ vọng và mong muốn của họ. 
 
 Ngoài ra, một lộ trình phát triển và thăng tiến rõ ràng chính là bí quyết mà nhiều nhà lãnh đạo thu hút và giữ chân nhân tài gắn bó cùng công ty.
 
