@@ -5,6 +5,8 @@ draft: false
 date: 2021-11-09
 image: /images/uploads/nashtech.jpg
 ---
+![](/images/uploads/nashtech-copy.jpg)
+
 <!--StartFragment-->
 
 ### **NASHTECH - NGÔI NHÀ LÝ TƯỞNG CỦA NHỮNG NHÂN TÀI CÔNG NGHỆ**
