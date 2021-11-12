@@ -1,17 +1,16 @@
 ---
 title: Vắc-xin gắn kết nhân viên thời khó
 draft: false
-date: 2021-11-05
+date: 2021-11-01
 image: /images/uploads/vắc-xin.jpg
 ---
 *Những thách thức kinh tế, xã hội tác động không nhỏ đến tâm lý và sự đóng góp của người đi làm. Doanh nghiệp nên làm thế nào để đảm bảo an toàn, tạo sự an tâm và truyền lửa cho nhân viên cũng như sẵn sàng ứng biến trước mọi thay đổi? Chia sẻ từ tọa đàm: “Vắc-xin gắn kết nhân viên thời khó” với sự tham gia của 03 nữ giám đốc Nhân sự đến từ Sanofi, Lazada Việt Nam, Schneider Electric Việt Nam trong **[Hội nghị trực tuyến Vietnam Excellence 2021](https://www.youtube.com/watch?v=H2SL_92MGGw)** đem đến nhiều bài học thực tiễn.*  
 
+
+
 ![](/images/uploads/vắc-xin.jpg)
 
-
-
 > ### **Truyền lửa nhân viên mùa khó, ló những bài học hay**
-
 
 Đại dịch Covid-19 vào cuối quý II/2021 đặt ra bài toán hóc búa cho doanh nghiệp trong nhiệm vụ gắn kết và tạo động lực cho toàn đội ngũ, bởi hai nỗi lo lớn nhất của người đi làm hiện nay là Sinh mạng và Sinh Kế. Do đó, bên cạnh linh hoạt thay đổi để thích ứng với tình hình mới, doanh nghiệp cũng cần có chiến lược bài bản để đảm bảo sự an toàn và an tâm cho người đi làm. Đặc biệt, truyền thông nội bộ rõ ràng minh bạch, dựa trên sự chân thành kết hợp tận dụng sức mạnh công nghệ là chìa khóa để tạo nên mối nối bền chặt giữa nhân viên với nhân viên, nhân viên với quản lý và công ty.
 
@@ -27,10 +26,7 @@ Cụ thể, hiểu được ưu tiên hàng đầu của nhân viên hiện nay 
 
 *Các nữ diễn giả tại tọa đàm: "Vắc-xin gắn kết nhân viên thời khó"*
 
-
-
-> ### **Tận dụng cơ hội bứt phá giữa thách thức** 
-
+> ### **Tận dụng cơ hội bứt phá giữa thách thức**
 
 Bên cạnh gia tăng gắn kết nhân viên mùa khó bằng cách làm khác biệt và hiệu quả hơn, đây cũng là thời cơ để doanh nghiệp xem xét lại nội lực của tổ chức, cũng như tái tạo & nâng cấp nguồn nhân lực. Để thực hiện được điều đó, doanh nghiệp cần có chiến lược dài hơi, với các hoạt động phù hợp trong tình hình mới. Trong đó, việc tận dụng nguồn lực nội bộ và online sẽ giúp tiết kiệm chi phí và hiệu quả đáng kể.
 
@@ -38,6 +34,4 @@ Cụ thể, dù phải làm việc từ xa, Sanofi vẫn thường xuyên tổ c
 
 Còn tại Schneider Electric Việt Nam, công ty tranh thủ đào tạo các kỹ năng mới cho nhân viên, chẳng hạn như kỹ năng bán hàng trực tuyến giúp nhân viên kinh doanh sẵn sàng đón đầu cơ hội trong bình thường mới. Bên cạnh đó, công ty còn triển khai nhiều workshop về nghề nghiệp, để nhân viên hiểu và chủ động tham gia trang bị kỹ năng cần thiết cho sự nghiệp.
 
-
-
-Tương lai phía trước chắc chắc sẽ còn nhiều bất định và biến động, để tổ chức vững vàng trước mọi thay đổi, người làm nhân sự và nhà quản lý doanh nghiệp cần nghĩ khác, làm khác và làm vượt trội hơn nữa. Trong đó, cần mang đến loại vắc-xin gắn kết để nhân viên cảm thấy an toàn, an tâm, đồng thời cung cấp những kiến thức và kỹ năng mới để xây dựng được “hệ miễn dịch khỏe mạnh” giúp tổ chức có kháng thể mạnh mẽ để ngược gió vươn cao và sẵn sàng tiến về phía trước.
+> ***Tương lai phía trước chắc chắc sẽ còn nhiều bất định và biến động, để tổ chức vững vàng trước mọi thay đổi, người làm nhân sự và nhà quản lý doanh nghiệp cần nghĩ khác, làm khác và làm vượt trội hơn nữa. Trong đó, cần mang đến loại vắc-xin gắn kết để nhân viên cảm thấy an toàn, an tâm, đồng thời cung cấp những kiến thức và kỹ năng mới để xây dựng được “hệ miễn dịch khỏe mạnh” giúp tổ chức có kháng thể mạnh mẽ để ngược gió vươn cao và sẵn sàng tiến về phía trước.***

@@ -1,7 +1,7 @@
 ---
 title: Vắc-xin gắn kết nhân viên thời khó
 draft: false
-date: 2021-11-05
+date: 2021-11-01
 image: /images/uploads/vắc-xin.jpg
 ---
 *Những thách thức kinh tế, xã hội tác động không nhỏ đến tâm lý và sự đóng góp của người đi làm. Doanh nghiệp nên làm thế nào để đảm bảo an toàn, tạo sự an tâm và truyền lửa cho nhân viên cũng như sẵn sàng ứng biến trước mọi thay đổi? Chia sẻ từ tọa đàm: “Vắc-xin gắn kết nhân viên thời khó” với sự tham gia của 03 nữ giám đốc Nhân sự đến từ Sanofi, Lazada Việt Nam, Schneider Electric Việt Nam trong **[Hội nghị trực tuyến Vietnam Excellence 2021](https://www.youtube.com/watch?v=H2SL_92MGGw)** đem đến nhiều bài học thực tiễn.*  
@@ -32,4 +32,4 @@ Cụ thể, dù phải làm việc từ xa, Sanofi vẫn thường xuyên tổ c
 
 Còn tại Schneider Electric Việt Nam, công ty tranh thủ đào tạo các kỹ năng mới cho nhân viên, chẳng hạn như kỹ năng bán hàng trực tuyến giúp nhân viên kinh doanh sẵn sàng đón đầu cơ hội trong bình thường mới. Bên cạnh đó, công ty còn triển khai nhiều workshop về nghề nghiệp, để nhân viên hiểu và chủ động tham gia trang bị kỹ năng cần thiết cho sự nghiệp.
 
-Tương lai phía trước chắc chắc sẽ còn nhiều bất định và biến động, để tổ chức vững vàng trước mọi thay đổi, người làm nhân sự và nhà quản lý doanh nghiệp cần nghĩ khác, làm khác và làm vượt trội hơn nữa. Trong đó, cần mang đến loại vắc-xin gắn kết để nhân viên cảm thấy an toàn, an tâm, đồng thời cung cấp những kiến thức và kỹ năng mới để xây dựng được “hệ miễn dịch khỏe mạnh” giúp tổ chức có kháng thể mạnh mẽ để ngược gió vươn cao và sẵn sàng tiến về phía trước.
+> ***Tương lai phía trước chắc chắc sẽ còn nhiều bất định và biến động, để tổ chức vững vàng trước mọi thay đổi, người làm nhân sự và nhà quản lý doanh nghiệp cần nghĩ khác, làm khác và làm vượt trội hơn nữa. Trong đó, cần mang đến loại vắc-xin gắn kết để nhân viên cảm thấy an toàn, an tâm, đồng thời cung cấp những kiến thức và kỹ năng mới để xây dựng được “hệ miễn dịch khỏe mạnh” giúp tổ chức có kháng thể mạnh mẽ để ngược gió vươn cao và sẵn sàng tiến về phía trước.***
