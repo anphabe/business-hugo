@@ -33,3 +33,9 @@ other = "Read more"
 
 [related_post]
 other = "Related Posts"
+
+[contact-information]
+other = "Contact information"
+
+[phone]
+other = "Phone"
