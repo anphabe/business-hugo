@@ -1,5 +1,5 @@
 ---
-title: Vì sao các công ty tham gia Khảo sát Nơi làm việc tốt nhất Việt Nam?
+title: "Vì sao các công ty tham gia Khảo sát Nơi làm việc tốt nhất Việt Nam? "
 draft: false
 date: 2021-05-11
 image: /images/uploads/1.jpg
@@ -20,6 +20,8 @@ Khảo sát này tập trung nghiên cứu và đo lường các xu hướng m�
 \
 Từ đó, Anphabe đưa ra các chỉ số sức khỏe Thương hiệu nhà tuyển dụng tiêu chuẩn cho các ngành nghề, giúp doanh nghiệp hoạch định chiến lược Thu hút nhân tài & Gắn kết nhân viên hiệu quả. Kết quả khảo sát hàng năm cũng là cơ sở để Anphabe công bố danh sách những môi trường làm việc lý tưởng do người đi làm bình chọn và vinh danh 100 Nơi làm việc tốt nhất Việt Nam.
 
+***Xem kết quả Bảng xếp hạng 100 Nơi làm việc tốt nhất Việt Nam 2021 tại Hội nghị trực tuyến Nơi làm việc tốt nhất Việt Nam 2021: <https://anpha.be/30Tb7nT>*** 
+
 ![100 nơi làm việc tốt nhất Việt Nam](/images/uploads/top-100.jpg "100 nơi làm việc tốt nhất Việt Nam")
 
 *Hội nghị Nơi làm việc tốt nhất Việt Nam năm 2020*
@@ -36,10 +38,6 @@ Tham gia khảo sát, bên cạnh cơ hội gia tăng mức độ nhận biết 
 
    *Để tham gia khảo sát Nơi làm việc tốt nhất Việt Nam và đo lường sức khỏe THNTD chuyên sâu, vui lòng liên hệ Anphabe để được tư vấn:*
 
-
-
    *Điện thoại: (+84 28) 6268 2222*
-
-
 
    *Email: clientsolution@anphabe.com*
