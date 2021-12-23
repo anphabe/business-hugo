@@ -20,11 +20,13 @@ Khảo sát này tập trung nghiên cứu và đo lường các xu hướng m�
 \
 Từ đó, Anphabe đưa ra các chỉ số sức khỏe Thương hiệu nhà tuyển dụng tiêu chuẩn cho các ngành nghề, giúp doanh nghiệp hoạch định chiến lược Thu hút nhân tài & Gắn kết nhân viên hiệu quả. Kết quả khảo sát hàng năm cũng là cơ sở để Anphabe công bố danh sách những môi trường làm việc lý tưởng do người đi làm bình chọn và vinh danh 100 Nơi làm việc tốt nhất Việt Nam.
 
-***Xem kết quả Bảng xếp hạng 100 Nơi làm việc tốt nhất Việt Nam 2021 tại Hội nghị trực tuyến Nơi làm việc tốt nhất Việt Nam 2021: <https://anpha.be/30Tb7nT>*** 
-
 ![100 nơi làm việc tốt nhất Việt Nam](/images/uploads/top-100.jpg "100 nơi làm việc tốt nhất Việt Nam")
 
-*Hội nghị Nơi làm việc tốt nhất Việt Nam năm 2020*
+*Lễ vinh danh 100 Nơi làm việc tốt nhất Việt Nam năm 2020*
+
+***Xem kết quả Bảng xếp hạng 100 Nơi làm việc tốt nhất Việt Nam 2021 tại Hội nghị trực tuyến Nơi làm việc tốt nhất Việt Nam 2021: <https://anpha.be/30Tb7nT>*** 
+
+
 
 **3 lý do doanh nghiệp nên tham gia Khảo sát Nơi làm việc tốt nhất Việt Nam**
 
