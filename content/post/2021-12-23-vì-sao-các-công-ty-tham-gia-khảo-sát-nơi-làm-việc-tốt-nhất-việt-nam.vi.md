@@ -26,6 +26,16 @@ Từ đó, Anphabe đưa ra các chỉ số sức khỏe Thương hiệu nhà tu
 
 *Hội nghị Nơi làm việc tốt nhất Việt Nam năm 2020*
 
+{{<html>}}
+
+<div class="video">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4d_Uku_Kd_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+{{</html>}}
+
 **3 lý do doanh nghiệp nên tham gia Khảo sát Nơi làm việc tốt nhất Việt Nam**
 
 Tham gia khảo sát, bên cạnh cơ hội gia tăng mức độ nhận biết của THNTD đến rộng rãi người đi làm trên cả nước, doanh nghiệp còn có thêm các lợi ích: 
