@@ -10,7 +10,7 @@ image: /images/uploads/1.jpg
 
 Khảo sát Nơi làm việc tốt nhất Việt Nam do Anphabe khởi xướng thực hiện từ 2013 và là một trong những khảo sát đầu tiên chuyên đo lường sức hấp dẫn thương hiệu nhà tuyển dụng tại thị trường Việt Nam. Đến nay, khảo sát được thực hiện hàng năm, thu hút hàng trăm doanh nghiệp đến từ 20 ngành nghề tham gia. 
 
-Khảo sát do Phòng thương mại và công nghiệp Việt Nam (VCCI) bảo trợ. Mô hình và phương pháp đánh giá của khảo sát hằng năm được kiểm chứng bởi đơn vị thứ ba (Nielsen Việt Nam, Intage Việt Nam) để đảm bảo tính công bằng và khách quan của kết quả.
+Khảo sát do Liên đoàn Thương mại và Công nghiệp Việt Nam (VCCI) bảo trợ. Mô hình và phương pháp đánh giá của khảo sát hằng năm được kiểm chứng bởi đơn vị thứ ba (Nielsen Việt Nam, Intage Việt Nam) để đảm bảo tính công bằng và khách quan của kết quả.
 
 \
 **Khảo sát Nơi làm việc tốt nhất Việt Nam đánh giá và đo lường những gì?**
