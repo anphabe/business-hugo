@@ -2,3 +2,6 @@
   from = "/"
   to = "https://business.anphabe.com"
   status = 301
+
+  [build.environment]
+  HUGO_VERSION = "0.91.2"
