@@ -29,6 +29,9 @@ i18n:
   # The locale to be used for fields validation and as a baseline for the entry.
   default_locale: vi
 
+slug:
+  encoding: "ascii"
+  clean_accents: true
 
 collections: # A list of collections the CMS should be able to edit
   - name: 'post' # Used in routes, ie.: /admin/collections/:slug/edit
@@ -38,8 +41,9 @@ collections: # A list of collections the CMS should be able to edit
       The description is a great place for tone setting, high level information, and editing
       guidelines that are specific to a collection.
     folder: 'content/post'
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}-{{year}}{{month}}{{day}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
+    sortable_fields: ['date', 'title']
     create: true # Allow users to create new documents in this collection
     i18n: true
     view_filters:
