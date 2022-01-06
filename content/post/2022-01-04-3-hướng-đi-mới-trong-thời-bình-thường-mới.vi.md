@@ -32,6 +32,8 @@ Cuối cùng nhưng lại là vấn đề hóc búa, đó là tỷ lệ nghỉ v
 Bài toán đặt ra cho doanh nghiệp và người quản lý nhân sự giờ đây là làm thế nào để giúp nhân viên thấy được ý nghĩa công việc chứ không chỉ là “cần câu cơm”. Tổ chức các hoạt động gắn kết và chia sẻ trong nội bộ, tạo điều kiện để mọi nhân viên có thể chung tay trong các chương trình vì cộng đồng và truyền thông minh bạch, thông suốt là những cách làm không mới, nhưng cần được đầu tư đẩy mạnh hơn nữa trong bình thường mới. 
 Bên cạnh đó, người quản lý nhân sự giờ đây nên định nghĩa lại khái niệm “trung thành” – không chỉ đo bằng thời gian gắn bó với công ty mà còn tính bằng nỗ lực và hiệu quả công việc mà người lao động mang lại trong một khoảng thời gian nhất định. Với cách tư duy mới này, doanh nghiệp có thể dễ dàng đón nhận và phát huy được thế mạnh của lực lượng lao động đang có xu hướng nhảy việc nhanh. Cuối cùng nhưng không kém phần quan trọng, đó là doanh nghiệp cần quan tâm hơn nữa, đầu tư bài bản và lâu dài cho con người, để làm sao những giai đoạn khủng hoảng, nhiều biến động phải là lúc thu được trái ngọt của những nỗ lực xây nguồn nhân lực từ trước đó. 
 
-Bài viết tóm tắt nội dung buổi tọa đàm **CHUYỂN ĐỔI NHANH – TIẾN BƯỚC MẠNH**, phát sóng ngày 22.12.2021, trong Hội nghị Nơi làm việc tốt nhất Việt Nam 2021 của Anphabe. Xem lại buổi tọa đàm trong video clip dưới đây: https://anpha.be/34dCdHz 
+Bài viết tóm tắt nội dung buổi tọa đàm **CHUYỂN ĐỔI NHANH – TIẾN BƯỚC MẠNH**, phát sóng ngày 22.12.2021, trong Hội nghị Nơi làm việc tốt nhất Việt Nam 2021 của Anphabe. Xem lại buổi tọa đàm trong video clip dưới đây:[ https://anpha.be/34dCdHz](https://anpha.be/34dCdHz) 
 
-***(**)** Theo khảo sát trực tuyến từ tháng 5-8/2021 do Anphabe thực hiện với hơn 65.213 người đi làm có kinh nghiệm thuộc 20 ngành nghề tại Việt Nam*
+{{<embed-youtube link="https://www.youtube.com/watch?v=4HtmaioJy_c&t=13s" >}}
+
+**\*(**)* *Theo khảo sát trực tuyến từ tháng 5-8/2021 do Anphabe thực hiện với hơn 65.213 người đi làm có kinh nghiệm thuộc 20 ngành nghề tại Việt Nam*
