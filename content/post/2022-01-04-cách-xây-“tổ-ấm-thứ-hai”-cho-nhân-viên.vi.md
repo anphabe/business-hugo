@@ -8,45 +8,41 @@ image: /images/uploads/267140624_6902126273145738_7797259720741122061_n.jpg
 
 *Trong khuôn khổ Hội nghị Nơi làm việc tốt nhất Việt Nam 2021 ngày 22.12.2021 vừa qua, ông Binu Jacob – Tổng giám đốc Nestlé Việt Nam đã có buổi đối thoại cùng bà Thanh Nguyễn – Giám đốc điều hành & Truyền cảm hứng hạnh phúc Anphabe và chia sẻ những câu chuyện cá nhân, góc nhìn thú vị về việc xây “tổ ấm thứ hai” cho nhân viên, giúp họ an tâm và hứng khởi mỗi khi đến công ty.*
 
-![](/images/uploads/267140624_6902126273145738_7797259720741122061_n.jpg)
+![tổ ấm thứ hai cho nhân viên - Nestle Vietnam ](/images/uploads/267140624_6902126273145738_7797259720741122061_n.jpg "Đối thoại: \"Tổ ấm thứ hai\" cho nhân viên")
 
 ### **PHÍA SAU CHỨC DANH TỔNG GIÁM ĐỐC**
 
-**Một lần nữa, xin chúc mừng Nestlé Việt Nam đã trở thành Nơi làm việc tốt nhất Việt Nam trong năm nay. Trước tiên, tôi muốn biết thêm về ông với tư cách cá nhân và có gì thú vị đằng sau chức danh Tổng giám đốc. Ông đã sẵn sàng chưa?**
 
+
+**Một lần nữa, xin chúc mừng Nestlé Việt Nam đã trở thành Nơi làm việc tốt nhất Việt Nam trong năm nay. Trước tiên, tôi muốn biết thêm về ông với tư cách cá nhân và có gì thú vị đằng sau chức danh Tổng giám đốc. Ông đã sẵn sàng chưa?**
 
 * Sẵn sàng.
 
 **Điều đầu tiên ông làm khi bắt đầu công việc vào buổi sáng là gì?**
 
-
 * Tất nhiên là một cốc Nescafé.
 
 **Ồ, hẳn nhiên là như vậy. Công việc mơ ước của ông là gì? Với câu này, ông không được trả lời Nestlé.**
-
 
 * Ừm, sở thích của tôi là ẩm thực và du lịch. Vì vậy, công việc mơ ước là trở thành một đầu bếp du lịch, như Anthony Bourdain.
 
 **Câu nói ưa thích của ông là gì?**
 
-
 * Đó là câu nói của Winston Churchill. Đại loại thế này, thành công là khả năng đi từ thất bại này đến thất bại khác mà không mất đi nhiệt huyết. Cá nhân tôi đã thất bại nhiều lần. Và tôi nghĩ mình học được nhiều từ những thất bại đó hơn là từ thành công của chính mình.
 
 **Lời khuyên nghề nghiệp tồi tệ nhất mà ông từng nhận được là gì?**
 
-*  Khi tôi lần đầu trở thành trưởng nhóm, một trong số đồng nghiệp đã nói với tôi: “Anh cần phải giữ khoảng cách với nhân viên, phải cứng rắn, đập tay lên bàn và nói cho mọi người biết phải làm gì và họ chỉ cần làm theo." Điều này không phù hợp với suy nghĩ của tôi. Vì vậy, tôi rất vui vì đã không làm theo lời khuyên đó. 
+* Khi tôi lần đầu trở thành trưởng nhóm, một trong số đồng nghiệp đã nói với tôi: “Anh cần phải giữ khoảng cách với nhân viên, phải cứng rắn, đập tay lên bàn và nói cho mọi người biết phải làm gì và họ chỉ cần làm theo." Điều này không phù hợp với suy nghĩ của tôi. Vì vậy, tôi rất vui vì đã không làm theo lời khuyên đó. 
 
 **Một điều mà mọi người thường hiểu sai về ông với tư cách là một nhà lãnh đạo?**
 
-*  Khi mọi người biết về tôi một chút, họ nhìn thấy một nhà lãnh đạo dễ chịu, chu đáo và khá cởi mở. Và đôi khi họ hiểu nhầm điều đó và nghĩ rằng tôi có thể chấp nhận sự tầm thường. Điều đó không đúng. Tôi dễ đồng cảm với mọi người nhưng tôi cũng là người có kì vọng cao; và tôi không thấy có mâu thuẫn gì ở đây, bạn có thể có cả hai nét tính cách đó. 
+* Khi mọi người biết về tôi một chút, họ nhìn thấy một nhà lãnh đạo dễ chịu, chu đáo và khá cởi mở. Và đôi khi họ hiểu nhầm điều đó và nghĩ rằng tôi có thể chấp nhận sự tầm thường. Điều đó không đúng. Tôi dễ đồng cảm với mọi người nhưng tôi cũng là người có kì vọng cao; và tôi không thấy có mâu thuẫn gì ở đây, bạn có thể có cả hai nét tính cách đó. 
 
 **Và sở thích lớn nhất của ông là gì?**
-
 
 * Đó là nướng bánh.
 
 **Thật sao? Ông thật khéo biết cách kết hợp mọi thứ! Ông vừa là CEO tại Nestlé và ở nhà, ông theo đuổi nghề nghiệp mơ ước là đầu bếp.**
-
 
 * Vâng. Đối với tôi, nướng bánh là một thú vui rất thư giãn. Đó vừa là khoa học và cũng là nghệ thuật. Bạn phải đảm bảo mọi thứ chính xác, nhưng đồng thời lại rất sáng tạo và có thể thử nhiều thứ khác nhau.
 
@@ -56,14 +52,9 @@ image: /images/uploads/267140624_6902126273145738_7797259720741122061_n.jpg
 
 **Và điều gì khiến ông tự hào khi làm việc tại Nestlé?** 
 
-
 * Tôi nghĩ là ba điều. Đầu tiên là triết lý tạo ra giá trị chung của công ty. Tôi thực sự tin rằng khi bạn làm kinh doanh, bạn không chỉ tập trung kiếm tiền mà còn phải đảm bảo mọi người đều được hưởng lợi. Thứ hai, Nestlé tập trung rất nhiều vào tính bền vững. Nhưng, còn hơn cả tính bền vững, chúng tôi tập trung vào tái tạo. Và điều thứ ba liên quan đến văn hóa công ty. Văn hóa của chúng tôi gần giống như một tổ ấm. Và đây là lý do tôi thích cụm từ “tổ ấm thứ hai” dành cho nhân viên.
 
-  ![](/images/uploads/duotalk-.jpg)
-
-  *Ông Binu Jacob và bà Thanh Nguyễn tại sân khấu Hội nghị Nơi làm việc tốt nhất Việt Nam 2021*
-
-
+  ![Ông Binu Jacob – Tổng giám đốc Nestlé Việt Nam đã có buổi đối thoại cùng bà Thanh Nguyễn – Giám đốc điều hành & Truyền cảm hứng hạnh phúc Anphabe](/images/uploads/duotalk-.jpg "* *Ông Binu Jacob và bà Thanh Nguyễn tại sân khấu Hội nghị Nơi làm việc tốt nhất Việt Nam 2021*")
 
 ### **XÂY TỔ ẤM THỨ HAI TỪ ĐÂU?**
 
@@ -93,7 +84,6 @@ image: /images/uploads/267140624_6902126273145738_7797259720741122061_n.jpg
 
 **Và họ đều cho ông qua được vòng thử việc phải không?**
 
-
 * (Cười to) Họ đã phản hồi thật tâm, bao gồm một số ý kiến để tôi cải thiện sau này. Thứ hai là hàng tháng chúng tôi tổ chức họp với toàn bộ đội ngũ và bất kỳ ai cũng có thể đặt câu hỏi. Chúng tôi trả lời tất cả câu hỏi, trong hoặc sau cuộc họp. Hàng tháng, chúng tôi đều thực hiện khảo sát, mỗi khảo sát về một chủ đề khác nhau và chúng tôi lắng nghe, tiếp thu ý kiến của họ. Và chúng tôi luôn hành động. Khi không thể hành động, chúng tôi cũng công khai chia sẻ sau đó. Dựa trên một số nguyên tắc như vậy, tôi vẫn không ngừng học hỏi và vẫn đang tiếp tục cố gắng.
 
 **Giờ thì chúng ta hãy quay lại với chủ đề nhân viên. Hãy kể tên một số câu lạc bộ hoạt động tích cực nhất tại Nestlé.**
@@ -106,20 +96,19 @@ image: /images/uploads/267140624_6902126273145738_7797259720741122061_n.jpg
 
 **Ông có tham gia câu lạc bộ nào không?**
 
-
 * À, lúc nãy tôi hơi thiên vị một chút vì tôi là người bảo trợ của câu lạc bộ diễn thuyết. Thỉnh thoảng tôi tổ chức các buổi họp câu lạc bộ và đôi khi cũng đóng vai trò giám khảo khi tổ chức các cuộc thi diễn thuyết.
 
 **Nhân viên sẽ mô tả tổ ấm thứ hai bằng ba từ như thế nào?**
-
 
 * Chỉ ba từ? Thay vào đó, tôi có thể nói ba cụm từ được không?
 
 **Được, nhưng phải ngắn gọn.**
 
-
 * Thứ nhất, đó là **Spark Your Way**. Với mỗi một nhân viên tại Nestlé, điều đầu tiên họ nói sẽ là Spark Your Way. Thứ hai, đội ngũ lãnh đạo luôn quan tâm đến nhân viên. Và thứ ba là môi trường làm việc tràn đầy năng lượng.
 
-### TẦM NHÌN LÃNH ĐẠO
+
+
+### **TẦM NHÌN LÃNH ĐẠO**
 
 
 
@@ -137,7 +126,6 @@ image: /images/uploads/267140624_6902126273145738_7797259720741122061_n.jpg
 
 **Là một lãnh đạo, ông khuyến khích và định hướng đội ngũ vượt qua khó khăn như thế nào, đặc biệt trong vài tháng qua?**
 
-
 * Hơn 18 tháng vừa qua là khoảng thời gian rất khó khăn với hầu hết chúng tôi trong vai trò là người lãnh đạo. Và bản thân tôi đã tích lũy một số bài học. Thứ nhất, đó là quãng thời gian rất hỗn loạn. Vai trò của người lãnh đạo là trấn tĩnh mọi người và tổ chức hoạt động một cách khoa học, để mọi người biết chính xác phải làm gì. Vì vậy, chúng tôi xây dựng Dự án STORM với năm ưu tiên, các nhánh hoạt động khác nhau, mỗi người thực hiện công việc nhất định mỗi ngày và chúng tôi đều theo dõi quá trình thực hiện.
 
   Thứ hai, với tư cách là người lãnh đạo, bạn cần phải đặt nhân viên của mình lên trên hết và mọi thứ khác đều là ưu tiên thứ hai. Vì vậy, hàng ngày, chúng tôi thảo luận về sự an toàn của nhân viên và đảm bảo họ được tiêm chủng. Thứ ba, trong thời gian này, bạn cần phải đưa ra một số quyết định dù không có đầy đủ thông tin. Bạn phải hành động nhanh chóng và ra quyết định, ngay cả khi đó là quyết định sai lầm, rồi bạn điều chỉnh sau.
@@ -151,3 +139,5 @@ image: /images/uploads/267140624_6902126273145738_7797259720741122061_n.jpg
 * Cảm ơn Thanh! 
 
 Bài viết lược thuật buổi đối thoại cùng ông Binu Jacob – Tổng giám đốc Nestlé Việt Nam trong Hội nghị Nơi làm việc tốt nhất Việt Nam 2021. Xem lại toàn bộ buổi đối thoại **[tại đây!](https://anpha.be/3HprBUu)**
+
+{{<embed-youtube link="https://www.youtube.com/watch?v=RkBj67Cw7BQ" >}}
