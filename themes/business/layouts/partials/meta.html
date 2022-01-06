@@ -1,7 +1,7 @@
-<title>{{if or .IsPage .IsNode}}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }} {{ if .IsNode }} {{ if gt .Paginator.PageNumber 1 }} - Page {{ .Paginator.PageNumber }} {{ end }} {{ end }}</title>
-<meta name="title" content="{{ .Title }} | {{ .Site.Title }}">
+<title>{{if or .IsPage .IsNode}}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}{{ if .IsNode }}{{ if gt .Paginator.PageNumber 1 }} - Page {{ .Paginator.PageNumber }} {{ end }} {{ end }}</title>
+<meta name="title" content="{{if or .IsPage .IsNode}}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}{{ if .IsNode }}{{ if gt .Paginator.PageNumber 1 }} - Page {{ .Paginator.PageNumber }} {{ end }} {{ end }}">
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
-<meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
+<meta property="og:title" content="{{if or .IsPage .IsNode}}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}{{ if .IsNode }}{{ if gt .Paginator.PageNumber 1 }} - Page {{ .Paginator.PageNumber }} {{ end }} {{ end }}" />
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
