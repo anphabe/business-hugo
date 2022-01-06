@@ -8,9 +8,11 @@ image: /images/uploads/267140624_6902126273145738_7797259720741122061_n.jpg
 
 *Trong khuôn khổ Hội nghị Nơi làm việc tốt nhất Việt Nam 2021 ngày 22.12.2021 vừa qua, ông Binu Jacob – Tổng giám đốc Nestlé Việt Nam đã có buổi đối thoại cùng bà Thanh Nguyễn – Giám đốc điều hành & Truyền cảm hứng hạnh phúc Anphabe và chia sẻ những câu chuyện cá nhân, góc nhìn thú vị về việc xây “tổ ấm thứ hai” cho nhân viên, giúp họ an tâm và hứng khởi mỗi khi đến công ty.*
 
-![](/images/uploads/267140624_6902126273145738_7797259720741122061_n.jpg)
+![tổ ấm thứ hai cho nhân viên - Nestle Vietnam ](/images/uploads/267140624_6902126273145738_7797259720741122061_n.jpg "Đối thoại: \"Tổ ấm thứ hai\" cho nhân viên")
 
 ### **PHÍA SAU CHỨC DANH TỔNG GIÁM ĐỐC**
+
+
 
 **Một lần nữa, xin chúc mừng Nestlé Việt Nam đã trở thành Nơi làm việc tốt nhất Việt Nam trong năm nay. Trước tiên, tôi muốn biết thêm về ông với tư cách cá nhân và có gì thú vị đằng sau chức danh Tổng giám đốc. Ông đã sẵn sàng chưa?**
 
@@ -52,9 +54,7 @@ image: /images/uploads/267140624_6902126273145738_7797259720741122061_n.jpg
 
 * Tôi nghĩ là ba điều. Đầu tiên là triết lý tạo ra giá trị chung của công ty. Tôi thực sự tin rằng khi bạn làm kinh doanh, bạn không chỉ tập trung kiếm tiền mà còn phải đảm bảo mọi người đều được hưởng lợi. Thứ hai, Nestlé tập trung rất nhiều vào tính bền vững. Nhưng, còn hơn cả tính bền vững, chúng tôi tập trung vào tái tạo. Và điều thứ ba liên quan đến văn hóa công ty. Văn hóa của chúng tôi gần giống như một tổ ấm. Và đây là lý do tôi thích cụm từ “tổ ấm thứ hai” dành cho nhân viên.
 
-  ![](/images/uploads/duotalk-.jpg)
-
-  *Ông Binu Jacob và bà Thanh Nguyễn tại sân khấu Hội nghị Nơi làm việc tốt nhất Việt Nam 2021*
+  ![Ông Binu Jacob – Tổng giám đốc Nestlé Việt Nam đã có buổi đối thoại cùng bà Thanh Nguyễn – Giám đốc điều hành & Truyền cảm hứng hạnh phúc Anphabe](/images/uploads/duotalk-.jpg "* *Ông Binu Jacob và bà Thanh Nguyễn tại sân khấu Hội nghị Nơi làm việc tốt nhất Việt Nam 2021*")
 
 ### **XÂY TỔ ẤM THỨ HAI TỪ ĐÂU?**
 
@@ -106,7 +106,11 @@ image: /images/uploads/267140624_6902126273145738_7797259720741122061_n.jpg
 
 * Thứ nhất, đó là **Spark Your Way**. Với mỗi một nhân viên tại Nestlé, điều đầu tiên họ nói sẽ là Spark Your Way. Thứ hai, đội ngũ lãnh đạo luôn quan tâm đến nhân viên. Và thứ ba là môi trường làm việc tràn đầy năng lượng.
 
-### TẦM NHÌN LÃNH ĐẠO
+
+
+### **TẦM NHÌN LÃNH ĐẠO**
+
+
 
 **Thực ra tôi định hỏi ông làm cách nào để nhanh chóng thuyết phục một người gia nhập Nestlé. Nhưng ông cũng có thể sử dụng ba cụm từ đó. Ông có cách nào khác để làm điều đó không?**
 
