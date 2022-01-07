@@ -5,7 +5,7 @@ date: 2022-01-07
 image: /images/uploads/vietnam_100_best_places_to_work_2021.jpg
 field_url: null
 ---
-Anphabe - công ty tư vấn tiên phong về giải pháp Thương hiệu Nhà tuyển dụng và Môi trường làm việc Hạnh phúc chính thức công bố kết quả bảng xếp hạng 100 Nơi làm việc tốt nhất Việt Nam 2021. Chương trình khảo sát do Anphabe thực hiện với sự bảo trợ của Liên đoàn Thương mại và Công nghiệp Việt Nam (VCCI), cùng các đối tác đồng hành Unilever Việt Nam và Vinamilk. Phương pháp tính toán & kết quả xếp hạng do công ty nghiên cứu thị trường Intage Việt Nam kiểm chứng. 
+**Anphabe** - công ty tư vấn tiên phong về giải pháp Thương hiệu Nhà tuyển dụng và Môi trường làm việc Hạnh phúc chính thức công bố kết quả bảng xếp hạng 100 Nơi làm việc tốt nhất Việt Nam 2021. Chương trình khảo sát do Anphabe thực hiện với sự bảo trợ của Liên đoàn Thương mại và Công nghiệp Việt Nam (VCCI), cùng các đối tác đồng hành Unilever Việt Nam và Vinamilk. Phương pháp tính toán & kết quả xếp hạng do công ty nghiên cứu thị trường Intage Việt Nam kiểm chứng. 
 
 {{<image_link url="https://www.anphabe.com/vietnam-best-places-to-work/2021?utm_source=website&utm_medium=link&utm_campaign=BPTW2021&utm_content=business.anphabe.com" src="/images/uploads/vietnam_100_best_places_to_work_2021.jpg" caption="100 Nơi làm việc tốt nhất Việt Nam 2021">}}
 
@@ -27,9 +27,9 @@ Một số doanh nghiệp nổi bật thăng hạng và ghi điểm trong mắt 
 
 [Top 50 Doanh nghiệp Việt có Thương hiệu nhà tuyển dụng hấp dẫn 2021](https://www.anphabe.com/vietnam-best-places-to-work/2021/top50-vietnamese-companies?utm_source=website&utm_medium=link&utm_campaign=BPTW2021&utm_content=business.anphabe.com) tiếp tục khuyến khích và ghi nhận những nỗ lực đẩy mạnh hình ảnh Thương hiệu nhà tuyển dụng của nhóm doanh nghiệp Việt như: Tập đoàn Bưu chính Viễn thông Việt Nam - VNPT, Vinasoy, Công ty Cổ phần Dược Hậu Giang, Công ty Cổ Phần Tập Đoàn Xây Dựng Hòa Bình, PNJ Group, Coteccons Group, Biti's, Ngân hàng Sài Gòn (SCB), Công ty Cổ Phần Fecon, NutiFood, Newtecons, Vietravel, Công ty Cổ Phần Đầu Tư Xây Dựng Ricons, Yeah1 Group,...
 
-{{<image*link url="https://www.anphabe.com/vietnam-best-places-to-work/2021/top50-vietnamese-companies?utm_source=website&utm_medium=link&utm_campaign=BPTW2021&utm_content=business.anphabe.com" src="/images/uploads/top-50-thuong-hieu-nha-tuyen-dung-hap-dan-nguoi-di-lam-viet-nam-*-1.jpg" caption="Top 50 Doanh nghiệp Việt có Thương hiệu nhà tuyển dụng hấp dẫn 2021">}}
+{{<image_link url="https://www.anphabe.com/vietnam-best-places-to-work/2021/top50-vietnamese-companies?utm_source=website&utm_medium=link&utm_campaign=BPTW2021&utm_content=business.anphabe.com" src="/images/uploads/top-50-thuong-hieu-nha-tuyen-dung-hap-dan-nguoi-di-lam-viet-nam--1.jpg" caption="Top 50 Doanh nghiệp Việt có Thương hiệu nhà tuyển dụng hấp dẫn 2021">}}
 
-{{<image*link url="https://www.anphabe.com/vietnam-best-places-to-work/2021/top50-vietnamese-companies?utm_source=website&utm_medium=link&utm_campaign=BPTW2021&utm_content=business.anphabe.com" src="/images/uploads/top-50-thuong-hieu-nha-tuyen-dung-hap-dan-nguoi-di-lam-viet-nam-*-2.jpg" caption="Top 50 Doanh nghiệp Việt có Thương hiệu nhà tuyển dụng hấp dẫn 2021">}}
+{{<image_link url="https://www.anphabe.com/vietnam-best-places-to-work/2021/top50-vietnamese-companies?utm_source=website&utm_medium=link&utm_campaign=BPTW2021&utm_content=business.anphabe.com" src="/images/uploads/top-50-thuong-hieu-nha-tuyen-dung-hap-dan-nguoi-di-lam-viet-nam--2.jpg" caption="Top 50 Doanh nghiệp Việt có Thương hiệu nhà tuyển dụng hấp dẫn 2021">}}
 
 [Top 10 doanh nghiệp tiêu biểu có nguồn nhân lực Hạnh phúc 2021](https://www.anphabe.com/vietnam-best-places-to-work/2021/top10-haw?utm_source=website&utm_medium=link&utm_campaign=BPTW2021&utm_content=business.anphabe.com) tiếp tục ghi nhận những doanh nghiệp có nhiều chương trình gắn kết, chăm lo đời sống vật chất và sức khỏe tinh thần cho người đi làm, gồm: Acecook Việt Nam, Công ty Cổ phần Tập đoàn Thế kỷ (Cen Group), Công Ty Tài Chính Cổ Phần Tín Việt (VietCredit), Công ty cổ phần Daikin Air Conditioning Vietnam , Công ty TNHH Bảo hiểm Nhân thọ FWD Việt Nam, Công Ty Cổ Phần GREENFEED Việt Nam, Công ty Cổ Phần Marico South East Asia, Mondelez Kinh Đô Việt Nam, Novaland Group và Sailun.
 
@@ -38,8 +38,6 @@ Vinamilk sau 3 năm liên tiếp vừa qua được bình chọn ngôi vị số
 ![100 Nơi làm việc tốt nhất Việt Nam - Đối tác đồng hành](/images/uploads/vietnam100bestplacestowork2021_doitacdonghanh.jpg "Trân trọng cám ơn đối tác đồng hành - Unilever Việt Nam, Vinamilk")
 
 *Xem thêm: [Vì sao các công ty tham gia Khảo sát Nơi làm việc tốt nhất Việt Nam?](https://business.anphabe.com/post/2021-12-23-v%C3%AC-sao-c%C3%A1c-c%C3%B4ng-ty-tham-gia-kh%E1%BA%A3o-s%C3%A1t-n%C6%A1i-l%C3%A0m-vi%E1%BB%87c-t%E1%BB%91t-nh%E1%BA%A5t-vi%E1%BB%87t-nam/)*
-
-
 
 Để tham gia khảo sát Nơi làm việc tốt nhất Việt Nam và đo lường sức khỏe THNTD chuyên sâu, vui lòng liên hệ Anphabe để được tư vấn:
 
