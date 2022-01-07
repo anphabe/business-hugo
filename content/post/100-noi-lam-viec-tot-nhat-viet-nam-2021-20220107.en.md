@@ -21,9 +21,9 @@ Companies that have made remarkable breakthrough to be listed in [Top 100 Vietna
 
 Prominent companies that have improved their rank and scored in the eyes of working professionals this year include Manulife Vietnam, Novartis Vietnam Company Limited, Perfetti Van Melle Viet Nam, Acecook Vietnam, FWD Vietnam Life Insurance Co., Ltd, Nam Long Investment Corporation (Hose: NLG), Gamuda Land Vietnam, Techcombank, FPT Corporation, Lazada Vietnam, PNJ Group, AstraZeneca Vietnam, Viettel Group, Shopee Vietnam, TPBank, etc.
 
-{{<image_link url="https://www.anphabe.com/vietnam-best-places-to-work/2021?utm_source=website&utm_medium=link&utm_campaign=BPTW2021&utm_content=business.anphabe.com" src="/images/uploads/vietnam-100-best-places-to-work-2021.jpg" caption="Top 100 Vietnam Best Places To Work 2021 ">}}
+{{<image_link url="https://www.anphabe.com/vietnam-best-places-to-work/2021?utm_source=website&utm_medium=link&utm_campaign=BPTW2021&utm_content=business.anphabe.com" src="/images/uploads/vietnam-100-best-places-to-work-2021.jpg" caption="Top 100 Vietnam Best Places To Work 2021 (From 1 to 50)">}}
 
-{{<image_link url="https://www.anphabe.com/vietnam-best-places-to-work/2021?utm_source=website&utm_medium=link&utm_campaign=BPTW2021&utm_content=business.anphabe.com" src="/images/uploads/100-noi-lam-viec-tot-nhat-viet-nam-2021.jpg" caption="Top 100 Vietnam Best Places To Work 2021 ">}}
+{{<image_link url="https://www.anphabe.com/vietnam-best-places-to-work/2021?utm_source=website&utm_medium=link&utm_campaign=BPTW2021&utm_content=business.anphabe.com" src="/images/uploads/100-noi-lam-viec-tot-nhat-viet-nam-2021.jpg" caption="Top 100 Vietnam Best Places To Work 2021 (From 51 to 100)">}}
 
 [Top 50 Vietnamese Companies with attractive employer brand in 2021](https://www.anphabe.com/vietnam-best-places-to-work/2021/top50-vietnamese-companies?utm_source=website&utm_medium=link&utm_campaign=BPTW2021&utm_content=business.anphabe.com) continued to encourage and recognize efforts in employer branding of Vietnamese companies such as: Vietnam Posts and Telecommunications Group – VNPT, Vinasoy, DHG Pharma, Hoa Binh Construction Group Joint Stock Company, PNJ Group, Coteccons Group, Biti's, Sai Gon J.S. Commercial Bank (SCB), Fecon Corporation, NutiFood, Newtecons, Vietravel, Ricons Construction Investment Joint Stock Company, Yeah1 Group,...
 
