@@ -37,7 +37,7 @@ Vinamilk, after three consecutive years being ranked the first place, has change
 
 ![Vietnam 100 Best Places To Work 2021 - Supporting Partner](/images/uploads/vietnam100bestplacestowork2021_doitacdonghanh.jpg "Thanks for supporting partner - Unilever Vietnam, Vinamilk")
 
-*Để tham gia khảo sát Nơi làm việc tốt nhất Việt Nam và đo lường sức khỏe Thương hiệu nhà tuyển dụng  chuyên sâu, vui lòng liên hệ Anphabe để được tư vấn:*
+*To join the Vietnam Best Places To Work survey and measure the Employer Brand Health Check, please contact Anphabe Team:*
 
 * *Tel: (+84 28) 6268 2222*
 * *Email: [clientsolution@anphabe.com](mailto:clientsolution@anphabe.com)*
