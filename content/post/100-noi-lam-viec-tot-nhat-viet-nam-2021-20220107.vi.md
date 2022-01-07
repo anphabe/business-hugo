@@ -21,9 +21,9 @@ Những doanh nghiệp có sự bứt phá xuất sắc khi lần đầu lọt v
 
 Một số doanh nghiệp nổi bật thăng hạng và ghi điểm trong mắt người đi làm năm nay gồm: Manulife Việt Nam, Novartis Vietnam, Perfetti Van Melle Việt Nam, Acecook Việt Nam, Công ty TNHH Bảo hiểm Nhân thọ FWD Việt Nam, Tập đoàn Nam Long (NLG), Gamuda Land Việt Nam, Ngân Hàng TMCP Kỹ Thương Việt Nam (Techcombank), Tập đoàn FPT, Lazada Việt Nam, PNJ Group, AstraZeneca Vietnam, Viettel Group, Shopee Việt Nam, Ngân hàng TMCP Tiên Phong – TPBank, ...
 
-{{<image_link url="https://www.anphabe.com/vietnam-best-places-to-work/2021?utm_source=website&utm_medium=link&utm_campaign=BPTW2021&utm_content=business.anphabe.com" src="/images/uploads/vietnam-100-best-places-to-work-2021.jpg" caption="100 Nơi làm việc tốt nhất Việt Nam 2021">}}
+{{<image_link url="https://www.anphabe.com/vietnam-best-places-to-work/2021?utm_source=website&utm_medium=link&utm_campaign=BPTW2021&utm_content=business.anphabe.com" src="/images/uploads/vietnam-100-best-places-to-work-2021.jpg" caption="100 Nơi làm việc tốt nhất Việt Nam 2021 (Từ 1 đến 50)">}}
 
-{{<image_link url="https://www.anphabe.com/vietnam-best-places-to-work/2021?utm_source=website&utm_medium=link&utm_campaign=BPTW2021&utm_content=business.anphabe.com" src="/images/uploads/100-noi-lam-viec-tot-nhat-viet-nam-2021.jpg" caption="100 Nơi làm việc tốt nhất Việt Nam 2021">}}
+{{<image_link url="https://www.anphabe.com/vietnam-best-places-to-work/2021?utm_source=website&utm_medium=link&utm_campaign=BPTW2021&utm_content=business.anphabe.com" src="/images/uploads/100-noi-lam-viec-tot-nhat-viet-nam-2021.jpg" caption="100 Nơi làm việc tốt nhất Việt Nam 2021 (Từ 51 tới 100)">}}
 
 [Top 50 Doanh nghiệp Việt có Thương hiệu nhà tuyển dụng hấp dẫn 2021](https://www.anphabe.com/vietnam-best-places-to-work/2021/top50-vietnamese-companies?utm_source=website&utm_medium=link&utm_campaign=BPTW2021&utm_content=business.anphabe.com) tiếp tục khuyến khích và ghi nhận những nỗ lực đẩy mạnh hình ảnh Thương hiệu nhà tuyển dụng của nhóm doanh nghiệp Việt như: Tập đoàn Bưu chính Viễn thông Việt Nam - VNPT, Vinasoy, Công ty Cổ phần Dược Hậu Giang, Công ty Cổ Phần Tập Đoàn Xây Dựng Hòa Bình, PNJ Group, Coteccons Group, Biti's, Ngân hàng Sài Gòn (SCB), Công ty Cổ Phần Fecon, NutiFood, Newtecons, Vietravel, Công ty Cổ Phần Đầu Tư Xây Dựng Ricons, Yeah1 Group,...
 
