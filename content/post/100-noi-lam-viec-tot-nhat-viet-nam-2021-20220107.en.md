@@ -1,6 +1,6 @@
 ---
 title: Top 100 Vietnam Best Places To Work 2021
-draft: true
+draft: false
 date: 2022-01-07
 image: /images/uploads/vietnam_100_best_places_to_work_2021.jpg
 field_url: null
