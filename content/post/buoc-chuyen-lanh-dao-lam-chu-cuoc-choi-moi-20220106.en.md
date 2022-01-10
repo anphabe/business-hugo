@@ -1,12 +1,15 @@
 ---
-title: Bước chuyển lãnh đạo - Làm chủ cuộc chơi mới
+title: Phẩm chất mới nhà lãnh đạo cần có
 draft: false
 date: 2022-01-06
 image: /images/uploads/toa-dam-cap-cao-lam-chu-cuoc-choi-moi.jpg
 field_url: null
 ---
-*Thị trường thay đổi như vũ bão với các luật chơi mới đang hình thành. Trong nội bộ, người lãnh đạo không thể chỉ quản lý và định hướng nhân viên theo cách cũ. Chiến lược nào sẽ giúp các CEO làm chủ cuộc chơi mới, trong cả cuộc đua kinh doanh và điều hành nhân viên? 
-Phiên tọa đàm đặc biệt từ các CEO đại diện 4 ngành nghề nóng là Marico South East Asia, Gamuda Land, Novartis Việt Nam, PNJ Group trong khuôn khổ Hội nghị Nơi làm việc tốt nhất Việt Nam 2021 do Anphabe tổ chức tháng 12/2021 sẽ xoay quanh các góc nhìn đa chiều & bí quyết thực tế để tận dụng trí tuệ tập thể trong bối cảnh mới, đổi mới văn hóa trên diện rộng và thúc đẩy sự xuất sắc giữa mơ hồ, bất định.* 
+*Lực lượng lao động đã thay đổi. Khách hàng cũng thay đổi. Thị trường càng thay đổi nhanh hơn bao giờ hết. Người lãnh đạo doanh nghiệp cần chuyển đổi như thế nào để đưa công ty bật dậy và phát triển bền vững.*
+
+*Kinh nghiệm thực tiễn mà bốn vị CEO của Marico South East Asia, Gamuda Land, Novartis Việt Nam và PNJ Group chia sẻ dưới đây đem đến góc nhìn đa chiều về những phẩm chất mới của người lãnh đạo doanh nghiệp.*
+
+ 
 
 {{<image_link url="https://www.youtube.com/watch?v=WCtDsJSUKsU&t=7s" src="/images/uploads/toa-dam-cap-cao-lam-chu-cuoc-choi-moi.jpg" caption="Tọa đàm cấp cao: Bước chuyển lãnh đạo - Làm chủ cuộc chơi mới">}}
 
@@ -30,8 +33,6 @@ Bên cạnh đó, trong những thời điểm khó khăn với quá nhiều c�
 
 ### **PHẨM CHẤT LÃNH ĐẠO MỚI**
 
-
-
 Cũng tại buổi tọa đàm, các diễn giả đều thống nhất rằng 2022 sẽ là một năm để LÀM MỚI. Do đó, để chèo lái con thuyền doanh nghiệp vượt qua những thử thách bất ngờ và biến chúng thành cơ hội tiến lên, bản thân mỗi người lãnh đạo cần có những nguyên tắc lãnh đạo mới. 
 
 *“Người lãnh đạo giống như vị tướng trong chiến tranh. Cần đưa ra quyết định ngay lập tức trên chiến trường. TÔI PHẢI QUYẾT ĐOÁN!”* - Ông Lê Trí Thông - Phó Chủ Tịch HĐQT & Tổng Giám Đốc, PNJ Group chia sẻ. 
@@ -48,6 +49,6 @@ Một quyền năng khác mà người lãnh đạo cần có trong giai đoạn
 
 *“Với tôi, sự quan tâm là tôn trọng từng cá nhân và đảm bảo điều kiện linh hoạt để họ làm việc. Là một nhà lãnh đạo, chúng ta cần mang đến HY VỌNG, với tư duy tích cực và hướng về GIẢI PHÁP, ánh sáng sẽ ở cuối đường hầm.”* đại diện Marico South East Asia nhấn mạnh. 
 
-Xem toàn bộ nội dung phiên tọa đàm cấp cao: BƯỚC CHUYỂN LÃNH ĐẠO – LÀM CHỦ CUỘC CHƠI MỚI tại: 
+\*Bài viết tóm lược nội dung của phiên tọa đàm đặc biệt "Bước chuyển lãnh đạo - Làm chủ cuộc chơi mới" trong khuôn khổ Hội nghị trực tuyến Nơi làm việc tốt nhất Việt Nam 2021 do Anphabe tổ chức ngày 22.12.2021. Xem lại toàn bộ phiên tọa đàm tại: 
 
 {{<embed-youtube link="https://www.youtube.com/watch?v=WCtDsJSUKsU&t=7s " >}}
