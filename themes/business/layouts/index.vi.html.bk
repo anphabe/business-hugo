@@ -1,21 +1,90 @@
 <!DOCTYPE html>
-<html lang="vi"   >
+<html  >
 <head>
-    {{ partial "meta.html" . }}
-    {{ partial "js_css.html" . }}
-   
+  
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:image:src" content="assets/images/index-meta.jpg">
+  <meta property="og:image" content="assets/images/index-meta.jpg">
+  <meta name="twitter:title" content="Giải pháp Thương hiệu Nhà tuyển dụng &amp; Nơi làm việc hạnh phúc | Anphabe">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
+  <meta name="description" content="Anphabe – Công ty tư vấn tiên phong về các giải pháp toàn diện xây dựng Nguồn nhân lực Hạnh phúc và Thương hiệu Nhà tuyển dụng hấp dẫn.">
+  <meta name="facebook-domain-verification" content="eskryss5mu3nd6ii839t430680129i" />
+  
+  <title>Giải pháp Thương hiệu Nhà tuyển dụng &amp; Nơi làm việc hạnh phúc | Anphabe</title>
+  <link rel="stylesheet" href="assets/themify/css/themify-icons.css">
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+      <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TXVFM6K');</script>
+<!-- End Google Tag Manager -->
+<script>
+function keep_url_query(){
+    var url = window.location.href;
+    var index = url.indexOf("?");
+
+    if(index < 0) {
+        return;
+    }
+    var query = url.substring(index);
+    
+    (function(query) {
+    var atags = document.getElementsByTagName("a"); 
+    var i;
+    for (i = 0; i < atags.length; i++) {
+        atags[i].href = atags[i].href+query;  
+    //    atags[i].classList.add("d-inline-block");
+    } 
+        
+    })(query);
+}
+
+if (
+    document.readyState === "complete" ||
+    (document.readyState !== "loading" && !document.documentElement.doScroll)
+) {
+  keep_url_query();
+} else {
+  document.addEventListener("DOMContentLoaded", keep_url_query);
+}
+
+</script>
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
 </head>
 <body>
-{{ partial "gtm.html" . }}
-{{ partial "menu.html" . }}  
+      <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TXVFM6K"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+{{ partial "menu.html" . }}
 
-<section data-bs-version="5.1" class="header1 cid-shq4eo1coz mbr-fullscreen" id="header1-1">
+<section class="header1 cid-shq4eo1coz mbr-fullscreen" id="header1-1">
+
+    
+
     <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(0, 0, 0);"></div>
 
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-8">
-                <p class="mbr-text mbr-fonts-style display-5">THÀNH CÔNG BỀN VỮNG</p>
+                <p class="mbr-text mbr-fonts-style display-7">THÀNH CÔNG BỀN VỮNG</p>
                 <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1"><strong>KHỞI ĐẦU TỪ NGUỒN NHÂN LỰC HẠNH PHÚC</strong></h1>
                 
                
@@ -25,7 +94,7 @@
     </div>
 </section>
 
-<section data-bs-version="5.1" class="features4 cid-smOqYMhghG" id="features">
+<section class="features4 cid-smOqYMhghG" id="features">
     
     
     <div class="container">
@@ -122,7 +191,7 @@
     
 </div></section>
 
-<section data-bs-version="5.1" class="features15 cid-shrgJugXo6" id="partnerships">
+<section class="features15 cid-shrgJugXo6" id="partnerships">
 
     
 
@@ -133,7 +202,7 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 col-md-12">
-                <h4 class="mbr-section-title mbr-fonts-style align-center mb-4 display-2"><strong>Tiên phong đồng hành cùng những đối tác giải pháp nhân sự hàng đầu thế giới</strong></h4>
+                <h4 class="mbr-section-title mbr-fonts-style align-center mb-4 display-5">Tiên phong đồng hành cùng những đối tác giải pháp nhân sự hàng đầu thế giới</h4>
                 <h5 class="mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2 display-7"><em>Anphabe tự hào hợp tác với những công ty công nghệ hàng đầu, áp dụng trí tuệ nhân tạo, khoa học hành vi &amp; dữ liệu lớn để phục vụ cho các hoạt động quản trị nguồn nhân lực hiệu quả.</em></h5>
             </div>
 
@@ -157,6 +226,16 @@
                     </div>
                 </div>
             </div>
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-box card__block">
+                        <div class="item-img"><img src="assets/images/talegent-3.png" alt="Workplace" title=""></div>                        
+                        <p class="card__text mbr-fonts-style display-4">Ứng dụng khoa học &amp; kỹ thuật đánh giá nhân tài tiên tiến nhất để dự đoán tiềm năng nhân lực &amp; phát triển năng lực nhân tài.
+                        </p>
+                        <a class="card__button text-primary mbr-fonts-style display-7" href="lienhe.html">Tìm hiểu thêm</a><span class="mobi-mbri mobi-mbri-right mbr-iconfont" style="color: rgb(0, 86, 112);"></span>
+                    </div>
+                </div>
+            </div>
 
 
         </div>
@@ -169,7 +248,7 @@
 
 </section>
 
-<section data-bs-version="5.1" class="testimonails3 carousel slide testimonials-slider cid-snQrbfy1pi" data-interval="false" data-bs-interval="false" id="testimonials">
+<section class="testimonails3 carousel slide testimonials-slider cid-snQrbfy1pi" data-interval="false" id="testimonials">
 
     
 
@@ -178,7 +257,7 @@
     <div class="text-center">
         
 
-        <div class="carousel slide" role="listbox" data-pause="true" data-keyboard="false" data-ride="carousel" data-bs-ride="carousel" data-interval="8000" data-bs-interval="8000">
+        <div class="carousel slide" role="listbox" data-pause="true" data-keyboard="false" data-ride="carousel" data-interval="8000">
             <div class="carousel-inner">
                 
                 
@@ -196,10 +275,10 @@
                         </div>
                         <div class="col-12 align-left pad-mobile col-lg-4">
                             <div class="user_text mb-4">
-                                <p class="mbr-fonts-style display-7">Cam kết cao của đội ngũ Anphabe giúp chúng tôi tin tưởng &amp; liên tục đồng hành trong các hoạt động định vị Thương Hiệu Nhà Tuyển Dụng cũng như cải thiện môi trường làm việc. Nhờ vậy, chúng tôi đã có thể gắn kết với nhân viên tốt hơn, xây dựng một nơi làm việc mà ở đó ai cũng hiệu quả, hạnh phúc hơn.</p>
+                                <p class="mbr-fonts-style display-7"><em>Cam kết cao của đội ngũ Anphabe giúp chúng tôi tin tưởng &amp; liên tục đồng hành trong các hoạt động định vị Thương Hiệu Nhà Tuyển Dụng cũng như cải thiện môi trường làm việc. Nhờ vậy, chúng tôi đã có thể gắn kết với nhân viên tốt hơn, xây dựng một nơi làm việc mà ở đó ai cũng hiệu quả, hạnh phúc hơn.</em></p>
                             </div>
                             <div class="user_name mbr-fonts-style mb-2 display-4"><strong>Ông WILF BLACKBURN</strong></div>
-                            <div class="user_desk mbr-fonts-style display-7">CEO Prudential Singapore&nbsp; (Cựu CEO Prudential Vietnam)</div>
+                            <div class="user_desk mbr-fonts-style display-4">CEO Prudential Singapore&nbsp; (Cựu CEO Prudential Vietnam)</div>
                         </div>
                     </div>
                 </div><div class="carousel-item">
@@ -218,26 +297,24 @@
                         </div>
                     </div>
                 </div><div class="carousel-controls">
-                <a class="carousel-control-prev" role="button" data-slide="prev" data-bs-slide="prev">
+                <a class="carousel-control-prev" role="button" data-slide="prev">
                     <span aria-hidden="true" class="mobi-mbri mobi-mbri-arrow-prev mbr-iconfont"></span>
-                    <span class="sr-only visually-hidden">Previous</span>
+                    <span class="sr-only">Previous</span>
                 </a>
 
-                <a class="carousel-control-next" role="button" data-slide="next" data-bs-slide="next">
+                <a class="carousel-control-next" role="button" data-slide="next">
                     <span aria-hidden="true" class="mobi-mbri mobi-mbri-arrow-next mbr-iconfont"></span>
-                    <span class="sr-only visually-hidden">Next</span>
+                    <span class="sr-only">Next</span>
                 </a>
             </div></div>
     </div>
 </div></section>
-{{ partial "footer.html" .}}
 
-<section data-bs-version="5.1" class="features3 cid-snPEwaaEfl" id="resources">
-
+<section class="features3 cid-snPEwaaEfl" id="resources">
     <div class="container">
         <div class="mbr-section-head">
-            <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2"><strong>
-                Bài viết nổi bật</strong></h4>
+            <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-5">
+                Bài viết nổi bật</h4>
             
         </div>
         <div class="row mt-4">
@@ -246,11 +323,11 @@
     </div>
 </section>
 
-<section data-bs-version="5.1" class="clients1 cid-shqFLeRitl" id="clients">
+<section class="clients1 cid-shqFLeRitl" id="clients">
     
     <div class="images-container container-fluid">
         <div class="mbr-section-head">
-            <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2"><strong>Khách hàng tiêu biểu</strong></h3>
+            <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-5">Khách hàng tiêu biểu</h3>
             
             
         </div>
@@ -340,7 +417,23 @@
         </div>
     </div>
 </section>
-{{ partial "footer.html" .}} 
+{{ partial "footer.html" .}}
+
+
+<script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/popper/popper.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="assets/dropdown/js/nav-dropdown.js"></script>
+  <script src="assets/dropdown/js/navbar-dropdown.js"></script>
+  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
+  <script src="assets/mbr-testimonials-slider/mbr-testimonials-slider.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  
+  <script src="assets/al/al.min.js"></script>
+  
  <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
   </body>
 </html>

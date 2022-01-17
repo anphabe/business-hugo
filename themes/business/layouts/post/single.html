@@ -1,63 +1,8 @@
 <!DOCTYPE html>
 <html  >
 <head>
-  
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-icon">
-
-  {{ partial "meta.html" . }}
-  
-  <link rel="stylesheet" href="/assets/themify/css/themify-icons.css">
-  <link rel="stylesheet" href="/assets/tether/tether.min.css">
-  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap-grid.min.css">
-  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="/assets/dropdown/css/style.css">
-  <link rel="stylesheet" href="/assets/socicon/css/styles.css">
-  <link rel="stylesheet" href="/assets/theme/css/style.css">
-  <link rel="preload" as="style" href="/assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="/assets/mobirise/css/mbr-additional.css" type="text/css">
-  
-  
-      <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-TXVFM6K');</script>
-<!-- End Google Tag Manager -->
-<script>
-function keep_url_query(){
-    var url = window.location.href;
-    var index = url.indexOf("?");
-
-    if(index < 0) {
-        return;
-    }
-    var query = url.substring(index);
-    
-    (function(query) {
-    var atags = document.getElementsByTagName("a"); 
-    var i;
-    for (i = 0; i < atags.length; i++) {
-        atags[i].href = atags[i].href+query;  
-    //    atags[i].classList.add("d-inline-block");
-    } 
-        
-    })(query);
-}
-
-if (
-    document.readyState === "complete" ||
-    (document.readyState !== "loading" && !document.documentElement.doScroll)
-) {
-  keep_url_query();
-} else {
-  document.addEventListener("DOMContentLoaded", keep_url_query);
-}
-
-</script>
+    {{ partial "meta.html" . }}
+    {{ partial "js_css.html" . }}  
   
 <style>
     .post-detail, .post-detail p {
@@ -78,10 +23,7 @@ if (
 </style>
 </head>
 <body>
-      <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TXVFM6K"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+{{ partial "gtm.html" . }}
 {{ partial "menu.html" . }}
 
 <section class="py-5">
