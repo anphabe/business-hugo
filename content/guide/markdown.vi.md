@@ -77,9 +77,9 @@ This is an [example link](http://example.com/).
 
 ### Images
 
-![alt text](http://simplpost.com/images/sample1.jpg)
+![alt text](https://simplpost.com/images/sample1.jpg)
 ```
-![alt text](http://simplpost.com/images/sample1.jpg)
+![alt text](https://simplpost.com/images/sample1.jpg)
 ```
 
 #### Image with caption
