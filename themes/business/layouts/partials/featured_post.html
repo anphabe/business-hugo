@@ -1,4 +1,4 @@
-{{ range first 9 (where site.RegularPages.ByDate.Reverse "Section" "post")}}
+{{ range first 6 (where site.RegularPages.ByDate.Reverse "Section" "post")}}
     {{ $link :=  "x" }}
     {{ if (.Params.field_url) }}
         {{ $link = .Params.field_url}}

@@ -5,7 +5,7 @@ title = "My New Hugo Site"
 theme = "business"
 
 defaultContentLanguage = "vi"
-paginate = 9
+paginate = 12
 
 [languages]
   [languages.vi]

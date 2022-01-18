@@ -1,80 +1,15 @@
 <!DOCTYPE html>
-<html  >
+<html lang="vi"   >
 <head>
-  
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  
-  <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:image:src" content="/assets/images/lienhe-meta.jpg">
-  <meta property="og:image" content="/assets/images/lienhe-meta.jpg">
-  <meta name="twitter:title" content="Liên hệ | Anphabe">
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-icon">
-  <meta name="description" content="Anphabe – Công ty tư vấn tiên phong về các giải pháp toàn diện xây dựng Nguồn nhân lực Hạnh phúc và Thương hiệu Nhà tuyển dụng hấp dẫn.">
-  <meta name="facebook-domain-verification" content="eskryss5mu3nd6ii839t430680129i" />
-  
-  <title>Liên hệ | Anphabe</title>
-  <link rel="stylesheet" href="/assets/themify/css/themify-icons.css">
-  <link rel="stylesheet" href="/assets/tether/tether.min.css">
-  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap-grid.min.css">
-  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="/assets/dropdown/css/style.css">
-  <link rel="stylesheet" href="/assets/socicon/css/styles.css">
-  <link rel="stylesheet" href="/assets/theme/css/style.css">
-  <link rel="preload" as="style" href="/assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="/assets/mobirise/css/mbr-additional.css" type="text/css">
-  
-  
-      <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-TXVFM6K');</script>
-<!-- End Google Tag Manager -->
-<script>
-function keep_url_query(){
-    var url = window.location.href;
-    var index = url.indexOf("?");
-
-    if(index < 0) {
-        return;
-    }
-    var query = url.substring(index);
-    
-    (function(query) {
-    var atags = document.getElementsByTagName("a"); 
-    var i;
-    for (i = 0; i < atags.length; i++) {
-        atags[i].href = atags[i].href+query;  
-    //    atags[i].classList.add("d-inline-block");
-    } 
-        
-    })(query);
-}
-
-if (
-    document.readyState === "complete" ||
-    (document.readyState !== "loading" && !document.documentElement.doScroll)
-) {
-  keep_url_query();
-} else {
-  document.addEventListener("DOMContentLoaded", keep_url_query);
-}
-
-</script>
-  
+    {{ partial "meta.html" . }}
+    {{ partial "js_css.html" . }}
+   
 </head>
 <body>
-      <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TXVFM6K"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-{{ partial "menu.html" . }}
-
-<section class="form1 cid-snR1bALdSG mbr-fullscreen mbr-parallax-background" id="form1-1s">
-
+{{ partial "gtm.html" . }}
+{{ partial "menu.html" . }}  
+  
+<section data-bs-version="5.1" class="form1 cid-snR1bALdSG mbr-fullscreen mbr-parallax-background" id="form1-1s">
     
 
     <div class="mbr-overlay" style="opacity: 0; background-color: rgb(255, 255, 255);"></div>
@@ -83,139 +18,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="col-lg-8 mx-auto mbr-form">
                 
                 {{ partial "contact_form.vi.html" . }}
-                <!--
-                  <form action="https://www.anphabe.com/aapi-lead/register" method="POST" class="mbr-form form-with-styler anphabe-lead" data-form-type="anphabe-lead">
-                        
-                                  <input type="hidden" id="product_name-form1-1s" name="product_name" data-form-field="product_name" value="business">
-                    <input type="hidden" id="utm_campaign-form1-1s" name="utm_campaign" data-form-field="utm_campaign" value="">
-                    <input type="hidden" id="utm_source-form1-1s" name="utm_source" data-form-field="utm_source" value="">
-                    <input type="hidden" id="utm_medium-form1-1s" name="utm_medium" data-form-field="utm_medium" value="">
-                    <input type="hidden" id="utm_term-form1-1s" name="utm_term" data-form-field="utm_term" value="">
-                    <input type="hidden" id="utm_content-form1-1s" name="utm_content" data-form-field="utm_content" value="">
-                                  <div class="dragArea row">
-                                      <div class="col-12">
-                                          <h4 class="mbr-section-title mbr-fonts-style align-center mb-4 display-5">Thông tin liên hệ</h4>
-                                      </div>
-                                      <div class="col-12">
-                                          <p class="mbr-text mbr-fonts-style mb-5 display-7">Điện thoại: <strong>028 6268 2222</strong><br>
-Email: <strong><a href="mailto:contact@anphabe.com" class="text-primary">contact@anphabe.com</a></strong></p>
-                                      </div>
-
-                                      <div class="col-sm-12 form-group" data-for="name">
-                                          <input type="text" name="fullname" placeholder="Tên người liên lạc" data-form-field="fullname" class="form-control" value="" required="" id="fullname-form1-1s">
-                                      </div>
-                                      <div class="col-sm-12 form-group" data-for="jobtitle">
-                                          <input type="text" name="jobtitle" placeholder="Chức vụ" data-form-field="jobtitle" class="form-control" value="" required="" id="jobtitle-form1-1s">
-                                      </div>
-                                      <div class="col-sm-12 form-group" data-for="company">
-                                          <input type="text" name="company" placeholder="Tên công ty" data-form-field="company" class="form-control" value="" required="" id="company-form1-1s">
-                                      </div>
-                                      <div class="col-sm-12 form-group" data-for="employee">
-                                        <select class="form-control" title="employee" name="employee" data-form-field="employee" required="" id="employee-form1-1s">
-                                          <option value="" selected="">-- Quy mô nhân sự --</option>
-                                        <option value="1-50 nhân sự">1-100 nhân sự</option>
-                                        <option value="51-200 nhân sự">101-200 nhân sự</option>
-                                        <option value="201-500 nhân sự">201-500 nhân sự</option>
-                                        <option value="501-1000 nhân sự">501-1000 nhân sự</option>
-                                        <option value="Hơn 1000 nhân sự">Hơn 1000 nhân sự</option>
-                                        </select>
-                                      </div>
-                                      <div class="col-md col-sm-12 form-group" data-for="phone">
-                                          <input type="text" name="phone" placeholder="Điện thoại liên hệ" data-form-field="phone" class="form-control" value="" required="" id="phone-form1-1s">
-                                      </div>
-                                      <div class="col-md col-sm-12 form-group" data-for="email">
-                                          <input type="email" name="email" placeholder="E-mail liên lạc" data-form-field="email" class="form-control" value="" required="" id="email-form1-1s">
-                                      </div>
-
-                                      <div class="col-sm-12 form-group" data-for="nhucautuvan">
-                                        <select class="form-control" title="info" name="nhucautuvan" data-form-field="nhucautuvan" required="" id="nhucautuvan-form1-1s">
-                                          <option value="" selected="">-- Nhu cầu tư vấn --</option>
-                                          <option value="Nghiên cứu &amp; Tư vấn Nhân sự">Nghiên cứu &amp; Tư vấn Nhân sự</option>
-                                          <option value="Quảng bá Thương hiệu NTD">Quảng bá Thương hiệu NTD</option>
-                                          <option value="Tuyển dụng &amp; Gắn kết Nhân tài">Tuyển dụng &amp; Gắn kết Nhân tài</option>
-                                          <option value="Xây dựng Nguồn nhân lực Hạnh phúc">Xây dựng Nguồn nhân lực Hạnh phúc</option>
-                                          <option value="Khác">Khác</option>
-                                        </select>
-                                      </div>
-                                      
-                                      <div class="col-12 form-group" data-for="nhucautuvan-detail">
-                                          <textarea name="nhucautuvan-detail" data-form-field="nhucautuvan-detail" placeholder="Vui lòng mô tả nhu cầu cần tư vấn của anh/chị!" class="form-control" required="" id="nhucautuvan-detail-form1-1s"></textarea>
-                                      </div>
-                                      <div class="col-lg-12 col-md-12 col-sm-12 align-center mbr-section-btn"><button type="submit" class="btn btn-success display-4">GỬI THÔNG TIN</button></div>
-                                  </div>
-                              </form>
-
-
--->
-
-
+                
             </div>
         </div>
     </div>
 </section>
-
-<section class="footer3 cid-snR15Qzkz2" once="footers" id="footer3-shUHYVgSjB-shUHYVgSjB-shUHYVgSjB-1r">
-
-    
-
-    
-
-    <div class="container">
-        <div class="media-container-row align-center mbr-white">
-            <div class="row row-links">
-                <ul class="foot-menu">
-                    
-                    
-                    
-                    
-                    
-                <li class="foot-menu-item mbr-fonts-style display-7 foot-text"><a href="index.html" class="text-primary">Trang chủ</a></li><li class="foot-menu-item mbr-fonts-style display-7 foot-text"><a href="index.html#partnerships" class="text-primary"></a><a href="index.html#features" class="text-primary">Dịch vụ</a></li><li class="foot-menu-item mbr-fonts-style display-7 foot-text"><a href="index.html#partnerships" class="text-primary">Đối tác</a></li><li class="foot-menu-item mbr-fonts-style display-7 foot-text"><a href="index.html#resources" class="text-primary">Tài nguyên</a></li><li class="foot-menu-item mbr-fonts-style display-7 foot-text"><a href="page1.html" class="text-primary">Liên hệ</a></li></ul>
-            </div>
-            <div class="row social-row">
-                <div class="social-list align-right pb-2">
-                    
-                    
-                    
-                    
-                    
-                    
-                <div class="soc-item">
-                        <a href="https://www.facebook.com/anphabe " target="_blank">
-                            <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon"></span>
-                        </a>
-                    </div><div class="soc-item">
-                        <a href="https://www.linkedin.com/company/anphabe.com/ " target="_blank">
-                            <span class="mbr-iconfont mbr-iconfont-social socicon-linkedin socicon"></span>
-                        </a>
-                    </div><div class="soc-item">
-                        <a href="https://www.youtube.com/c/anphabevideo " target="_blank">
-                            <span class="mbr-iconfont mbr-iconfont-social ti-youtube"></span>
-                        </a>
-                    </div></div>
-            </div>
-            <div class="row row-copirayt">
-                <p class="mbr-text mb-0 mbr-fonts-style mbr-white align-center display-7 foot-text">
-                    © Copyright 2025 Anphabe. All Rights Reserved.
-                </p>
-            </div>
-        </div>
-    </div>
-</section>
-
-
-<script src="/assets/web//assets/jquery/jquery.min.js"></script>
-  <script src="/assets/popper/popper.min.js"></script>
-  <script src="/assets/tether/tether.min.js"></script>
-  <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
-  <script src="/assets/smoothscroll/smooth-scroll.js"></script>
-  <script src="/assets/parallax/jarallax.min.js"></script>
-  <script src="/assets/dropdown/js/nav-dropdown.js"></script>
-  <script src="/assets/dropdown/js/navbar-dropdown.js"></script>
-  <script src="/assets/touchswipe/jquery.touch-swipe.min.js"></script>
-  <script src="/assets/theme/js/script.js"></script>
-  
-  <script src="/assets/al/al.min.js"></script>
-  
- <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
+{{ partial "footer.html" .}} 
   </body>
 </html>

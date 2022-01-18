@@ -1,81 +1,15 @@
 <!DOCTYPE html>
-<html  >
+<html lang="en"   >
 <head>
-  
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  
-  <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:image:src" content="/assets/images/index-meta.jpg">
-  <meta property="og:image" content="/assets/images/index-meta.jpg">
-  <meta name="twitter:title" content="Solutions for Employer Brand &amp; Happy Workplace | Anphabe">
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-icon">
-  <meta name="description" content="Anphabe - Pioneer consulting firm providing Employer Brand & Happy Workforce solutions">
-  <meta name="facebook-domain-verification" content="eskryss5mu3nd6ii839t430680129i" />
-  
-  <title>Solutions for Employer Brand &amp; Happy Workplace | Anphabe</title>
-  <link rel="stylesheet" href="/assets/themify/css/themify-icons.css">
-  <link rel="stylesheet" href="/assets/web//assets/mobirise-icons2/mobirise2.css">
-  <link rel="stylesheet" href="/assets/tether/tether.min.css">
-  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap-grid.min.css">
-  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="/assets/dropdown/css/style.css">
-  <link rel="stylesheet" href="/assets/socicon/css/styles.css">
-  <link rel="stylesheet" href="/assets/theme/css/style.css">
-  <link rel="preload" as="style" href="/assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="/assets/mobirise/css/mbr-additional.css" type="text/css">
-  
-  
-      <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-TXVFM6K');</script>
-<!-- End Google Tag Manager -->
-<script>
-function keep_url_query(){
-    var url = window.location.href;
-    var index = url.indexOf("?");
-
-    if(index < 0) {
-        return;
-    }
-    var query = url.substring(index);
-    
-    (function(query) {
-    var atags = document.getElementsByTagName("a"); 
-    var i;
-    for (i = 0; i < atags.length; i++) {
-        atags[i].href = atags[i].href+query;  
-    //    atags[i].classList.add("d-inline-block");
-    } 
-        
-    })(query);
-}
-
-if (
-    document.readyState === "complete" ||
-    (document.readyState !== "loading" && !document.documentElement.doScroll)
-) {
-  keep_url_query();
-} else {
-  document.addEventListener("DOMContentLoaded", keep_url_query);
-}
-
-</script>
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
- 
+    {{ partial "meta.html" . }}
+    {{ partial "js_css.html" . }}
+   
 </head>
 <body>
-      <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TXVFM6K"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-{{ partial "menu.html" . }}
+{{ partial "gtm.html" . }}
+{{ partial "menu.html" . }}  
 
-<section class="header1 cid-shq4eo1coz mbr-fullscreen" id="header1-1">
+<section data-bs-version="5.1" class="header1 cid-shq4eo1coz mbr-fullscreen" id="header1-1">
 
     
 
@@ -84,7 +18,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-8">
-                <p class="mbr-text mbr-fonts-style display-7">SUSTAINABLE SUCCESS</p>
+                <p class="mbr-text mbr-fonts-style display-5">SUSTAINABLE SUCCESS</p>
                 <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1"><strong>STARTING FROM HAPPY WORKFORCE</strong></h1>
                 
                
@@ -191,7 +125,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
 </div></section>
 
-<section class="features15 cid-shrgJugXo6" id="partnerships">
+
+    <section data-bs-version="5.1" class="features15 cid-shrgJugXo6" id="partnerships">
 
     
 
@@ -225,17 +160,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div>
             </div>
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-wrapper">
-                    <div class="card-box card__block">
-                        <div class="item-img"><img src="/assets/images/talegent-3.png" alt="Workplace" title=""></div>                        
-                        <p class="card__text mbr-fonts-style display-4">Applying the most advanced science &amp; technology in talent assessment to predict human potential &amp; develop talent capacity.</p>
-                        <a class="card__button text-primary mbr-fonts-style display-7" href="contact.html">Read more</a><span class="mobi-mbri mobi-mbri-right mbr-iconfont" style="color: rgb(0, 86, 112);"></span>
-                    </div>
-                </div>
-            </div>
-
-
+            
         </div>
     </div>
 
@@ -246,7 +171,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </section>
 
-<section class="testimonails3 carousel slide testimonials-slider cid-snQrbfy1pi" data-interval="false" id="testimonials">
+<section data-bs-version="5.1" class="testimonails3 carousel slide testimonials-slider cid-snQrbfy1pi" data-interval="false" data-bs-interval="false" id="testimonials">
 
     
 
@@ -295,14 +220,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                     </div>
                 </div><div class="carousel-controls">
-                <a class="carousel-control-prev" role="button" data-slide="prev">
+                <a class="carousel-control-prev" role="button" data-slide="prev" data-bs-slide="prev">
                     <span aria-hidden="true" class="mobi-mbri mobi-mbri-arrow-prev mbr-iconfont"></span>
-                    <span class="sr-only">Previous</span>
+                    <span class="sr-only visually-hidden">Previous</span>
                 </a>
 
-                <a class="carousel-control-next" role="button" data-slide="next">
+                <a class="carousel-control-next" role="button" data-slide="next" data-bs-slide="next">
                     <span aria-hidden="true" class="mobi-mbri mobi-mbri-arrow-next mbr-iconfont"></span>
-                    <span class="sr-only">Next</span>
+                    <span class="sr-only visually-hidden">Next</span>
                 </a>
             </div></div>
     </div>
@@ -417,23 +342,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </section>
 
-{{ partial "footer.html" .}}
-
-
-<script src="/assets/web//assets/jquery/jquery.min.js"></script>
-  <script src="/assets/popper/popper.min.js"></script>
-  <script src="/assets/tether/tether.min.js"></script>
-  <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
-  <script src="/assets/smoothscroll/smooth-scroll.js"></script>
-  <script src="/assets/dropdown/js/nav-dropdown.js"></script>
-  <script src="/assets/dropdown/js/navbar-dropdown.js"></script>
-  <script src="/assets/touchswipe/jquery.touch-swipe.min.js"></script>
-  <script src="/assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
-  <script src="/assets/mbr-testimonials-slider/mbr-testimonials-slider.js"></script>
-  <script src="/assets/theme/js/script.js"></script>
-  
-  <script src="/assets/al/al.min.js"></script>
-  
- <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
-  </body>
+{{ partial "footer.html" .}} 
+    </body>
 </html>
