@@ -1,7 +1,7 @@
 ---
 title: 5 xu hướng tác động đến kinh doanh, tài nguyên công nghệ và chiến lược
   phát triển trong 2022
-draft: true
+draft: false
 date: 2022-03-24
 image: /images/uploads/data-driven-economy-trends.jpg
 field_url: null
