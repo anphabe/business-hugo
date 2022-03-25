@@ -1753,7 +1753,7 @@
               "background-image": "url(@bg-value)"
             },
             "& when (@bg-type = 'color')": {
-              "background": "#4326c4 !important"
+              "background": "white !important"
             },
             ".mbr-section-title, .mbr-text, .mbr-section-btn": {
               "text-align": "center"
@@ -1764,11 +1764,11 @@
             },
             ".mbr-section-title, .mbr-section-btn": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "black"
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "center",
-              "color": "#ffffff"
+              "color": "black"
             },
             ".mbr-text": {
               "text-align": "left !important"
