@@ -1,5 +1,5 @@
 ---
-title: "Tìm người tuyển dụng cho tổ chức, tìm ở đâu?  "
+title: "Tìm người tuyển dụng cho tổ chức, tìm ở đâu? "
 draft: false
 date: 2022-04-04
 image: /images/uploads/people-and-talent-management.jpg
@@ -9,7 +9,7 @@ field_url: null
 
 ![Muốn tuyển dụng hiệu quả và dài lâu, công ty cần xây đội ngũ talent acquisition (thu hút nhân tài) chất lượng. ](/images/uploads/dreamstime_xxl_116385255-min.jpeg "Muốn tuyển dụng hiệu quả và dài lâu, công ty cần xây đội ngũ talent acquisition (thu hút nhân tài) chất lượng. ")
 
-1. Tận dụng mạng lưới xã hội   
+1. ### **Tận dụng mạng lưới xã hội**
 
 Người tuyển dụng thành công là người biết xây dựng và tận dụng mạng lưới quan hệ của mình. Họ luôn có những chiến lược để duy trì liên hệ với đồng nghiệp, nhân viên, bạn bè, người thân,… để có thêm những gợi ý ứng viên chất lượng.    
 
@@ -17,15 +17,13 @@ Vậy nên, nếu xây dựng được mạng lưới xã hội vững chắc, v
 
 ![Người tuyển dụng thành công là người biết xây dựng và tận dụng mạng lưới quan hệ của mình. ](/images/uploads/networking_7555794012-2.jpg "Người tuyển dụng thành công là người biết xây dựng và tận dụng mạng lưới quan hệ của mình. ")
 
-2. Phát triển từ nguồn lực nội bộ   
+2. ### **Phát triển từ nguồn lực nội bộ**   
 
 Để cạnh tranh trong thị trường “giành giật ứng viên” như hiện nay, một trong những giải pháp tối ưu nhất là tận dụng ưu thế từ nguồn nội bộ. Giải pháp này rất phù hợp với các doanh nghiệp đang cần tuyển nhân lực không cần kinh nghiệm lâu năm và đã quen thuộc với văn hóa doanh nghiệp hiện tại.   
 
 Hãy tìm kiếm các đối tượng sáng giá từ các nhân viên thuộc phòng ban khác nhưng sở hữu các kỹ năng linh hoạt, liên ngành: từ trợ lý điều hành đến quản lý cửa hàng, điều phối nhân sự hay nhân sự làm việc trực tiếp với khách hàng khác. Việc xác định và đề bạt nhân sự có kỹ năng tương đương từ lĩnh vực khác sẽ giúp doanh nghiệp tìm được đúng người để lấp đầy các vị trí còn đang bỏ ngỏ.
 
-![Tận dụng ưu thế từ nguồn nội bộ để tìm được ứng viên đã quen thuộc với văn hóa doanh nghiệp.](/images/uploads/3b2e2662-5175-46e3-b1b2-79d1d4cc96c1.jpeg "Tận dụng ưu thế từ nguồn nội bộ để tìm được ứng viên đã quen thuộc với văn hóa doanh nghiệp.")
-
-3. Kết nối với nguồn lực bên ngoài  
+3. ### **Kết nối với nguồn lực bên ngoài**  
 
 Thị trường tuyển dụng càng thu hẹp, tư duy tuyển dụng phải càng cởi mở. Thực tế, có rất nhiều nhân sự tuyển dụng tài năng có xuất thân làm việc từ agency. Đây là những nhà tuyển dụng có khả năng chủ động nuôi dưỡng và liên hệ nguồn ứng viên - những kỹ năng thiết yếu trong thị trường tuyển dụng eo hẹp hiện tại. Hơn nữa, thu nhập của họ đều dựa trên commission (hoa hồng), vì vậy, doanh nghiệp có thể yên tâm về sự chăm chỉ và kỉ luật của các nhà tuyển dụng có tiếng tại agency.  
 

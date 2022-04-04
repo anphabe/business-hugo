@@ -8,7 +8,7 @@ image: /images/uploads/people-and-talent-management.jpg
 
 ![Muốn tuyển dụng hiệu quả và dài lâu, công ty cần xây đội ngũ talent acquisition (thu hút nhân tài) chất lượng. ](/images/uploads/dreamstime_xxl_116385255-min.jpeg "Muốn tuyển dụng hiệu quả và dài lâu, công ty cần xây đội ngũ talent acquisition (thu hút nhân tài) chất lượng. ")
 
-1. ### **Tận dụng mạng lưới xã hội**   
+1. ### **Tận dụng mạng lưới xã hội**
 
 Người tuyển dụng thành công là người biết xây dựng và tận dụng mạng lưới quan hệ của mình. Họ luôn có những chiến lược để duy trì liên hệ với đồng nghiệp, nhân viên, bạn bè, người thân,… để có thêm những gợi ý ứng viên chất lượng.    
 
@@ -21,8 +21,6 @@ Vậy nên, nếu xây dựng được mạng lưới xã hội vững chắc, v
 Để cạnh tranh trong thị trường “giành giật ứng viên” như hiện nay, một trong những giải pháp tối ưu nhất là tận dụng ưu thế từ nguồn nội bộ. Giải pháp này rất phù hợp với các doanh nghiệp đang cần tuyển nhân lực không cần kinh nghiệm lâu năm và đã quen thuộc với văn hóa doanh nghiệp hiện tại.   
 
 Hãy tìm kiếm các đối tượng sáng giá từ các nhân viên thuộc phòng ban khác nhưng sở hữu các kỹ năng linh hoạt, liên ngành: từ trợ lý điều hành đến quản lý cửa hàng, điều phối nhân sự hay nhân sự làm việc trực tiếp với khách hàng khác. Việc xác định và đề bạt nhân sự có kỹ năng tương đương từ lĩnh vực khác sẽ giúp doanh nghiệp tìm được đúng người để lấp đầy các vị trí còn đang bỏ ngỏ.
-
-![Tận dụng ưu thế từ nguồn nội bộ để tìm được ứng viên đã quen thuộc với văn hóa doanh nghiệp.]( "Tận dụng ưu thế từ nguồn nội bộ để tìm được ứng viên đã quen thuộc với văn hóa doanh nghiệp.")
 
 3. ### **Kết nối với nguồn lực bên ngoài**  
 
