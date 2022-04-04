@@ -1,5 +1,5 @@
 ---
-title: "Tìm người tuyển dụng cho tổ chức, tìm ở đâu?  "
+title: "Tìm người tuyển dụng cho tổ chức, tìm ở đâu? "
 draft: false
 date: 2022-04-04
 image: /images/uploads/people-and-talent-management.jpg
