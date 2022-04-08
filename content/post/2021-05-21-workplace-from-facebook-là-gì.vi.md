@@ -1,18 +1,19 @@
 ---
-title: Workplace from Facebook là gì?
+title: Workplace from Meta là gì?
 draft: false
 date: 2021-05-13
-image: /images/uploads/workplace.jpg
+image: /images/uploads/252966967_372231547921901_5989659521823879140_n.png
+field_url: null
 ---
 **Bài này tóm lược các lợi ích thực tiễn nhất từ Workplace, giải đáp những thắc mắc thường trực của người lãnh đạo, quản lý doanh nghiệp…**
 
-![](/images/uploads/workplace.jpg)
+![workplacefrommeta-anphabe](/images/uploads/workplace.jpg)
 
-Câu hỏi đầu tiên cần giải đáp: Thế tóm lại Workplace from Facebook là gì? 
+Câu hỏi đầu tiên cần giải đáp: Thế tóm lại Workplace from Meta là gì? 
 
 Xin phép mạnh dạn đi thẳng vào vấn đề luôn: Workplace là nền tảng truyền thông và hợp tác nội bộ, giúp gia tăng gắn kết, thúc đẩy sáng tạo và nâng cao hiệu suất làm việc, dành riêng cho doanh nghiệp.
 
-Facebook giới thiệu Workplace lần đầu vào năm 2015 và bản beta được công bố một năm sau đó – vào tháng 10/2016. Lúc đầu, Workplace chủ yếu phục vụ nhu cầu giao tiếp, phối hợp làm việc nội bộ của các nhân viên Facebook. Kể từ khi phiên bản dành cho các doanh nghiệp được công bố đến nay, đã có hơn 30.000 công ty và trên 2 triệu người sử dụng Workplace trên toàn cầu.
+Meta giới thiệu Workplace lần đầu vào năm 2015 và bản beta được công bố một năm sau đó – vào tháng 10/2016. Lúc đầu, Workplace chủ yếu phục vụ nhu cầu giao tiếp, phối hợp làm việc nội bộ của các nhân viên Meta. Kể từ khi phiên bản dành cho các doanh nghiệp được công bố đến nay, đã có hơn 30.000 công ty và trên 2 triệu người sử dụng Workplace trên toàn cầu.
 
 ### **Tại sao cần Workplace trong khi đã có nhiều cách khác để truyền thông nội bộ?**
 
@@ -26,7 +27,7 @@ Còn tại INSEE Việt Nam, “Với Workplace, INSEE duy trì liên tục quy 
 
 Chắc hẳn nhiều lãnh đạo doanh nghiệp lo ngại chi phí chuyển đổi khi triển khai Workplace, bao gồm chi phí huấn luyện, truyền thông và vận động sử dụng… 
 
-Một khía cạnh tích cực là Workplace kế thừa giao diện và đầy đủ các tính năng của Facebook, lại được tối ưu hóa cho doanh nghiệp, có cả phiên bản dùng cho máy tính và ứng dụng trên điện thoại di động. Mà phần lớn nhân viên của doanh nghiệp đều có tài khoản Facebook cá nhân và sử dụng hầu như mỗi ngày. 
+Một khía cạnh tích cực là Workplace kế thừa giao diện và đầy đủ các tính năng của Meta, lại được tối ưu hóa cho doanh nghiệp, có cả phiên bản dùng cho máy tính và ứng dụng trên điện thoại di động. Mà phần lớn nhân viên của doanh nghiệp đều có tài khoản Meta cá nhân và sử dụng hầu như mỗi ngày. 
 
 Cho nên, việc triển khai Workplace trong toàn công ty không mất nhiều thời gian, nhân viên nhanh chóng làm quen và sử dụng được ngay. Nhờ vậy, doanh nghiệp **[tiết kiệm chi phí chuyển đổi đáng kể.](https://anpha.be/3yotqML)**
 
@@ -44,7 +45,7 @@ Hoặc người làm **Nhân sự nào cũng mong muốn gia tăng gắn kết 
 
  Nhưng với Workplace, mọi nhân viên ở mọi cấp độ **dù không có tài khoản email công ty vẫn có thể tiếp cận thông tin cập nhật đầy đủ**, thông qua ứng dụng Workplace trên điện thoại thông minh. Nhân sự có thể dùng chức năng Tạo chiến dịch (Campaign) để đăng thông tin phát động một cuộc thi nội bộ trên Bảng tin và lập tức mọi nhân viên đều nhận được thông báo về hoạt động thi đua này. Hơn thế nữa, nhân viên có thể bình luận, tương tác trực tiếp ngay trên Workplace và Nhân sự có thể theo sát tình hình, đo lường được mức độ hiệu quả của hoạt động thi đua. 
 
-Tìm hiểu thêm tại: <https://anpha.be/3yotqML> 
+Tìm hiểu thêm tại: <!--StartFragment--><https://anpha.be/3yotqML><!--EndFragment--> 
 
 ![](/images/uploads/4.png)
 
@@ -58,6 +59,6 @@ Hãy bắt đầu từ việc xác định nhu cầu cụ thể của doanh nghi
 
 Doanh nghiệp bạn đã biết và bắt đầu sử dụng Workplace chưa? Hãy chia sẻ trải nghiệm của bạn bên dưới comment nhé! 
 
-Hoặc tìm hiểu thêm thông tin chi tiết tại: [](https://anpha.be/3bGji9u)<https://anpha.be/3yotqML> 
+Hoặc tìm hiểu thêm thông tin chi tiết tại: <!--StartFragment--><https://anpha.be/3yotqML><!--EndFragment-->[](https://anpha.be/3bGji9u)
 
 ![](/images/uploads/5.jpg)
