@@ -9,7 +9,7 @@ field_url: null
 
 ![COVID-19 ảnh hưởng sâu sắc đến các hoạt động tuyển dụng, đặc biệt là việc phân bổ ngân sách](/images/uploads/calculating-budget.jpg "COVID-19 ảnh hưởng sâu sắc đến các hoạt động tuyển dụng, đặc biệt là việc phân bổ ngân sách")
 
-### **1. Cắt giảm ngân sách đi lại và tổ chức sự kiện** 
+### **1. Cắt giảm ngân sách đi lại và tổ chức sự kiện**
 
 Cụ thể, hầu hết doanh nghiệp đều phải cắt giảm chi phí không cần thiết và tập trung vào gia tăng hiệu quả tuyển dụng với các cách làm mới.  
 
@@ -19,15 +19,13 @@ Tuyển dụng trực tuyến lên ngôi giữ mùa dịch cũng khiến các c�
 
 ![Các doanh nghiệp đang cẩn trọng hơn trong việc phân bổ nguồn lực. ](/images/uploads/pexels-lukas-669615.jpg "Các doanh nghiệp đang cẩn trọng hơn trong việc phân bổ nguồn lực. ")
 
-### **2. Tập trung phát triển thương hiệu nhà tuyển dụng**  
+### **2. Tập trung phát triển thương hiệu nhà tuyển dụng**
 
 Một lĩnh vực khác được phần lớn (63%) các doanh nghiệp đầu tư ổn định là thương hiệu nhà tuyển dụng (employer branding). Tuy khoản chi thực tế cho lĩnh vực này có thể sẽ không thay đổi quá nhiều, nhưng đây vẫn là xu hướng được các doanh nghiệp quan tâm.  
 
 Trong bối cảnh dịch COVID-19, các công ty đang tích cực điều chỉnh thương hiệu nhà tuyển dụng của mình để đảm bảo tiếp cận mọi đối tượng, phản ánh đúng thực tế và “khoe khéo” được văn hóa doanh nghiệp. Trong đó, để thu hút nhân tài tiềm năng, việc đầu tư vào giao diện hấp dẫn, hình thức mới lạ, thông điệp thu hút chính là yếu tố cực kỳ quan trọng.   
 
-![Xây dựng thương hiệu nhà tuyển dụng vẫn được các doanh nghiệp đầu tư ổn định. ](/images/uploads/employer-branding.jpg "Xây dựng thương hiệu nhà tuyển dụng vẫn được các doanh nghiệp đầu tư ổn định. ")
-
-### **3. Đầu tư công nghệ, tối ưu hiệu suất tuyển dụng** 
+### **3. Đầu tư công nghệ, tối ưu hiệu suất tuyển dụng**
 
 Phần lớn (71%) các chuyên gia cho rằng: cách tối ưu nhất để tiết kiệm là số hóa quy trình tuyển dụng và tiêu chuẩn hóa các quy trình đạt hiệu quả cao nhất.   
 
