@@ -2,7 +2,7 @@
 title: Tổ chức của bạn có đang gắn kết?
 draft: false
 date: 2022-04-08
-image: /images/uploads/ezgif.com-gif-maker.jpg
+image: /images/uploads/employee-engagement-lessons.png
 field_url: null
 ---
 *Sự gắn kết nhân viên (Employee Engagement) là khái niệm chỉ sự tương tác, kết nối và gắn bó giữa các cá nhân với tổ chức, doanh nghiệp. Tổ chức có mức độ gắn kết càng cao, càng phát triển bền vững và thúc đẩy sự cam kết, sáng tạo, năng suất làm việc và tính chủ động của nhân viên.* 
@@ -11,7 +11,7 @@ field_url: null
 
 *Dưới đây là những gợi ý từ Anphabe.* 
 
-![Tổ chức có mức độ gắn kết càng cao, càng thúc đẩy sự cam kết, sáng tạo, năng suất làm việc và tính chủ động của nhân viên. ](/images/uploads/engagement_content.png "Tổ chức có mức độ gắn kết càng cao, càng thúc đẩy sự cam kết, sáng tạo, năng suất làm việc và tính chủ động của nhân viên. ")
+![Tổ chức có mức độ gắn kết càng cao, càng thúc đẩy sự cam kết, sáng tạo, năng suất làm việc và tính chủ động của nhân viên. ](/images/uploads/employee-engagement-software.jpg "Tổ chức có mức độ gắn kết càng cao, càng thúc đẩy sự cam kết, sáng tạo, năng suất làm việc và tính chủ động của nhân viên. ")
 
 ### **1. Nhóm tập trung (Focus groups)**
 
@@ -25,7 +25,7 @@ Phỏng vấn cá nhân là cách đơn giản để thu thập ý kiến nhân 
 
 Hình thức này có phần thân mật và ít chính thống hơn nhưng giúp xác định được đúng người, đúng vấn đề. Để hiệu quả, công ty cần xác định vấn đề hỏi, đồng thời tạo không gian thoải mái, cởi mở, có thêm vào các câu hỏi mở để nhân viên có thể chủ động đề cập đến những vấn đề còn tồn đọng khác.
 
-![Phỏng vấn cá nhân là cách đơn giản để thu thập ý kiến nhân viên. ](/images/uploads/impact-interview-01.png "Phỏng vấn cá nhân là cách đơn giản để thu thập ý kiến nhân viên. ")
+![Phỏng vấn cá nhân là cách đơn giản để thu thập ý kiến nhân viên. ](/images/uploads/bigstock-job-interview-young-executive-263777536.webp "Phỏng vấn cá nhân là cách đơn giản để thu thập ý kiến nhân viên. ")
 
 ### **3. Khảo sát nhanh (Pulse survey)**
 
@@ -37,13 +37,13 @@ Doanh nghiệp cần xác định rõ chủ đề khảo sát, thời gian thự
 
 **[Workplace from Meta là gì?](https://business.anphabe.com/post/2021-05-21-workplace-from-facebook-l%C3%A0-g%C3%AC/)**
 
-![Tự động hóa việc khảo sát nhanh với tiện ích tích hợp Mood Bot từ nền tảng Workplace from Meta.](/images/uploads/31-1-1024x600.jpg "Tự động hóa việc khảo sát nhanh với tiện ích tích hợp Mood Bot từ nền tảng Workplace from Meta.")
+![Tự động hóa việc khảo sát nhanh với tiện ích tích hợp Mood Bot từ nền tảng Workplace from Meta.](/images/uploads/the-bot-platform-blog-92.jpg "Tự động hóa việc khảo sát nhanh với tiện ích tích hợp Mood Bot từ nền tảng Workplace from Meta.")
 
 ### **4. Phân tích dữ liệu nhân sự (People analytics)**
 
 Phân tích dữ liệu là một cách để theo dõi mức độ gắn kết nhân viên với đa dạng các chỉ số. Công ty có thể ưu tiên các dữ liệu liên quan trực tiếp đến mức độ gắn kết như: Kết quả từ những đợt khảo sát nhân viên, số giờ làm việc hay tần suất vắng mặt. Ví dụ, số nhân viên làm thêm việc trong giờ có thể là cảnh báo sớm về tình trạng nhân viên bị kiệt sức; vắng mặt thường xuyên có thể là dấu hiệu của thiếu gắn kết nhân viên và là dấu hiệu cho thấy tổ chức cần phải cải thiện phúc lợi cho nhân viên. 
 
-![Sử dụng Workplace Insights để đo lường mức độ gắn kết nhân viên.](/images/uploads/workplace-from-facebook-2.png "Sử dụng Workplace Insights để đo lường mức độ gắn kết nhân viên.")
+![Sử dụng Workplace Insights để đo lường mức độ gắn kết nhân viên.](/images/uploads/80648071_166533547895666_2098610308900716544_o.jpg "Sử dụng Workplace Insights để đo lường mức độ gắn kết nhân viên.")
 
 Trong bối cảnh xu hướng làm việc từ xa và làm việc kết hợp lên ngôi như hiện nay, doanh nghiệp càng cần gia tăng gắn kết trong tổ chức và tương tác cởi mở với nhân viên mọi lúc mọi nơi. Do đó, việc tận dụng các nền tảng công nghệ để thúc đẩy văn hóa, tăng cường tính minh bạch và đảm bảo các nhân viên làm việc từ xa cũng như tuyến đầu cảm thấy gắn kết với trụ sở chính là vô cùng cần thiết. Workplace from Meta, nền tảng truyền thông và hợp tác nội bộ, với các tính năng quen thuộc, dễ dàng cho mọi thiết bị sẽ là lựa chọn tối ưu giúp gia tăng gắn kết, thúc đẩy sáng tạo và nâng cao hiệu suất làm việc dành riêng cho doanh nghiệp.  
 
