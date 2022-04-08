@@ -1,5 +1,5 @@
 ---
-title: "Đau đầu chuyện ngân sách tuyển dụng hậu Covid-19    "
+title: "Đau đầu chuyện ngân sách tuyển dụng hậu COVID-19  "
 draft: false
 date: 2022-04-08
 image: /images/uploads/calculating-budget.jpg
