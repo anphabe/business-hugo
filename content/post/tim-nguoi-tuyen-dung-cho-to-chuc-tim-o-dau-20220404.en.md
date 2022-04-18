@@ -6,6 +6,8 @@ image: /images/uploads/people-and-talent-management.jpg
 ---
 *Muốn tuyển dụng hiệu quả và dài lâu, công ty cần xây đội ngũ talent acquisition (thu hút nhân tài) chất lượng. Tuy nhiên, tuyển người tài đã khó, tuyển người để đi thu hút được người tài lại càng khó hơn, bài viết dưới đây sẽ gợi ý 3 cách tìm kiếm và xây dựng đội ngũ tuyển dụng phù hợp cho tổ chức của bạn.*  
 
+![Tìm người tuyển dụng cho tổ chức, tìm ở đâu? ](/images/uploads/people-and-talent-management.jpg "Tìm người tuyển dụng cho tổ chức, tìm ở đâu? ")
+
 ### **1. Tận dụng mạng lưới xã hội**
 
 Người tuyển dụng thành công là người biết xây dựng và tận dụng mạng lưới quan hệ của mình. Họ luôn có những chiến lược để duy trì liên hệ với đồng nghiệp, nhân viên, bạn bè, người thân,… để có thêm những gợi ý ứng viên chất lượng.    
