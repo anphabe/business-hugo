@@ -9,7 +9,9 @@ field_url: null
 
 *Bài viết dưới đây sẽ gợi ý 3 cách giúp nhà tuyển dụng đơn giản hóa quy trình, tiết kiệm thời gian và xây nguồn ứng viên chất lượng cho tổ chức với LinkedIn.* 
 
-### **1. Tìm các ứng viên tương tự với LinkedIn Recruiter**  
+![3 cách giúp nhà tuyển dụng đơn giản hóa quy trình, tiết kiệm thời gian và xây nguồn ứng viên chất lượng cho tổ chức với LinkedIn.](/images/uploads/shutterstock_408452584-768x610.jpg "3 cách giúp nhà tuyển dụng đơn giản hóa quy trình, tiết kiệm thời gian và xây nguồn ứng viên chất lượng cho tổ chức với LinkedIn.")
+
+### **1. Tìm các ứng viên tương tự với LinkedIn Recruiter**
 
 **LinkedIn Recruiter** là giải pháp tuyển dụng đến từ **LinkedIn** cho phép người dùng tìm kiếm, quản lý và kết nối với ứng viên tiềm năng và quản trị hồ sơ ứng viên hiệu quả. 
 
@@ -19,7 +21,7 @@ Nhờ **Similar Profiles**, nhà tuyển dụng còn tránh được việc bỏ
 
 ![Nhờ Similar Profiles, nhà tuyển dụng tránh được việc bỏ lỡ ứng viên có các kỹ năng tương tự trong hồ sơ.](/images/uploads/pasted-image-0-1-.png "Nhờ Similar Profiles, nhà tuyển dụng tránh được việc bỏ lỡ ứng viên có các kỹ năng tương tự trong hồ sơ.")
 
-### **2. Tạo ấn tượng ngay từ tin nhắn đầu tiên trên InMail** 
+### **2. Tạo ấn tượng ngay từ tin nhắn đầu tiên trên InMail**
 
 **InMail** là tính năng trả phí (premium) cho phép nhà tuyển dụng dễ dàng gửi tin nhắn đến ứng viên tiềm năng trên **LinkedIn**, ngay cả khi không có thông tin liên hệ của họ.  
 
