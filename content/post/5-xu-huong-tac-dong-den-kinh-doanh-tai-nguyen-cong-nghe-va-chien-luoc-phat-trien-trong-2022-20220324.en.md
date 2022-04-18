@@ -3,11 +3,13 @@ title: 5 xu hướng tác động đến kinh doanh, tài nguyên công nghệ v
   phát triển trong 2022
 draft: false
 date: 2022-03-24
-image: /images/uploads/data-driven-economy-trends.jpg
+image: /images/uploads/financial_services_recruitment.jpg
 ---
-2021 là năm đầy thách thức, buộc các doanh nghiệp phảI thích nghi với nhiều thay đổi. Năm 2022 chắc chắn sẽ có nhiều biến động, nhưng chúng ta có thể học được kinh nghiệm trước đây và dự đoán những thay đổi sắp tới. 
+*2021 là năm đầy thách thức, buộc các doanh nghiệp phảI thích nghi với nhiều thay đổi. Năm 2022 chắc chắn sẽ có nhiều biến động, nhưng chúng ta có thể học được kinh nghiệm trước đây và dự đoán những thay đổi sắp tới.* 
 
-Bài viết dưới đây sẽ phân tích năm xu hướng trọng yếu và những gợi ý để doanh nghiệp thích nghi với thay đổi. 
+*Bài viết dưới đây sẽ phân tích năm xu hướng trọng yếu và những gợi ý để doanh nghiệp thích nghi với thay đổi.* 
+
+![](/images/uploads/financial_services_recruitment.jpg)
 
 **Xu hướng: Quy tắc mới**  
 
@@ -17,7 +19,7 @@ Bài viết dưới đây sẽ phân tích năm xu hướng trọng yếu và nh
 
 Đây là lúc để các doanh nghiệp đánh giá tài nguyên công nghệ của mình theo quy định mới cũng như đang hiện hành về bảo vệ dữ liệu người dùng. Hãy hợp tác với các công ty có tiêu chuẩn hàng đầu về bảo mật dữ liệu người dùng, điều này sẽ giúp bạn không gặp khó khăn khi các quy định mới xuất hiện và tác động đến các giải pháp hiện có. 
 
-**Xu hướng: Cuộc cải tổ vĩ đại** 
+**Xu hướng: Sự xáo động văn hóa và tổ chức trên quy mô lớn**
 
 **Dự đoán: Tình trạng thôi việc tiếp diễn; Quan hệ "đa luồng" để thành công.** 
 
@@ -29,7 +31,7 @@ Cách tốt nhất để thích nghi là xây dựng mối quan hệ với nhi�
 
 **Dự đoán: Đối mặt với tỷ lệ thôi việc đáng kể, lãnh đạo bộ phận kinh doanh cần xem lại chiến lược giữ nhân viên.** 
 
-Cuộc cải tổ nhân sự hậu giãn cách không chỉ tác động đến khách hàng mà còn đến các doanh nghiệp cung cấp sản phẩm/dịch vụ, với tỷ lệ nhảy việc được ghi nhận trên LinkedIn tăng 39% so với cùng kỳ năm ngoái. Như vậy, các lãnh đạo bộ phận kinh doanh cần phải ưu tiên việc giữ chân nhân tài. 
+Sự xáo động văn hóa và tổ chức hậu giãn cách không chỉ tác động đến khách hàng mà còn đến các doanh nghiệp cung cấp sản phẩm/dịch vụ, với tỷ lệ nhảy việc được ghi nhận trên LinkedIn tăng 39% so với cùng kỳ năm ngoái. Như vậy, các lãnh đạo bộ phận kinh doanh cần phải ưu tiên việc giữ chân nhân tài. 
 
 Trong năm tới, các lãnh đạo phải chủ động gắn kết, hỗ trợ và thử thách nhân viên theo hướng tích cực. Điều này đòi hỏi lãnh đạo cần có chiến lược đào tạo và phát triển mới, cũng như linh động hơn về cơ hội phát triển nghề nghiệp của nhân viên, đồng thời học hỏi kinh nghiệm từ những lần nghỉ việc của nhân viên trước đây. Nếu không, họ sẽ phải tiếp tục đối mặt với tỉ lệ thôi việc đáng kể. 
 
