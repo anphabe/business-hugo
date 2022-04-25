@@ -12,7 +12,7 @@ image: /images/uploads/adobestock_324448030-scaled.jpeg
 
 ![3 thủ thuật đơn giản dành riêng cho nhà tuyển dụng để có buổi phỏng vấn hiệu quả và thú vị hơn với LinkedIn Recruiter.](/images/uploads/adobestock_324448030-scaled.jpeg "3 thủ thuật đơn giản dành riêng cho nhà tuyển dụng để có buổi phỏng vấn hiệu quả và thú vị hơn với LinkedIn Recruiter.")
 
-### **1. Tận dụng tính năng Scheduler (tự động lên lịch) vào InMail** 
+### **1. Tận dụng tính năng Scheduler (tự động lên lịch) vào InMail**
 
 Sắp xếp lịch phỏng vấn là trải nghiệm đầu tiên của ứng viên với nhà tuyển dụng. Để rút ngắn thời gian và thể hiện sự chuyên nghiệp với ứng viên, Scheduler sẽ giúp nhà tuyển dụng tự động hóa quá trình lên lịch cho buổi phỏng vấn.  
 
@@ -25,11 +25,11 @@ Là công cụ đến từ LinkedIn Recruiter, Scheduler cho phép ứng viên c
 
 ![ Scheduler cho phép ứng viên chủ động chọn giờ phỏng vấn ngay trong lịch của nhà tuyển dụng.](/images/uploads/google-calendar-tips.jpg " Scheduler cho phép ứng viên chủ động chọn giờ phỏng vấn ngay trong lịch của nhà tuyển dụng.")
 
-### **2. Soạn câu hỏi phỏng vấn cho từng vị trí bằng LinkedIn Interview Question Generator** 
+### **2. Soạn câu hỏi phỏng vấn cho từng vị trí bằng LinkedIn Interview Question Generator**
 
 Một buổi phỏng vấn hiệu quả luôn bắt nguồn từ sự chuẩn bị kỹ lưỡng. Với mỗi vị trí, nhà tuyển dụng luôn phải tìm hiểu kỹ về yêu cầu công việc và dựa vào đó để lên danh sách câu hỏi phỏng vấn. Tuy bạn vẫn có thể “tái sử dụng” một số câu hỏi cho nhiều đợt tuyển, việc soạn câu hỏi riêng biệt cho từng nhóm ứng viên sẽ đảm bảo doanh nghiệp tuyển được đúng người, đúng việc. 
 
-Với Interview Question Generator của LinkedIn (link?), nhà tuyển dụng có thể tạo câu hỏi phỏng vấn cho từng vị trí chỉ trong vài bước: 
+Với Interview Question Generator của LinkedIn, nhà tuyển dụng có thể tạo câu hỏi phỏng vấn cho từng vị trí chỉ trong vài bước: 
 
 * Đưa ra các kỹ năng mà doanh nghiệp cần tìm  
 * Chọn ra các câu hỏi liên quan nhất đến vị trí tuyển dụng 
@@ -43,7 +43,7 @@ Tổng hợp đánh giá ứng viên hậu phỏng vấn cũng là một đầu 
 
 Với LinkedIn Recruiter, bạn có thể tự động hóa việc lên lịch họp đánh giá ứng viên qua InMail của bộ phận nhân sự và đặt thông báo Reminders nhắc nhở bạn phản hồi ứng viên nhanh chóng. 
 
-![Với LinkedIn Recruiter, bạn có thể tự động hóa việc lên lịch họp đánh giá ứng viên qua Inmail, cũng như đặt thông báo Reminders nhắc nhở bạn phản hồi ứng viên nhanh chóng.](/images/uploads/working-in-a-home-office-623444900-5acec02ffa6bcc0036396c82.jpg "Với LinkedIn Recruiter, bạn có thể tự động hóa việc lên lịch họp đánh giá ứng viên qua Inmail, cũng như đặt thông báo Reminders nhắc nhở bạn phản hồi ứng viên nhanh chóng.")
+![Với LinkedIn Recruiter, bạn có thể tự động hóa việc lên lịch họp đánh giá ứng viên qua Inmail, cũng như đặt thông báo Reminders nhắc nhở bạn phản hồi ứng viên nhanh chóng.](/images/uploads/reviewing-applicants.jpeg "Với LinkedIn Recruiter, bạn có thể tự động hóa việc lên lịch họp đánh giá ứng viên qua Inmail, cũng như đặt thông báo Reminders nhắc nhở bạn phản hồi ứng viên nhanh chóng.")
 
 Để có một buổi phỏng vấn hiệu quả, bạn cũng cần có những ứng viên chất lượng.  
 
