@@ -9,7 +9,7 @@ field_url: null
 
 ![4 bước tuyển dụng nhân tài công nghệ hiệu quả với LinkedIn Recruiter.](/images/uploads/1200px-junction_2015.jpg "4 bước tuyển dụng nhân tài công nghệ hiệu quả với LinkedIn Recruiter.")
 
-### **Bước 1: Hiểu thị trường, chọn đúng công cụ**  
+### **Bước 1: Hiểu thị trường, chọn đúng công cụ**
 
 Trong kỷ nguyên số hóa, dữ liệu chính là sức mạnh của doanh nghiệp. Ngoài việc đưa ra bức tranh tổng thể về thị trường nhân tài công nghệ, dữ liệu còn tăng khả năng cạnh tranh và đưa ra quyết định phù hợp với tổ chức. 
 
@@ -22,7 +22,7 @@ Với tích hợp **Talent Insights** của **LinkedIn Recruiter**, nhà tuyển
 
 ![Với tích hợp Talent Insights của LinkedIn Recruiter, nhà tuyển dụng có thể dễ dàng có thông tin chi tiết về nguồn cung nhân tài trên thị trường.](/images/uploads/linkedin-talent-insights.jpg "Với tích hợp Talent Insights của LinkedIn Recruiter, nhà tuyển dụng có thể dễ dàng có thông tin chi tiết về nguồn cung nhân tài trên thị trường.")
 
-### **Bước 2: Thu hút đúng người, đúng chỗ** 
+### **Bước 2: Thu hút đúng người, đúng chỗ**
 
 Tìm được đúng người, đúng việc là yếu tố cốt lõi trong mọi chiến lược nhân sự, nhất là khi tình trạng thiếu hụt nhân tài công nghệ hiện nay xuất phát từ sự chênh lệch giữa trình độ ứng viên và yêu cầu của nhà tuyển dụng. 
 
@@ -32,11 +32,11 @@ Tìm được đúng người, đúng việc là yếu tố cốt lõi trong m�
 
 * Các mẫu template mô tả công việc hấp dẫn 
 * Đẩy tin tuyển dụng của công ty đến các ứng viên đang tìm việc bằng công nghệ AI. **LinkedIn** sẽ xác định đối tượng mục tiêu dựa trên các đặc điểm về chức vụ, vị trí địa lý, kinh nghiệm, kỹ năng,... của thành viên phù hợp với mô tả công việc của bạn. 
-* Quảng cáo tin tuyển dụng dưới dạng “Jobs recommended for You”, “Jobs You might be interested in” trên Homepage, Profile Page, Career Page của doanh nghiệp, trang và ứng dụng Job Search hoặc thông qua email / notifications. 
+* Quảng cáo tin tuyển dụng dưới dạng **“Jobs recommended for You”**, **“Jobs You might be interested in”** trên **Homepage**, **Profile Page**, **Career Page** của doanh nghiệp, trang và ứng dụng **Job Search** hoặc thông qua **email** / **notification**. 
 
 ![Với Job Slots, tin tuyển dụng của bạn được mở rộng phạm vi tiếp cận nhưng vẫn hướng đến được đúng người.](/images/uploads/37ae9e72-media-platform-linkedin-slide1.jpg "Với Job Slots, tin tuyển dụng của bạn được mở rộng phạm vi tiếp cận nhưng vẫn hướng đến được đúng người.")
 
-### **Bước 3: Tạo ấn tượng ngay từ lần gặp đầu tiên**  
+### **Bước 3: Tạo ấn tượng ngay từ lần gặp đầu tiên**
 
 Nhân tài công nghệ chất lượng cao là đối tượng săn đón của tất cả các công ty, tập đoàn lớn trên toàn thế giới. Vì vậy, để doanh nghiệp của bạn nổi bật hơn trong mắt ứng viên, việc đầu tư vào nội dung thông điệp gửi đi là rất quan trọng. 
 
@@ -49,7 +49,7 @@ Một số tips khi gửi tin nhắn tiếp cận ứng viên:
 
 ![Gửi tin nhắn đến ứng viên tiềm năng trên LinkedIn với tính năng InMail, ngay cả khi không có thông tin liên hệ của họ.](/images/uploads/avoid-these-common-business-email-pitfalls-e1524673465109.jpg "Gửi tin nhắn đến ứng viên tiềm năng trên LinkedIn với tính năng InMail, ngay cả khi không có thông tin liên hệ của họ.")
 
-### **Bước 4: Phỏng vấn kiểu mới, không lo chới với** 
+### **Bước 4: Phỏng vấn kiểu mới, không lo chới với**
 
 Phỏng vấn là giai đoạn đóng vai trò quyết định trong việc đánh giá mức độ phù hợp của ứng viên với yêu cầu công việc. Vậy, nhà tuyển dụng cần biết gì, hỏi gì để đánh giá chính xác năng lực ứng viên?  
 
