@@ -2,7 +2,7 @@
 title: "5 cách tốt nhất để quản lý đội ngũ từ xa "
 draft: false
 date: 2022-04-18
-image: /images/uploads/employee_engagement.jpeg
+image: /images/uploads/ezgif.com-gif-maker-4-.jpg
 field_url: null
 ---
 *Là người quản lý, bạn cần có sự cân bằng phù hợp giữa việc hiện diện trước nhân viên và không giám sát họ quá mức. Dưới đây là 5 gợi ý để để quản lý nhân viên từ xa, nhằm xây dựng lực lượng lao động hạnh phúc và năng suất cao. Tham khảo ngay!*  
