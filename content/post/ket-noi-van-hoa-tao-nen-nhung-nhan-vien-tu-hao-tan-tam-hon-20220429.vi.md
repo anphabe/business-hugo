@@ -2,16 +2,16 @@
 title: Kết nối văn hóa tạo nên những nhân viên tự hào, tận tâm hơn
 draft: false
 date: 2022-04-29
-image: /images/uploads/dsc09265-1509014709567.webp
+image: /images/uploads/237119235_4901767183173262_4645759227063600846_n.jpeg
 field_url: null
 ---
-*Trước ngày kỷ niệm 3 năm thành lập, **Miniso Mexico** (công ty có trụ sở tại Nhật Bản sau đó mở rộng sang Mexico) bắt tay vào hoạt động sắp xếp cơ cấu chính thức của tổ chức. Quá trình này bao gồm việc tìm kiếm một nền tảng truyền thông cho công ty để giao tiếp với nhân viên. Sau nhiều nghiên cứu thực tế, so sánh, đánh giá dịch vụ, đo lường số người tiếp cận và tác động của các nền tảng, **Miniso Mexico** quyết định chọn **Workplace from Meta** trở thành công cụ kết nối văn hóa, con người và tổ chức. Điều này đã tạo nên một “cuộc cách mạng trong truyền thông nội bộ và gắn kết” tổ chức tại **Miniso Mexico.***  
+\*Trước ngày kỷ niệm 3 năm thành lập, **Miniso Mexico** (công ty có trụ sở tại Nhật Bản sau đó mở rộng sang Mexico) bắt tay vào hoạt động sắp xếp cơ cấu chính thức của tổ chức. Quá trình này bao gồm việc tìm kiếm một nền tảng truyền thông cho công ty để giao tiếp với nhân viên. Sau nhiều nghiên cứu thực tế, so sánh, đánh giá dịch vụ, đo lường số người tiếp cận và tác động của các nền tảng, **Miniso Mexico** quyết định chọn **Workplace from Meta** trở thành công cụ kết nối văn hóa, con người và tổ chức. Điều này đã tạo nên một “cuộc cách mạng trong truyền thông nội bộ và gắn kết” tổ chức tại **Miniso Mexico.***  
 
-![Miniso Mexico quyết định chọn Workplace from Meta trở thành công cụ kết nối văn hóa, con người và tổ chức.](/images/uploads/237119235_4901767183173262_4645759227063600846_n.jpeg "Miniso Mexico quyết định chọn Workplace from Meta trở thành công cụ kết nối văn hóa, con người và tổ chức.")
+![Miniso Mexico quyết định chọn Workplace from Meta trở thành công cụ kết nối văn hóa, con người và tổ chức.](/images/uploads/dsc09265-1509014709567.jpg "Miniso Mexico quyết định chọn Workplace from Meta trở thành công cụ kết nối văn hóa, con người và tổ chức.")
 
 Chỉ trong tháng đầu tiên triển khai **Workplace from Meta**, công ty đã nhanh chóng thiết lập 1.400 tài khoản cho nhân viên. Trong đó, có 1.300 người dùng hoạt động hàng tháng, 980 người dùng hoạt động hàng tuần và 553 người dùng hoạt động hàng ngày với hơn 99% nhân viên truy cập **Workplace** qua điện thoại di động.  
 
-### **Tổ chức được kết nối rộng khắp** 
+### **Tổ chức được kết nối rộng khắp**
 
 Nhờ **Workplace from Meta**, Miniso Mexico dễ dàng truyền đạt các chính sách về chi phí đi lại và sử dụng nguồn lực, giải thích về kiểm toán, thông tin về văn hóa phòng ngừa và chú ý, cũng như mọi thứ khác đến mọi nhân viên. Tất cả đều được thực hiện theo cách thú vị, dễ dàng và tiết kiệm.  
 
