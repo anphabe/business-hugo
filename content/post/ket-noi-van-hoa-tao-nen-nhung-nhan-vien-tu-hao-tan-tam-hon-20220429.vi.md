@@ -37,7 +37,7 @@ Công ty sử dụng **Workplace** để triển khai các buổi đào tạo, c
 
 > "Một sự ngạc nhiên tuyệt vời!! **Workplace** tạo ra với sự kết nối nhanh chóng tất cả các **Miniser** (nhân viên **Miniso**), nhờ đó mang lại cho công ty lợi thế trong chiến lược kinh doanh và hoạt động xây dựng tổ chức cho tương lai. Nhân viên hiểu rõ hơn về công ty và gắn bó lâu dài để phát triển sự nghiệp. 
 >
-> ![Workplace tạo ra với sự kết nối nhanh chóng tất cả các Miniser (nhân viên Miniso)](/images/uploads/anyconv.com__208333726_1155831858252674_8077114796328784440_n.jpeg "Workplace tạo ra với sự kết nối nhanh chóng tất cả các Miniser (nhân viên Miniso)")
+> ![Workplace tạo ra với sự kết nối nhanh chóng tất cả các Miniser (nhân viên Miniso)]( "Workplace tạo ra với sự kết nối nhanh chóng tất cả các Miniser (nhân viên Miniso)")
 >
 > **Ông Edmundo Vallejo** 
 >
