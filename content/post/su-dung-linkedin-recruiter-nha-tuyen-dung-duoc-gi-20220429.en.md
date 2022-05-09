@@ -30,7 +30,7 @@ Việc chia sẻ hồ sơ ứng viên và nhận phản hồi từ quản lý tu
 
 ![Việc chia sẻ hồ sơ ứng viên và nhận phản hồi từ quản lý tuyển dụng chưa bao giờ dễ dàng hơn với LinkedIn Recruiter.](/images/uploads/be-efficient-mod-3-2x.jpg "Việc chia sẻ hồ sơ ứng viên và nhận phản hồi từ quản lý tuyển dụng chưa bao giờ dễ dàng hơn với LinkedIn Recruiter.")
 
-## Làm thế nào để tuyển dụng hiệu quả với LinkedIn Recruiter?
+# Làm thế nào để tuyển dụng hiệu quả với LinkedIn Recruiter?
 
 ### Tối ưu hóa việc tìm kiếm
 
