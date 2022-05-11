@@ -19,7 +19,7 @@ Một ví dụ điển hình:  Khi các cửa hàng mới thường xuyên xảy
 
 ![Nhờ Workplace from Meta, Miniso Mexico dễ dàng truyền đạt các chính sách và thông báo.](/images/uploads/242589635_376732507370899_3855824444140039502_n.jpeg "Nhờ Workplace from Meta, Miniso Mexico dễ dàng truyền đạt các chính sách và thông báo.")
 
-**Truyền thông chiến lược thống nhất, theo cách thú vị hơn**  
+### **Truyền thông chiến lược thống nhất, theo cách thú vị hơn**  
 
 **Workplace from Meta** mang đến cách xử lý các vấn đề kinh doanh theo cách vui nhộn hơn. Phần đối thoại với công ty trên **Workplace** diễn ra thông qua Người quản lý cộng đồng - Mr. Miniso. Nền tảng này được cá nhân hóa và rất sống động.  
 
@@ -27,7 +27,7 @@ Nhân viên đăng nhập rồi nói chuyện với Mr. Miniso, người luôn c
 
 ![Workplace from Meta mang đến cách xử lý các vấn đề kinh doanh theo cách vui nhộn hơn.](/images/uploads/242656996_348278603712237_7670529527487187416_n_1.jpeg "Workplace from Meta mang đến cách xử lý các vấn đề kinh doanh theo cách vui nhộn hơn.")
 
-**Đào tạo và học tập hiệu quả nhờ quy trình thống nhất toàn diện** 
+### **Đào tạo và học tập hiệu quả nhờ quy trình thống nhất toàn diện** 
 
 Tất cả các chi nhánh **Miniso** hoạt động theo cùng một cách trên toàn thế giới và **Workplace from Meta** góp phần củng cố chính sách này.  
 
@@ -37,11 +37,11 @@ Công ty sử dụng **Workplace** để triển khai các buổi đào tạo, c
 
 > "Một sự ngạc nhiên tuyệt vời!! **Workplace** tạo ra với sự kết nối nhanh chóng tất cả các **Miniser** (nhân viên **Miniso**), nhờ đó mang lại cho công ty lợi thế trong chiến lược kinh doanh và hoạt động xây dựng tổ chức cho tương lai. Nhân viên hiểu rõ hơn về công ty và gắn bó lâu dài để phát triển sự nghiệp. 
 >
-> ![Workplace tạo ra với sự kết nối nhanh chóng tất cả các Miniser (nhân viên Miniso)]( "Workplace tạo ra với sự kết nối nhanh chóng tất cả các Miniser (nhân viên Miniso)")
->
 > **Ông Edmundo Vallejo** 
 >
 > **Thành viên Hội đồng quản trị Miniso kiêm cựu Tổng Giám đốc của GE khu vực Mỹ Latinh** 
+
+
 
 Workplace from Meta, nền tảng truyền thông và hợp tác nội bộ, với các tính năng quen thuộc, dễ dàng cho mọi thiết bị sẽ là lựa chọn tối ưu giúp gia tăng gắn kết, thúc đẩy sáng tạo và nâng cao hiệu suất làm việc dành riêng cho doanh nghiệp. 
 
