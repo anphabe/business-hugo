@@ -32,6 +32,8 @@ Việc chia sẻ hồ sơ ứng viên và nhận phản hồi từ quản lý tu
 
 ### **Làm thế nào để tuyển dụng hiệu quả với LinkedIn Recruiter?**
 
+
+
 ### **Tối ưu hóa việc tìm kiếm**
 
 Đầu tiên, bạn có thể bắt đầu tìm kiếm ứng viên giữa bể nhân tài tại **LinkedIn** bằng cách sử dụng từ khóa, Boolean search và hơn 20 bộ lọc tìm kiếm nâng cao do **LinkedIn Recruiter** cung cấp. 
