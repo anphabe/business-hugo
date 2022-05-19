@@ -6,6 +6,7 @@ theme = "business"
 
 defaultContentLanguage = "vi"
 paginate = 12
+disableKinds = ['taxonomy', 'term']
 
 [languages]
   [languages.vi]
@@ -40,3 +41,10 @@ paginate = 12
     [[related.indices]]
         name = "date"
         weight = 10
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+
+

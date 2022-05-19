@@ -27,6 +27,9 @@
     }
 
 </style>
+{{ if $.Params.field_url }} 
+<meta http-equiv="refresh" content="0;URL='{{ $.Params.field_url }}'" />    
+{{ end }}
 </head>
 <body>
 {{ partial "gtm.html" . }}
