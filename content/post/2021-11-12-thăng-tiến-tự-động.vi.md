@@ -3,6 +3,7 @@ title: Thăng tiến tự động
 draft: false
 date: 2021-11-01
 image: /images/uploads/245926012_6620621097962925_7922597107475822428_n.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/thang-tien-tu-dong/40522/answer
 ---
 *Trong thời buổi đầy biến động, các giải pháp công nghệ luôn được nghĩ đến khi giải quyết những bài toán vĩ mô. Thế Giới Di Động làm thế nào để vận dụng công nghệ vào công tác lãnh đạo, quản lý con người nhằm đảm bảo tính công bằng, khách quan mà vẫn giữ vững niềm tin và trái tim người nhân viên? Chia sẻ tại **[Hội nghị trực tuyến Vietnam Excellence 2021](https://www.youtube.com/watch?v=H2SL_92MGGw)**, ông Nguyễn Đức Tài - Chủ Tịch HĐQT của Công Ty Cổ Phần Đầu Tư Thế Giới Di Động hé lộ về chính sách “Thăng tiến tự động” được áp dụng thành công tại doanh nghiệp này.*
 
