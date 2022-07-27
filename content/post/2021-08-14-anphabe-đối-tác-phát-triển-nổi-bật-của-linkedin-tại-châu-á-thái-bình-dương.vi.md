@@ -3,6 +3,7 @@ title: Anphabe - Đối tác phát triển nổi bật của LinkedIn tại châ
 draft: false
 date: 2021-08-14
 image: /images/uploads/linkedin-award.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/anphabe-doi-tac-phat-trien-noi-bat-linkedin-chau-thai-binh-duong/36800/answer
 ---
 Tại hội nghị Đối tác 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 Khu vực châu Á - Thái Bình Dương diễn ra ngày 11/8/2021 vừa qua, Anphabe chính thức được ghi nhận là đối tác phát triển nhanh nhất và đóng góp nổi bật vào sự tăng trưởng mạnh mẽ của LinkedIn trong khu vực. Kết quả của Anphabe vượt qua nhiều đối tác lâu năm khác của LinkedIn từ nhiều quốc gia như Úc, Indonesia, Malaysia, Thái Lan và Nhật Bản.
 
