@@ -4,6 +4,7 @@ title: "Xây văn hóa, giữ nhân tài - Cách NashTech giải bài toán nhâ
 draft: false
 date: 2021-11-09
 image: /images/uploads/nashtech.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/nashtech-ngoi-nha-ly-tuong-nhung-nhan-cong-nghe/38047/answer
 ---
 ![](/images/uploads/nashtech-copy.jpg)
 
