@@ -3,6 +3,7 @@ title: "Nhân viên bỏ sếp: Vì đâu nên nỗi?"
 draft: false
 date: 2021-10-10
 image: /images/uploads/nghi-viec.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/nhan-vien-bo-sep-vi-dau-nen-noi/40519/answer
 ---
 *Tìm được nhân viên giỏi và phù hợp đã khó, giữ chân họ gắn bó lâu dài với công ty càng khó hơn. Bài viết dưới đây tổng hợp những sai lầm trong lãnh đạo & quản lý khiến nhân viên dần “mất lửa” với công việc và dứt áo ra đi, HR và nhà lãnh đạo cần quan tâm lưu ý.* 
 
