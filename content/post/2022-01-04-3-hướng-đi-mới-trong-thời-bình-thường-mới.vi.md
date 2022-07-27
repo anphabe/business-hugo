@@ -3,6 +3,7 @@ title: 3 hướng đi mới trong thời bình thường mới
 draft: false
 date: 2022-01-04
 image: /images/uploads/267784282_6902138076477891_5763304410916744801_n.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/3-huong-di-moi-trong-thoi-binh-thuong-moi/40527/answer
 ---
 Làm việc kết hợp (Hybrid work), làm việc tự do, làn sóng nghỉ việc ồ ạt và sự trỗi dậy của nhóm “siêu nhảy việc” đang tạo ra những xáo trộn chưa có tiền lệ trên thị trường lao động. Doanh nghiệp và người quản lý Nhân sự cần làm gì để giảm thiểu đứt gãy trong hoạt động, giúp công ty đón đầu cơ hội phát triển trong tương lai?
 Buổi tọa đàm Nhân sự trong khuôn khổ Hội nghị trực tuyến Nơi làm việc tốt nhất Việt Nam 2021 do Anphabe tổ chức tháng 12/2021 đã gợi mở những giải pháp thiết thực từ kinh nghiệm của Bosch Việt Nam, Saint-Gobain Việt Nam, công ty TNHH Thực phẩm PepsiCo Việt Nam và FE Credit.
