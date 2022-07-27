@@ -3,6 +3,7 @@ title: 4 chữ T tạo nên sự khác biệt về an sinh tại Nestlé Việt 
 draft: false
 date: 2021-11-03
 image: /images/uploads/cover-3.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/bon-chu-t-tao-nen-su-khac-biet-ve-sinh-nestle-viet-nam/37892/answer
 ---
 TP.HCM, vài ngày trước khi chính thức giãn cách toàn diện theo chỉ thị 16, đường phố bỗng đông đúc trở lại. Người dân tranh thủ mua hàng hóa dự trữ trước “giờ G”. Tại các siêu thị, cuộc đua cung ứng sản phẩm thiết yếu “nóng” lên từng giờ.
 
