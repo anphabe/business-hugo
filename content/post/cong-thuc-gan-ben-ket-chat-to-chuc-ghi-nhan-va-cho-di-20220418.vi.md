@@ -3,7 +3,7 @@ title: "Công thức gắn bền kết chặt tổ chức: “Ghi nhận” và 
 draft: false
 date: 2022-04-18
 image: /images/uploads/corporate-awards-blog-1080x675.jpg
-field_url: null
+field_url: https://www.anphabe.com/discussions/questions-answers/q/cong-thuc-gan-ben-ket-chat-chuc-ghi-nhan-cho-di/40546/answer
 ---
 *Khi tỷ lệ nghỉ việc ở mức cao đang là vấn đề nan giải đối với các tổ chức, sự ghi nhận vẫn là yếu tố quan trọng để giữ chân và truyền cảm hứng cho nhân viên. Nhưng “ghi nhận” thế nào để kích thích tình thần sẵn sàng “cho đi” và cống hiện hết mình cùng tổ chức của nhân viên?*  
 
