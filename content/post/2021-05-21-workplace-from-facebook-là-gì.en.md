@@ -3,6 +3,7 @@ title: Workplace from Meta là gì?
 draft: false
 date: 2021-05-13
 image: /images/uploads/252966967_372231547921901_5989659521823879140_n.png
+field_url: https://www.anphabe.com/discussions/questions-answers/q/workplace-facebook-la-gi/33819/answer
 ---
 **Bài này tóm lược các lợi ích thực tiễn nhất từ Workplace, giải đáp những thắc mắc thường trực của người lãnh đạo, quản lý doanh nghiệp…**
 
