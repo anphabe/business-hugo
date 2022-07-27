@@ -3,6 +3,7 @@ title: "Tìm người tuyển dụng cho tổ chức, tìm ở đâu? "
 draft: false
 date: 2022-04-04
 image: /images/uploads/people-and-talent-management.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/tim-nguoi-tuyen-dung-cho-chuc-tim-o-dau/40535/answer
 ---
 *Muốn tuyển dụng hiệu quả và dài lâu, công ty cần xây đội ngũ talent acquisition (thu hút nhân tài) chất lượng. Tuy nhiên, tuyển người tài đã khó, tuyển người để đi thu hút được người tài lại càng khó hơn, bài viết dưới đây sẽ gợi ý 3 cách tìm kiếm và xây dựng đội ngũ tuyển dụng phù hợp cho tổ chức của bạn.*  
 
