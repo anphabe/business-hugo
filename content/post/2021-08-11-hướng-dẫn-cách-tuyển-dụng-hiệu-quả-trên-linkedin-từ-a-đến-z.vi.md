@@ -3,6 +3,7 @@ title: Hướng dẫn cách tuyển dụng hiệu quả trên LinkedIn từ A đ
 draft: false
 date: 2021-08-11
 image: /images/uploads/tuyen-dung-hieu-qua.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/huong-dan-cach-tuyen-dung-hieu-qua-tren-linkedin-tu-den-z-phan-1/31799/answer
 ---
 LinkedIn hiện đang cung cấp song song 2 gói tuyển dụng: miễn phí và có trả phí. Tùy vào nhu cầu của doanh nghiệp, HR có thể cân nhắc lựa chọn phù hợp để có thể chủ động giành lợi thế trên thị trường lao động cạnh tranh khốc liệt.
 
