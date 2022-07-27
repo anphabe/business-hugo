@@ -3,7 +3,7 @@ title: "3 tính năng hữu ích của LinkedIn Recruiter trong phỏng vấn "
 draft: false
 date: 2022-04-18
 image: /images/uploads/adobestock_324448030-scaled.jpeg
-field_url: null
+field_url: https://www.anphabe.com/discussions/questions-answers/q/3-tinh-nang-huu-ich-linkedin-recruiter-trong-phong-van/40506/answer
 ---
 *Việc tuyển dụng vốn đã tiêu tốn khá nhiều thời gian của doanh nghiệp: từ việc lập kế hoạch, thu hút ứng viên, đến sàng lọc hồ sơ, sắp xếp phỏng vấn và đánh giá ứng viên. Trong đó, phỏng vấn là giai đoạn đóng vai trò quyết định, không chỉ giúp nhà tuyển dụng đánh giá mức độ phù hợp của ứng viên đối với yêu cầu công việc, mà còn là cơ hội để đôi bên tìm hiểu nhau và đưa ra quyết định hợp tác.*  
 
