@@ -3,7 +3,7 @@ title: Top 100 Vietnam Best Places To Work 2021
 draft: false
 date: 2022-01-07
 image: /images/uploads/vietnam_100_best_places_to_work_2021.jpg
-field_url: null
+field_url: https://www.anphabe.com/discussions/questions-answers/q/bang-xep-hang-100-noi-lam-viec-tot-nhat-viet-nam-2021/38173/answer
 ---
 **Anphabe**, the pioneer consulting firm providing Employer Brand and Happy Workforce solutions officially announced the ranking results of **Top** **100 Vietnam Best Places to Work 2021**. The survey was conducted by Anphabe under the sponsorship of Vietnam Chamber of Commerce and Industry (VCCI), with Unilever Vietnam and Vinamilk as supporting partners. The methodology & ranking results were audited by Intage Vietnam, a market research company.
 

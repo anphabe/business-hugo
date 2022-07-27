@@ -3,7 +3,7 @@ title: 100 Nơi làm việc tốt nhất Việt Nam 2021
 draft: false
 date: 2022-01-07
 image: /images/uploads/vietnam_100_best_places_to_work_2021.jpg
-field_url: null
+field_url: https://www.anphabe.com/discussions/questions-answers/q/bang-xep-hang-100-noi-lam-viec-tot-nhat-viet-nam-2021/38173/answer
 ---
 **Anphabe** - công ty tư vấn tiên phong về giải pháp Thương hiệu Nhà tuyển dụng và Môi trường làm việc Hạnh phúc chính thức công bố kết quả bảng xếp hạng **100 Nơi làm việc tốt nhất Việt Nam 2021**. Chương trình khảo sát do Anphabe thực hiện với sự bảo trợ của Liên đoàn Thương mại và Công nghiệp Việt Nam (VCCI), cùng các đối tác đồng hành Unilever Việt Nam và Vinamilk. Phương pháp tính toán & kết quả xếp hạng do công ty nghiên cứu thị trường Intage Việt Nam kiểm chứng. 
 
