@@ -3,7 +3,7 @@ title: Vì sao các công ty tham gia Khảo sát Nơi làm việc tốt nhất 
 draft: false
 date: 2021-12-23
 image: /images/uploads/1.jpg
-field_url: null
+field_url: https://www.anphabe.com/discussions/questions-answers/q/vi-sao-cac-cong-ty-tham-gia-khao-sat-noi-lam-viec-tot-nhat-viet-nam/40510/answer
 ---
 *Tham gia khảo sát thì có chắc chắn được vào Top 100 Nơi làm việc tốt nhất Việt Nam? Vì sao hàng trăm công ty tham gia khảo sát này mỗi năm?*
 
