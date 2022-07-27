@@ -3,6 +3,7 @@ title: Vắc-xin gắn kết nhân viên thời khó
 draft: false
 date: 2021-11-01
 image: /images/uploads/vắc-xin.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/vac-xin-gan-ket-nhan-vien-thoi-kho/40521/answer
 ---
 *Những thách thức kinh tế, xã hội tác động không nhỏ đến tâm lý và sự đóng góp của người đi làm. Doanh nghiệp nên làm thế nào để đảm bảo an toàn, tạo sự an tâm và truyền lửa cho nhân viên cũng như sẵn sàng ứng biến trước mọi thay đổi? Chia sẻ từ tọa đàm: “Vắc-xin gắn kết nhân viên thời khó” với sự tham gia của 03 nữ giám đốc Nhân sự đến từ Sanofi, Lazada Việt Nam, Schneider Electric Việt Nam trong **[Hội nghị trực tuyến Vietnam Excellence 2021](https://www.youtube.com/watch?v=H2SL_92MGGw)** đem đến nhiều bài học thực tiễn.*  
 
