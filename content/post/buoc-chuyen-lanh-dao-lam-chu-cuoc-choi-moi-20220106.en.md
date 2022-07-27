@@ -3,7 +3,7 @@ title: Phẩm chất mới nhà lãnh đạo cần có
 draft: false
 date: 2022-01-06
 image: /images/uploads/toa-dam-cap-cao-lam-chu-cuoc-choi-moi.jpg
-field_url: null
+field_url: https://www.anphabe.com/discussions/questions-answers/q/pham-chat-moi-nha-lanh-dao-can/40528/answer
 ---
 *Lực lượng lao động đã thay đổi. Khách hàng cũng thay đổi. Thị trường càng thay đổi nhanh hơn bao giờ hết. Người lãnh đạo doanh nghiệp cần chuyển đổi như thế nào để đưa công ty bật dậy và phát triển bền vững.*
 
