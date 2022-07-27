@@ -3,6 +3,7 @@ title: Kết nối văn hóa tạo nên những nhân viên tự hào, tận tâ
 draft: false
 date: 2022-04-29
 image: /images/uploads/237119235_4901767183173262_4645759227063600846_n.jpeg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/ket-noi-van-hoa-tao-nen-nhung-nhan-vien-tu-hao-tan-tam-hon/39560/answer
 ---
 \*Trước ngày kỷ niệm 3 năm thành lập, **Miniso Mexico** (công ty có trụ sở tại Nhật Bản sau đó mở rộng sang Mexico) bắt tay vào hoạt động sắp xếp cơ cấu chính thức của tổ chức. Quá trình này bao gồm việc tìm kiếm một nền tảng truyền thông cho công ty để giao tiếp với nhân viên. Sau nhiều nghiên cứu thực tế, so sánh, đánh giá dịch vụ, đo lường số người tiếp cận và tác động của các nền tảng, **Miniso Mexico** quyết định chọn **Workplace from Meta** trở thành công cụ kết nối văn hóa, con người và tổ chức. Điều này đã tạo nên một “cuộc cách mạng trong truyền thông nội bộ và gắn kết” tổ chức tại **Miniso Mexico.***  
 
