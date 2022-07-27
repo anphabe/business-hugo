@@ -3,6 +3,7 @@ title: 5 bí quyết rút ngắn khoảng cách với nhân viên dù đang giã
 draft: false
 date: 2021-07-07
 image: /images/uploads/5-bí-quyết.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/5-bi-quyet-rut-ngan-khoang-cach-voi-nhan-vien-du-dang-gian-cach/40507/answer
 ---
 *Khắc phục tình trạng “xa mặt cách lòng”, cập nhật thông tin nhanh, quyết định kịp thời, giúp tổ chức linh hoạt ứng biến & vận hành không gián đoạn,... **Workplace From Facebook** còn có nhiều tính năng hữu ích khác giúp nối sợi dây gắn kết giữa lãnh đạo và nhân viên trong thời “giãn cách”.*
 
