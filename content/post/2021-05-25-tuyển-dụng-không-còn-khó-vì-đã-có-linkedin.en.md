@@ -3,6 +3,7 @@ title: "Tuyển dụng không còn khó vì đã có LinkedIn "
 draft: false
 date: 2021-05-25
 image: /images/uploads/file-deliver.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/tuyen-dung-khong-con-kho-vi-da-linkedin/40494/answer
 ---
 Với gần 700 triệu thành viên ở hơn 200 quốc gia trên thế giới, LinkedIn là mạng xã hội nghề nghiệp dành cho người đi làm lớn nhất hiện nay. Đặc biệt trong giai đoạn khó khăn do ảnh hưởng của đại dịch Covid-19, LinkedIn càng khẳng định vị thế trên hành trình chuyển đổi số của thị trường tuyển dụng.
 
