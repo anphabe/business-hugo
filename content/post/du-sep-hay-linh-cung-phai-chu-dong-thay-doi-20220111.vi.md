@@ -3,7 +3,7 @@ title: Dù sếp hay lính cũng phải chủ động thay đổi
 draft: false
 date: 2022-01-11
 image: /images/uploads/2022-01-11.png
-field_url: null
+field_url: https://www.anphabe.com/discussions/questions-answers/q/du-sep-hay-linh-cung-phai-chu-dong-thay-doi/40529/answer
 ---
 *Bạn có vài năm, thậm chí 10-20 năm kinh nghiệm đi làm thì tự tin không mất việc? Hãy nghĩ lại và sẵn sàng thay đổi, nâng cấp bản thân để không bị tụt hậu trong thị trường lao động và môi trường làm việc chuyển biến quá nhanh! Tham khảo ngay một số chia sẻ dưới đây của ông Hoàng Nam Tiến - Chủ tịch FPT Telecom về việc chủ động thay đổi khi cả thế giới đổi thay.*
 
