@@ -3,6 +3,7 @@ title: "Năm Covid-19 thứ hai: Doanh nghiệp và người đi làm bắt tay 
 draft: false
 date: 2021-05-10
 image: /images/uploads/1.-mức-độ-gắn-kết-nhân-viên-trên-thị-trường.png
+field_url: https://www.anphabe.com/discussions/questions-answers/q/covid-19-tac-dong-manh-den-hon-nhan-giua-nguoi-lao-dong-voi-doanh-nghiep/35743/answer
 ---
 *Người đi làm toàn tâm toàn ý đến đâu với công việc? Họ sẵn lòng chia sẻ khó khăn với công ty hay đang mơ về “ngọn đồi xanh” khác? Doanh nghiệp cần làm gì để duy trì gắn kết nội bộ và tiếp tục “vượt khó” trong thời gian sắp tới?* 
 
