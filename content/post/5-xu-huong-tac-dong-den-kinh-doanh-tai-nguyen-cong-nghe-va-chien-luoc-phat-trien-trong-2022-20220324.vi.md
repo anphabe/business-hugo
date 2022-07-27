@@ -4,7 +4,7 @@ title: 5 xu hướng tác động đến kinh doanh, tài nguyên công nghệ v
 draft: false
 date: 2022-03-24
 image: /images/uploads/financial_services_recruitment.jpg
-field_url: null
+field_url: https://www.anphabe.com/discussions/questions-answers/q/5-xu-huong-tac-dong-den-kinh-doanh-nguyen-cong-nghe-chien-luoc-phat-trien-trong-2022/40532/answer
 ---
 *2021 là năm đầy thách thức, buộc các doanh nghiệp phảI thích nghi với nhiều thay đổi. Năm 2022 chắc chắn sẽ có nhiều biến động, nhưng chúng ta có thể học được kinh nghiệm trước đây và dự đoán những thay đổi sắp tới.* 
 
