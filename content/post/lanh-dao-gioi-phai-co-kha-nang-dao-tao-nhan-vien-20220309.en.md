@@ -3,6 +3,7 @@ title: Lãnh đạo giỏi phải có khả năng đào tạo nhân viên
 draft: false
 date: 2022-03-09
 image: /images/uploads/team-of-3-shutterstock_418934287-672x372.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/lanh-dao-gioi-phai-kha-nang-dao-tao-nhan-vien/40530/answer
 ---
 Trải qua 4 đợt dịch, người đi làm trong nước đã buộc phải thay đổi đáng kể cách làm việc, trong đó tỷ lệ Làm việc tại nhà vẫn là 33%, Làm việc văn phòng là 26% và phổ biến nhất là Làm việc Kết Hợp 41%. Khi được hỏi là: “sau giãn cách, khi không còn buộc phải làm việc tại nhà thì anh chị thích cách thức làm việc nào nhất”, hình thức LÀM VIỆC KẾT HỢP – Hybrid Work – nay làm văn phòng, mai làm từ nhà được người đi làm VN yêu thích nhất với 56% lựa chọn. Chỉ có 40% mong muốn quay lại công sở hoàn toàn. Đáng chú ý là có 4% người đi làm chọn là sẽ nghỉ việc luôn để trở thành lao động tự do, và khi đó, có thể làm việc linh hoạt tại nơi nào họ thích. 
 
