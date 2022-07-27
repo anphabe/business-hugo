@@ -3,7 +3,7 @@ title: "Đau đầu chuyện ngân sách tuyển dụng hậu COVID-19  "
 draft: false
 date: 2022-04-08
 image: /images/uploads/calculating-budget.jpg
-field_url: null
+field_url: https://www.anphabe.com/discussions/questions-answers/q/dau-dau-chuyen-ngan-sach-tuyen-dung-hau-covid-19/40536/answer
 ---
 *Năm 2019, LinkedIn đã đưa ra những dự đoán về các chuyển biến quan trọng của ngành tuyển dụng trong vòng 5 năm tới. Tuy nhiên, không ai nghĩ rằng COVID-19 sẽ xuất hiện và ảnh hưởng sâu sắc đến các hoạt động tuyển dụng, đặc biệt là việc phân bổ ngân sách và tạo nên những thay đổi đáng chú ý như hiện nay.* 
 
