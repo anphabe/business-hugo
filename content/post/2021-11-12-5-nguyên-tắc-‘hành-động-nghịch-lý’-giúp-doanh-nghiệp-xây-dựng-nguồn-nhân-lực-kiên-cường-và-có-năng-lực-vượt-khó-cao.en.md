@@ -4,6 +4,7 @@ title: " 5 nguyên tắc ‘hành động nghịch lý’ giúp doanh nghiệp x
 draft: true
 date: 2021-11-12
 image: /images/uploads/boa.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/5-nguyen-tac-hanh-dong-nghich-ly-giup-doanh-nghiep-xay-dung-nguon-nhan-luc-kien-cuong-nang-luc-vuot-kho-cao/40508/answer
 ---
 
 

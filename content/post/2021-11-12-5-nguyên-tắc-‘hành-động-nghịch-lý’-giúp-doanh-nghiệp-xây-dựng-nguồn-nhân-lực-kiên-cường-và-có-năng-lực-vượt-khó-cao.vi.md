@@ -4,6 +4,7 @@ title: " 5 nguyên tắc ‘hành động nghịch lý’ giúp doanh nghiệp x
 draft: false
 date: 2021-11-12
 image: /images/uploads/boa.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/5-nguyen-tac-hanh-dong-nghich-ly-giup-doanh-nghiep-xay-dung-nguon-nhan-luc-kien-cuong-nang-luc-vuot-kho-cao/40508/answer
 ---
 Trong cơn đại dịch Covid-19, tâm lý người đi làm đang biến động như thế nào trước chính sách lương thưởng? Các CEO và quản lý nhân sự có thể làm gì để gắn kết nhân viên và giúp tổ chức vững vàng hơn mà không chỉ dựa vào lương tiền? Thông tin cập nhật từ **[Hội nghị trực tuyến Vietnam Excellence 2021](https://www.youtube.com/watch?v=H2SL_92MGGw)** – Ngược gió vươn cao, do Anphabe tổ chức hé lộ nhiều nội dung đáng chú ý. 
 
