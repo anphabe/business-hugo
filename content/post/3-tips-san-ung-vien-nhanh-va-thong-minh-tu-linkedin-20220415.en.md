@@ -3,6 +3,7 @@ title: "3 tips săn ứng viên nhanh và thông minh từ LinkedIn  "
 draft: false
 date: 2022-04-15
 image: /images/uploads/shutterstock_408452584-768x610.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/3-tips-san-ung-vien-nhanh-thong-minh-tu-linkedin/40545/answer
 ---
 *Nỗi đau của người làm tuyển dụng khi sourcing (tạo nguồn và tìm kiếm ứng viên): Tìm hoài, tìm mãi mà chẳng thấy người phù hợp, hay tìm được rồi nhưng cuối cùng lại “không thuộc về nhau”. Làm thế nào để trang bị cho mình một chiếc “nam châm” tìm ứng viên trong thị trường tuyển dụng eo hẹp và cạnh tranh như hiện nay?*  
 
