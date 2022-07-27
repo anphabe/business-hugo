@@ -3,7 +3,7 @@ title: Tổ chức của bạn có đang gắn kết?
 draft: false
 date: 2022-04-08
 image: /images/uploads/employee-engagement-lessons.png
-field_url: null
+field_url: https://www.anphabe.com/discussions/questions-answers/q/chuc-ban-dang-gan-ket/40533/answer
 ---
 *Sự gắn kết nhân viên (Employee Engagement) là khái niệm chỉ sự tương tác, kết nối và gắn bó giữa các cá nhân với tổ chức, doanh nghiệp. Tổ chức có mức độ gắn kết càng cao, càng phát triển bền vững và thúc đẩy sự cam kết, sáng tạo, năng suất làm việc và tính chủ động của nhân viên.* 
 
