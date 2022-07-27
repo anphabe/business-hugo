@@ -3,6 +3,7 @@ title: Mở tư duy - Dám thử nghiệm
 draft: false
 date: 2021-11-01
 image: /images/uploads/pic6.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/mo-tu-duy-dam-thu-nghiem/40523/answer
 ---
 *Từ một thương hiệu lâu đời và có phần truyền thống, Biti’s chuyển mình mạnh mẽ trở thành thương hiệu giày “quốc dân” được giới trẻ ưa chuộng hiện nay. Thành công trên hành trình chuyển giao này không thể thiếu dấu ấn của nữ CEO trẻ tuổi Vưu Lệ Quyên và tinh thần mở tư duy, dám thử nghiệm được thấm nhuần trong toàn tổ chức.*
 
