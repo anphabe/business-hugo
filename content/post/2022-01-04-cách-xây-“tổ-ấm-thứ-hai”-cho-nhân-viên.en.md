@@ -3,7 +3,7 @@ title: Cách xây “tổ ấm thứ hai” cho nhân viên
 draft: false
 date: 2022-01-04
 image: /images/uploads/the-nest-of-choice.jpg
-field_url: null
+field_url: https://www.anphabe.com/discussions/questions-answers/q/cach-xay-am-thu-hai-cho-nhan-vien/40524/answer
 ---
 *Ngày nay, người đi làm không chỉ tìm kiếm một nơi làm việc để có thu nhập hoặc phát triển sự nghiệp. Đại dịch đã khiến họ kỳ vọng nhiều hơn vào những gì công ty có thể làm, từ sắp xếp tiêm chủng, chăm sóc sức khỏe tinh thần cho đến các hỗ trợ cần thiết khác. Càng hiểu và nắm bắt được những xu hướng này, công ty càng có nhiều lợi thế hơn trong việc chinh phục trái tim nhân tài.* 
 
