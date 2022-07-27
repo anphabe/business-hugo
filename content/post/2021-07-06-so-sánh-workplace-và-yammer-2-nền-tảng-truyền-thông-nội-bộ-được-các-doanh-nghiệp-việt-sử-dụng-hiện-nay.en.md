@@ -4,6 +4,7 @@ title: "So sánh Workplace và Yammer: 2 nền tảng truyền thông nội bộ
 draft: false
 date: 2021-07-06
 image: /images/uploads/wp-vs-yammer-copy.png
+field_url: https://www.anphabe.com/discussions/questions-answers/q/so-sanh-workplace-yammer-2-nen-tang-truyen-thong-noi-bo-duoc-cac-doanh-nghiep-viet-su-dung-hien-nay/35173/answer
 ---
 *Workplace và Yammer đều là những nền tảng mạng xã hội nội bộ dành cho doanh nghiệp với mục đích gắn kết mọi người trong toàn tổ chức. Cả hai đều mang tính bảo mật vì chỉ có những người trong tổ chức được cấp phép, có địa chỉ email được phê duyệt thì mới đăng nhập để sử dụng. Tuy nhiên, mỗi nền tảng lại có những ưu điểm khác nhau khiến không ít anh, chị quản lý doanh nghiệp đau đầu nên sử dụng loại nào?*
 
