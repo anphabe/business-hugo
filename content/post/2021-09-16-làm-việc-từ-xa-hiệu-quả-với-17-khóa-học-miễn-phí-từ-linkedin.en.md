@@ -3,6 +3,7 @@ title: " Làm việc từ xa hiệu quả với 17 khóa học miễn phí từ 
 draft: false
 date: 2021-09-16
 image: /images/uploads/linkedin.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/17-khoa-hoc-mien-phi-tu-linkedin-giup-ban-het-la-ga-mo-khi-work-home/36380/answer
 ---
 *Vừa giúp nhân viên tránh cảm giác buồn chán, tối ưu hóa hiệu suất làm việc khi work from home, 17 khóa học miễn phí từ LinkedIn còn giúp người quản lý có thêm nhiều tips dễ dàng theo dõi và nâng cao hiệu quả làm việc của cả nhóm.* 
 
