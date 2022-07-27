@@ -3,6 +3,7 @@ title: "Giải quyết bài toán “tuyển dụng nhân sự ngành công ngh�
 draft: false
 date: 2022-04-29
 image: /images/uploads/1200px-junction_2015.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/giai-quyet-bai-toan-tuyen-dung-nhan-su-nganh-cong-nghe-cung-linkedin/40503/answer
 ---
 *Tình trạng “khát” nhân lực ngành công nghệ, đặc biệt là nhân sự cấp cao vẫn là câu chuyện khiến nhiều nhà tuyển dụng phải đau đầu. Bài viết dưới đây sẽ tổng hợp 4 bước tuyển dụng nhân tài công nghệ hiệu quả với LinkedIn Recruiter để giúp doanh nghiệp giải quyết triệt để trăn trở này.* 
 
