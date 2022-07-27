@@ -4,6 +4,7 @@ title: "Người đi làm trong đại dịch: Gen Y - thế hệ có chỉ số
 draft: false
 date: 2022-03-10
 image: /images/uploads/gen-y-the-he-hanh-phuc-thap-nhat.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/nguoi-di-lam-trong-dai-dich-gen-y-he-chi-so-hanh-phuc-noi-cong-so-thap-nhat/40531/answer
 ---
 *Sau thời gian dài đồng hành cùng doanh nghiệp vượt bão Covid-19, người đi làm dù hài lòng với nỗ lực của tổ chức nhưng vẫn cảm thấy chông chênh, bất an và cần được kết nối.* 
 
