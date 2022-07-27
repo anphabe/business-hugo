@@ -3,6 +3,7 @@ title: Quảng bá thương hiệu nhà tuyển dụng hiệu quả trên Linked
 draft: false
 date: 2021-09-14
 image: /images/uploads/eb.png
+field_url: https://www.anphabe.com/discussions/questions-answers/q/quang-ba-thuong-hieu-nha-tuyen-dung-hieu-qua-tren-linkedin-ban-da-biet-cach/40518/answer
 ---
 ***Là mạng xã hội nghề nghiệp dành cho người đi làm lớn nhất thế giới với hơn 774 triệu thành viên, LinkedIn là mảnh đất màu mỡ để thu hút ứng viên tiềm năng đồng thời quảng bá thương hiệu nhà tuyển dụng (THNTD) hiệu quả cho công ty. Cụ thể, chúng ta nên bắt đầu từ đâu?***
 
