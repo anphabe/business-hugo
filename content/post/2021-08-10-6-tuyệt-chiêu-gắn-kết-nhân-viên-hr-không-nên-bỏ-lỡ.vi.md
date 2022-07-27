@@ -3,6 +3,7 @@ title: 6 cách gắn kết nhân viên hiệu quả, HR không nên bỏ lỡ!
 draft: false
 date: 2021-08-10
 image: /images/uploads/shutterstock_1930884182.jpg
+field_url: https://www.anphabe.com/discussions/questions-answers/q/6-cach-gan-ket-nhan-vien-hieu-qua-hr-khong-nen-bo-lo/40516/answer
 ---
 *Nhiệm vụ trao quyền, tạo động lực và giữ chân nhân tài trong tổ chức sẽ không còn khó khăn nếu công ty có một không gian chung để lãnh đạo & nhân viên cùng chia sẻ và cất lên tiếng nói.* 
 
