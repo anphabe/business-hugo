@@ -3,7 +3,7 @@ title: "LinkedIn Job Slots hỗ trợ doanh nghiệp tuyển dụng như thế n
 draft: false
 date: 2022-04-29
 image: /images/uploads/5d6ec1f82e22af089650ae42.jpg
-field_url: null
+field_url: https://www.anphabe.com/discussions/questions-answers/q/linkedin-job-slots-ho-tro-doanh-nghiep-tuyen-dung-nhu-nao/40504/answer
 ---
 ***LinkedIn** là trang mạng xã hội dành cho người đi làm lớn nhất thế giới với chất lượng ứng viên được đánh giá hàng đầu. Vì vậy, việc khai thác thành công bể nhân tài từ **LinkedIn** chắc chắn sẽ mang lại lợi thế to lớn cho doanh nghiệp trong công tác tuyển dụng.*  
 
