@@ -3,7 +3,7 @@ title: Ba bước chuyển lớn của nguồn nhân lực Việt Nam
 draft: false
 date: 2022-01-04
 image: /images/uploads/16-9-preso.jpg
-field_url: null
+field_url: https://www.anphabe.com/discussions/questions-answers/q/ba-buoc-chuyen-lon-nguon-nhan-luc-viet-nam/40526/answer
 ---
 *Người đi làm không còn mặn mà trở lại công sở, thay vào đó họ kỳ vọng nhiều hơn vào những phương thức làm việc mới sau đại dịch, đồng thời cũng đang có hiện tượng nghỉ việc ồ ạt. Những dịch chuyển này tác động thế nào đến kế hoạch nguồn nhân lực và định hướng tương lai công việc tại các công ty?* 
 
