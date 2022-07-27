@@ -3,7 +3,7 @@ title: "RHB tăng hơn 40% mức độ tương tác với nhân viên nhờ Work
 draft: false
 date: 2022-04-29
 image: /images/uploads/anyconv.com__f3f21b6e-06db-424d-9eee-b2e853357889.jpeg
-field_url: null
+field_url: https://www.anphabe.com/discussions/questions-answers/q/rhb-tang-hon-40-muc-do-tuong-tac-voi-nhan-vien-nho-workplace-meta/40548/answer
 ---
 *Mặc dù đã có cổng thông tin riêng dành cho nhân viên, nhưng mức độ tương tác trong tổ chức vẫn là một thử thách đối với **RHB**. Những hạn chế như: thông tin liên lạc một chiều, chưa xây dựng mối quan hệ thân thiết giữa các chi nhánh và đội ngũ của ngân hàng trên khắp các cơ sở hoạt động tại Singapore… đã buộc **RHB** phải tìm kiếm một nền tảng giao tiếp mở mới để tương tác 2 chiều và nhân viên có thể dễ dàng sử dụng mà không cần đào tạo.* 
 
