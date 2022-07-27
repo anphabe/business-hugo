@@ -3,7 +3,7 @@ title: "Sử dụng LinkedIn Recruiter, nhà tuyển dụng được gì? "
 draft: false
 date: 2022-04-29
 image: /images/uploads/linkedin-sales-solutions-p23-vi_mhpm-unsplash-1.jpg
-field_url: null
+field_url: https://www.anphabe.com/discussions/questions-answers/q/su-dung-linkedin-recruiter-nha-tuyen-dung-duoc-gi/40505/answer
 ---
 **\*LinkedIn Recruiter** là giải pháp tuyển dụng đến từ **LinkedIn** - mạng xã hội cho người đi làm lớn nhất thế giới, cho phép nhà tuyển dụng tìm kiếm, kết nối trực tiếp, đồng thời lưu trữ và quản lý nguồn ứng viên của mình bằng những tính năng ưu việt. Đây được xem là công cụ giúp HR nội bộ trở thành Headhunter với chi phí tối ưu và hiệu quả. Cụ thể, **LinkedIn Recruiter** giúp nhà tuyển dụng tận dụng kho dữ liệu khổng lồ từ LinkedIn trong công cuộc “săn ứng viên”, xây bể nhân tài chất lượng như thế nào?*
 
