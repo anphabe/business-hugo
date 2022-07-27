@@ -3,7 +3,7 @@ title: Vì sao nhiều doanh nghiệp khó triển khai “học tập trọn đ
 draft: false
 date: 2022-01-10
 image: /images/uploads/mai-phuong.png
-field_url: null
+field_url: https://www.anphabe.com/discussions/questions-answers/q/vi-sao-nhieu-doanh-nghiep-kho-trien-khai-hoc-tap-tron-doi/38291/answer
 ---
 *Học tập trọn đời – nói thì dễ, nhưng thực tế không nhiều doanh nghiệp triển khai hiệu quả. Vì sao như vậy? Bà Trịnh Mai Phương – Phó chủ tịch phụ trách Nhân sự của Unilever Việt Nam đã có bài chia sẻ, chỉ ra điểm mấu chốt giúp doanh nghiệp “nói được là làm được” với “học tập trọn đời”.* 
 
