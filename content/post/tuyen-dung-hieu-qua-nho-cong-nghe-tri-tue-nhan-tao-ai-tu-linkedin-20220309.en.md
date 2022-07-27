@@ -3,7 +3,7 @@ title: Tuyển dụng hiệu quả nhờ công nghệ trí tuệ nhân tạo (AI
 draft: false
 date: 2022-03-09
 image: /images/uploads/linkedin-ai-.jpg
-field_url: null
+field_url: https://www.anphabe.com/discussions/questions-answers/q/tuyen-dung-hieu-qua-nho-cong-nghe-tri-tue-nhan-tao-ai-tu-linkedin/40432/answer
 ---
 *Công nghệ lên ngôi, tuyển dụng lên trình. Thay vì những cách làm truyền thống mất nhiều thời gian, công sức nhưng vẫn khó tiếp cận được nguồn ứng viên chất lượng, đáp ứng đủ số lượng yêu cầu, LinkedIn Recruiter giúp đơn giản quy trình và gia tăng hiệu quả tuyển dụng với sự hỗ trợ từ công nghệ trí tuệ nhân tạo tiên tiến nhất.* 
 
